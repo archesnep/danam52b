@@ -12,7 +12,8 @@ services:
         - arches-log:/arches/arches/logs
         - arches-static:/static_root
         - ./docker:/web_root/docker
-        - ./danam:/web_root/danam
+        - ./danams:/web_root/danams
+        #- ./danam:/web_root/danam
         - arches-uploadedfiles:/web_root/danam/danam/uploadedfiles
         - ./docker/entrypoint.sh:/web_root/entrypoint.sh
       env_file:
@@ -38,13 +39,10 @@ services:
         - letsencrypt-acme-challenge:/var/www
         - letsencrypt:/etc/letsencrypt
         - ./install:/install
-        - ./cart-html:/www/html/
-
       env_file:
         - ./docker/env_file.env
       depends_on:
         - arches
-        - fpm
 
     db:
       container_name: db
@@ -107,80 +105,63 @@ services:
       env_file:
         - ./docker/env_file.env
 
-    mariadb:
-      container_name: mariadb
-      image: docker.io/bitnami/mariadb:10.3
-      environment:
-        - ALLOW_EMPTY_PASSWORD=yes
-        - MARIADB_USER=bn_opencart
-        - MARIADB_DATABASE=bitnami_opencart
+    geoserver:
+      image: kartoza/geoserver:2.17.0
+      container_name: geoserver
       volumes:
-        - 'mariadb_data:/bitnami/mariadb'
-
-    fpm:
-      container_name: fpm
-      image: bitnami/opencart:3.0.3-6
+        - ./docker-geoserver/data_dir:/opt/geoserver/data_dir
       ports:
         - "127.0.0.1:8080:8080"
-        - "127.0.0.1:9000:443"
-      environment:
-      - OPENCART_HOST=nhdp-test.kjc.uni-heidelberg.de/bazaar
-      - OPENCART_DATABASE_HOST=mariadb
-      - OPENCART_DATABASE_PORT_NUMBER=3306
-      - OPENCART_DATABASE_USER=bn_opencart
-      - OPENCART_DATABASE_NAME=bitnami_opencart
-      - ALLOW_EMPTY_PASSWORD=yes
-      - NAMI_DEBUG="--log-level=debug"
-      volumes:
-        - 'opencart_data:/bitnami/opencart'
-        - 'opencart_storage_data:/bitnami/opencart_storage/'
-      depends_on:
-        - mariadb
-
+      restart: on-failure
+      env_file:
+        - ./docker-geoserver/docker-env/geoserver.env
+      healthcheck:
+        test: curl --fail -s http://localhost:8080/ || exit 1
+        interval: 1m30s
+        timeout: 10s
+        retries: 3
+    
 volumes:
-    arches-log:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/arches-log
-    arches-static:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/static
-    arches-uploadedfiles: 
-      driver: local-persist
-      driver_opts:
-        mountpoint: /srv/uploadedfiles
-    couchdb-data:
-    couchdb-log:
-    postgres-data:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/postgres-data
-    postgres-log:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/postgres-log
-    elasticsearch-data:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/elasticsearch-data
-    rabbitmq-data:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/rabbitmq-data
-    rabbitmq-log:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/rabbitmq-log
-    letsencrypt:
-      driver: local-persist
-      driver_opts:
-        mountpoint: /media/volumes/letsencrypt
-    letsencrypt-log:
-    letsencrypt-acme-challenge:
-    mariadb_data:
-      driver: local
-    opencart_data:
-      driver: local
-    opencart_storage_data:
-      driver: local
+  arches-log:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_arches-log
+  arches-static:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/static
+  arches-uploadedfiles: 
+    driver: local-persist
+    driver_opts:
+      mountpoint: /srv/uploadedfiles
+  couchdb-data:
+  couchdb-log:
+  postgres-data:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_postgres-data
+  postgres-log:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_postgres-log
+  elasticsearch-data:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_elasticsearch-data
+  rabbitmq-data:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_rabbitmq-data
+  rabbitmq-log:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_rabbitmq-log
+  letsencrypt:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_letsencrypt
+  letsencrypt-log:
+  letsencrypt-acme-challenge:
+    driver: local-persist
+    driver_opts:
+      mountpoint: /media/volumes/arches_letsencrypt_acme-challenge
