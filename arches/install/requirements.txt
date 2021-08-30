@@ -28,5 +28,5 @@ django_compressor==2.2
 django-libsass==0.7
 django-crispy-forms==1.9.2
 django-tinymce==3.1.0
-supervisor>=4.2.2
 django-multiselectfield>=0.1.12
+supervisor>=4.2.2
