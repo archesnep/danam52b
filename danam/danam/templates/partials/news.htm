@@ -1,0 +1,1319 @@
+{% load static %}
+{% load template_tags %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>{{ app_settings.APP_NAME }} - News</title>
+
+	<meta name="keywords" content="DANAM NEWS" />
+	<meta name="description" content="Nepal Heritage Documentation Project">
+	<meta name="author" content="NHDP">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="{% static 'img/favicon.ico' %}" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="{% static 'img/apple-touch-icon.png' %}">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+
+
+
+	<!-- Vendor CSS -->
+	{% include 'partials/css.htm' %}
+	<!-- Theme CSS -->
+	<!-- Web Fonts  -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
+		rel="stylesheet" type="text/css">
+
+	<!-- Skin CSS -->
+
+
+	<!-- Theme Custom CSS -->
+
+	<!-- Head Libs -->
+	<script src="{% static 'js/vendor/modernizr/modernizr.min.js' %}"></script>
+
+</head>
+
+<body>
+
+	<div class="body">
+		{% include 'partials/danam_navbar.htm' %}
+
+		<div role="main" class="main">
+
+			<section
+				class="page-header page-header-modern page-header-background page-header-background-pattern page-header-background-sm overlay overlay-color-dark overlay-show overlay-op-5"
+				style="background-image: url({% static 'img/patterns/random_grey_variations.png' %});">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-12 align-self-center p-static order-2 text-center">
+
+							<h1 class=" font-weight-bold text-8">NHDP News</h1>
+							<span class="sub-title ">Check out our Latest News!</span>
+						</div>
+
+						<div class="col-md-12 align-self-center order-1">
+
+							<!--	<ul class="breadcrumb d-block text-center">
+									<li><a href="#">Home</a></li>
+									<li class="active">Blog</li>
+								</ul> -->
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<div class="container py-4">
+
+				<div class="row">
+					<div class="col">
+						<div class="blog-posts">
+
+							<section class="timeline">
+								<div class="timeline-body">
+									<!-- OCTOBER 2020 news content -->
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">OCTOBER 2020</h3>
+									</div>
+									<!-- Damages in heritage buildings in lalitpur -->
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="{% url 'damage_heritage' %}">
+															<img src="{% static '/img/news-portal/damageinheritage.jpeg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'damage_heritage' %}">Research based on NHDP
+																Published</a></h2>
+														<p>
+															We are excited to announce that Prof. Dr. Christiane
+															Brosius and Prof. Dr. Axel Michaels have published an
+															article based on NHDP’s work. It is great to see that DANAM
+															as a database can be used in research-based publications.
+															<a href="https://www.mdpi.com/2071-1050/12/20/8720" target="_blank">here</a>.
+														</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> October 17, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'damage_heritage' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!-- SEPTEMBER 2020 news content -->
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold"> SEPTEMBER 2020</h3>
+									</div>
+									<!--  New Project Anthropology of Inscriptions -->
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="{% url 'anthro_project' %}"
+															class="d-block btn btn-primary btn-outline border-0 rounded-0 font-weight-bold text-center text-4 p-2">
+															New Project on the Anthropology of
+															Inscriptions in the Kathmandu Valley</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content mb-0">
+														<p>
+															Christiane Brosius and Astrid Zotter receive a nine-month
+															seed funding for a new project on the “Anthropology of
+															Inscriptions: Memory and Cultural Heritage in the Public
+															Sphere” within the frame of the Flagship Initiative
+															“Transforming Cultural Heritage”, which Simon Cubelic will
+															also join as research fellow. The rich inscription heritage
+															of Kathmandu Valley dates back to the 2nd century AD. Up to
+															the present day, inscriptions are omnipresent in Nepal’s....
+														</p>
+
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> Sep 16, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'anthro_project' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!-- NHDP extension news content -->
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<div class="owl-carousel owl-theme show-nav-hover dots-inside nav-inside nav-style-1 nav-light mb-0"
+															data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': true}">
+															<div>
+																<div class="img-thumbnail border-0 p-0 d-block">
+																	<img class="img-fluid border-radius-0"
+																		src="{% static 'img/news-portal/extension1.jpeg' %}"
+																		alt="">
+																</div>
+															</div>
+															<div>
+																<div class="img-thumbnail border-0 p-0 d-block">
+																	<img class="img-fluid border-radius-0"
+																		src="{% static 'img/news-portal/extension2.jpeg' %}"
+																		alt="">
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'project_extension' %}">NHDP Granted
+																Six-Year
+																Extension</a></h2>
+														<p>NHDP has received a grant to continue its work for six more
+															years. The new grant will allow us to continue the work in
+															the Kathmandu valley, and expand it to western Nepal and
+															other places that are culturally and historically related to
+															the Kathmandu valley.
+														</p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> SEP 04, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'project_extension' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!-- JUNE 2020 news content -->
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">MAY 2020</h3>
+									</div>
+									<!-- SAI NEWS letter -->
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="{% static 'img/news-portal/Newsletter_15_web.pdf' %}"
+															class="d-block btn btn-primary btn-outline border-0 rounded-0 font-weight-bold text-center text-4 p-2"
+															target="_blank"> News about reopening of the Char Naryan
+															temple in
+															Patan in January printed in SAI Newsletter</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content mb-0">
+														<p>
+															Ceremonial reopening of
+															the Char Narayan Temple in
+															Patan in January</p>
+
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> May 15, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!--March 2020 news content-->
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">March 2020</h3>
+									</div>
+									<!-- PM of Nepal visiting Hamburg university -->
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="{% static 'img/news-portal/Programme -PM Oli.pdf' %}"
+															class="d-block btn btn-primary btn-outline border-0 rounded-0 font-weight-bold text-center text-4 p-2"
+															target="_blank">CLICK HERE TO OPEN THE PROGRAMME DETAILS</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content text-justify">
+														<h2 class="font-weight-semibold text-4 line-height-3 mt-2 mb-2">
+															<p>NHDP has been invited to present its work at the
+																Visit of the Right Honourable Mr KP Sharma Oli, Prime
+																Minister of Nepal, to Hamburg on April 28, 2020</p>
+														</h2>
+														<p>
+															Directors of the Nepal Heritage Documentation Project (NHDP)
+															Prof Dr Axel Michaels and Prof Dr Christiane Brosius have
+															been invited to present the work of the NHDP at a meeting
+															with the Right Honourable MR KP Sharma Oli, Prime Minister
+															of Nepal and His Excellency Mr Ramesh Prasad Khanal,
+															Ambassador of Nepal to Germany. This will take place at the
+															Center of the Study of Manuscript Cultures at the University
+															of Hamburg and promises to be an exciting and insightful
+															event. ​
+														</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> March 15, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!-- Danam fetaured on arches website -->
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="https://www.archesproject.org/implementations-of-arches/"
+															class="d-block btn btn-primary btn-outline border-0 rounded-0 font-weight-bold text-center text-4 p-2"
+															target="_blank">CLICK HERE FOR THE LINK</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<p>NHDP features now as a sample of implementations on
+															ARCHES Homepage.</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> March 01, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+									<!--Janaurary 2020 news content-->
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">January 2020</h3>
+									</div>
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<blockquote class="blockquote-primary">
+															<p>Talk by Prof. Christiane Brosius in the lecture series
+																"Cultural Heritages of Human kind"
+															</p>
+														</blockquote>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">Talk by Prof. Christiane Brosius in the lecture
+																series ‘Cultural Heritages of Human kind’</a></h2>
+														<p>On January 27, 2020, Prof. Dr. Christiane Brosius, director
+															of the Nepal Heritage Documentation Project presents a talk
+															about ‘Documenting Cultural Heritage: Urbanisation and
+															Natural Disasters in the Case of Nepal” (Kulturerbe
+															dokumentieren: Urbanisierung und Naturkatastrophen am
+															Beispiel Nepal) in the lecture series ‘Cultural Heritages of
+															Human kind’ organised by the Heidelberg Centre for Cultural
+															Heritage.</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> January 27, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<div class="lightbox"
+															data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}, 'mainClass': 'mfp-with-zoom', 'zoom': {'enabled': true, 'duration': 300}}">
+															<div class="row mx-0">
+																<div class="col-6 col-md-4 p-0">
+																	<a href="{% static 'img/news-portal/1.jpeg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/1.jpeg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a href="{% static 'img/news-portal/2.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/2.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a href="{% static 'img/news-portal/4.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/4.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">Ceremonial reopening of the Char Narayan Temple
+																in Patan on 29.01.2020</a></h2>
+														<p>The <a
+																href="https://nhdp-test.kjc.uni-heidelberg.de/report/3440946e-e936-11e9-b125-0242ac130002"
+																target="_blank">Char Narayana temple </a>(built in 1566)
+															is the oldest multi-tiered temple on Patan Darbar Square. It
+															was completely destroyed by the 2015 earthquake. In a
+															remarkable effort, and within weeks after the earthquake,
+															the <a href="https://kvptnepal.org/"
+																target="_blank">Kathmandu
+																Valley Preservation Trust
+																(KVPT)</a> and the <a href="http://www.doa.gov.np/"
+																target="_blank">Department of Archaeology (Government of
+																Nepal)</a> enabled its reconstruction, preserving and
+															reusing all those historical materials that had been
+															rescued.<br />The 35 month-long rebuilding effort, executed
+															by over 100 craftsmen, workers and professionals, was also
+															facilitated with the support of <a
+																href="http://saihelpnepal.com/en/" target="_blank">SAI
+																HELP NEPAL</a>, the post-earthquake fundraising
+															initiative at the South Asia Institute, Heidelberg
+															University.<br /> The inauguration will take place in the
+															presence of the Nepalese Minister of Culture and the U.S.
+															Ambassador on 29 January 2020. NHDP is proud that several of
+															its team members have also been involved in the HelpNepal
+															initiative.<br /> A more <a
+																href="https://nhdp-test.kjc.uni-heidelberg.de/report/3440946e-e936-11e9-b125-0242ac130002"
+																target="_blank"> detailed documentation of the monument
+															</a>can be found in our open access database <a
+																href="https://nhdp-test.kjc.uni-heidelberg.de/"
+																target="_blank">DANAM</a>.</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> January 26, 2020
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+											<!-- <div class="row">
+											 <div class="col">
+													<a href="{% url 'project_launch' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div> -->
+										</div>
+									</article>
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">December 2019</h3>
+									</div>
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<blockquote class="blockquote-primary">
+															<p>New article "Why Cultural Heritage must be Documented" by
+																Prof. Christiane Brosius in Ruperto Carola.
+															</p>
+														</blockquote>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="https://heiup.uni-heidelberg.de/journals/index.php/rupertocarola/article/view/24097/17806"
+																target="_blank">New article by Prof. Christiane Brosius
+																in Ruperto Carola</a></h2>
+														<p>NHDP Director Christiane Brosius published an article in the
+															latest volume of Ruperto Carola where she addresses the
+															importance of systematic documentation of cultural heritage
+															for reconstruction after catastrophic events. She highlights
+															the relevance of NHDP in contexts such as Nepal after the
+															earthquakes that hit the country in 2015. Click here for <a
+																href="https://heiup.uni-heidelberg.de/journals/index.php/rupertocarola/article/view/24097/17806"
+																target="_blank"> PDF </a> and <a
+																href="https://heiup.uni-heidelberg.de/journals/index.php/rupertocarola/article/view/24097"
+																target="_blank"> DOI </a>. </p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> DECEMBER 16, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<a href="{% url 'giz' %}">
+															<img src="{% static '/img/news-portal/giz.jpg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'giz' %}">Nashib Kafle takes part in GIZ
+																workshop</a></h2>
+														<p>NHDP team coordinator in Kathmandu, Nashib Kafle,
+															participated in the workshop Nashib Kafle takes part in GIZ
+															workshop (Knowledge Sharing for Sustainable Development)
+															organized by the Centre for International Migration and
+															Development in cooperation with the GIZ.</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> December 6, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'giz' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">October 2019</h3>
+									</div>
+
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="{% url 'ambassador_visit' %}">
+															<img src="{% static '/img/news-portal/ambassadorvisit.jpeg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'ambassador_visit' %}">The German Ambassador
+																visit</a></h2>
+														<p>The German Ambassador Roland Schäfer and Cultural Attachée
+															Paul Werner are visiting the Nepal Research Bhawan.</p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> October 18, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'ambassador_visit' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+
+
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">May 2019</h3>
+									</div>
+
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<div class="owl-carousel owl-theme show-nav-hover dots-inside nav-inside nav-style-1 nav-light mb-0"
+															data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': true}">
+															<div>
+																<div class="img-thumbnail border-0 p-0 d-block">
+																	<img class="img-fluid border-radius-0"
+																		src="{% static 'img/news-portal/Brucevisit1.jpg' %}"
+																		alt="">
+																</div>
+															</div>
+															<div>
+																<div class="img-thumbnail border-0 p-0 d-block">
+																	<img class="img-fluid border-radius-0"
+																		src="{% static 'img/news-portal/Brucevisit2.jpg' %}"
+																		alt="">
+																</div>
+															</div>
+															<div>
+																<div class="img-thumbnail border-0 p-0 d-block">
+																	<img class="img-fluid border-radius-0"
+																		src="{% static 'img/news-portal/Brucevisit3.jpg' %}"
+																		alt="">
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'workshop_bruce' %}">Workshop and Lecture
+																with Bruce McCoy Owens</a></h2>
+														<p>Bruce McCoy Owens, associate professor of Anthropology at
+															Wheaton College,
+															visited the HCTS to participate in a workshop on DANAM and
+															to give a lecture on “Intangible
+															Heritage and Visual Repatriation”. He was hosted by the NHDP
+															project and the professorship of Visual and Media
+															Anthropology. </p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> May 22-23, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'workshop_bruce' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+
+
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">March 2019</h3>
+									</div>
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="#">
+															<img src="{% static '/img/news-portal/Default.jpg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">NHDP at E-Science Days in
+																Heidelberg</a></h2>
+														<p>From March 27-29, the Heidelberg <a
+																href="https://e-science-tage.de/de/startseite"
+																target="_blank">E-Science
+																Days</a> 2019: "Data to Knowledge" will take place at
+															the
+															Neue Universität. On Thursday, <a
+																href="http://www.asia-europe.uni-heidelberg.de/de/personen/administration/zentrales-clusterbuero-personendetails/persdetail/chebbi.html"
+																target="_blank"> Ina Buchholz-Chebbi</a> and <a
+																href="http://www.asia-europe.uni-heidelberg.de/de/personen/person/persdetail/arnold.html"
+																target="_blank"> Matthias Arnold</a> will present the
+															Nepal Heritage
+															Documentation
+															Project (NHDP) during the event’s poster session. NHDP
+															focuses on the
+															documentation
+															of
+															endangered historical monuments and aims at developing and
+															implementing the
+															first
+															comprehensive inventory of endangered monuments. The project
+															is based at the
+															HCTS
+															and in
+															Kathmandu. Take a look at the <a
+																href="http://www.asia-europe.uni-heidelberg.de/fileadmin/Pictures/News/2019/19-25-03_Poster_NHDP.jpg"
+																target="_blank"> poster</a> and <a
+																href="http://www.asia-europe.uni-heidelberg.de/fileadmin/Pictures/News/2019/19-03-25_NHDP_E-Science_Tage.pdf"
+																target="_blank"> abstract</a> for the E-Science days</p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> March 25, 2019
+														</span><br>
+													</div>
+												</div>
+
+											</div>
+									</article>
+
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="https://www.arcadiafund.org.uk/heidelberg-university/"
+															class="d-block btn btn-primary btn-outline border-0 rounded-0 font-weight-bold text-center text-6 p-5"
+															target="_blank">CLICK HERE <br>FOR THE LINK</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">NHDP case study presented on
+																Arcadia website</a></h2>
+														<p>The Arcadia Foundation (funding source of the NHDP) presents
+															a case study of the project's work on their website. </p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> March 22, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+
+										</div>
+									</article>
+
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<blockquote class="blockquote-primary">
+															<p>The "The Nepal Heritage Documentation Project (NHDP),"
+																which is located at the HCTS and led by the professor
+																for Visual and Media Antropology, Prof. Christiane
+																Brosius, was added to KULTURERBE digital.</p>
+
+														</blockquote>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">NHDP added to "Kulturerbe
+																digital"</a></h2>
+														<p>The platform provides information on digitalization projects
+															of culural heritage based in Germany. It not only gives an
+															overview of ongoing and completed projects, but also of
+															digital collections, of institutions and organisations
+															taking part in digitisation projects and of grant
+															programmes. </p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> MARCH 20, 2019
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+
+										</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">February 2019</h3>
+									</div>
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="#">
+															<img src="{% static '/img/news-portal/Default.jpg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">Intern Charlotte von Waitz supports
+																Nepal Team</a></h2>
+														<p>Recently our new intern Charlotte von Waitz started her work
+															with NHDP in
+															Nepal.During her two-month internship at NHDP she is
+															participating in the data
+															gathering about phalcās (public resthouses) and ethnographic
+															research about their
+															usage by the local communities. Charlotte is a B.A. student
+															of Ethnology at Heidelberg
+															University and will support the project in Nepal from
+															February to end of March.</p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> February 14, 2019
+														</span><br>
+													</div>
+												</div>
+
+											</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">January 2019</h3>
+									</div>
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<div class="embed-responsive embed-responsive-16by9">
+															<iframe class="embed-responsive-item"
+																src="https://www.youtube.com/embed/IU073Kcl2Vs"
+																width="640" height="360" allowfullscreen></iframe>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">NHDP film portrait on
+																television</a></h2>
+														<p>During December 2018, shortly after its launch, the project
+															was getting attention from "Campus TV". The German
+															television station produced a film portrait, that was
+															broadcasted on German TV in December 2018 and is now
+															available with English subtitles. The film portrait features
+															project leader Prof. Christiane Brosius and the project's
+															system administrator Ashish Karmacharya talking about the
+															background and goals of the project. Images of Patan from
+															before and after the 2015 earthquake give a strong
+															impression about the importance of sensitive documentation
+															of cultural heritage for restoration purposes and also a
+															wide variety of other purposes, such as research, tourism
+															and urban development. </p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> January 28, 2019
+														</span><br>
+													</div>
+												</div>
+
+											</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">December 2018</h3>
+									</div>
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="#">
+															<img src="{% static '/img/news-portal/Default.jpg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">Prof. Brosius at SOAS
+																Conference</a></h2>
+														<p>NHDP project leader Prof. Christiane Brosius participates at
+															the conference "Epicentre to Aftermath. Political, Social
+															and Cultural Impacts of Earthquakes in South Asia", hosted
+															by the South Asia Institute of SOAS, University of London on
+															11-12 January. Besides her talk under the title "Art as
+															participation, gift and resource: Nepalese artist’s
+															engagement in post-earthquake Kathmandu Valley", she will
+															also be chairing a panel "Producing Heritage" and
+															representing the project at the conference.</p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> December 28, 2018
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+
+										</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">November 2018</h3>
+									</div>
+
+									<article class="timeline-box right post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+												<div class="col">
+													<div class="post-image">
+														<div class="lightbox"
+															data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}, 'mainClass': 'mfp-with-zoom', 'zoom': {'enabled': true, 'duration': 300}}">
+															<div class="row mx-0">
+																<div class="col-6 col-md-4 p-0">
+																	<a
+																		href="{% static 'img/news-portal/1stslide.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/1stslide.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a
+																		href="{% static 'img/news-portal/2ndslide.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/2ndslide.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a
+																		href="{% static 'img/news-portal/3rdslide.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/3rdslide.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a
+																		href="{% static 'img/news-portal/4thslide.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/4thslide.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a href="{% static 'img/news-portal/r2c206.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static 'img/news-portal/r2c206.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+																<div class="col-6 col-md-4 p-0">
+																	<a
+																		href="{% static '/img/news-portal/r2c205.jpg' %}">
+																		<span
+																			class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+																			<span class="thumb-info-wrapper">
+																				<img src="{% static '/img/news-portal/r2c205.jpg' %}"
+																					class="img-fluid" alt="" />
+																				<span class="thumb-info-action">
+																					<span
+																						class="thumb-info-action-icon thumb-info-action-icon-light"><i
+																							class="fas fa-plus text-dark"></i></span>
+																				</span>
+																			</span>
+																		</span>
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="{% url 'project_launch' %}">Project Launch and
+																joint fieldwork</a></h2>
+														<p>The Heidelberg team and all staff members in Nepal joined
+															forces to launch the project and begin the process of
+															documentation in Kathmandu / Patan. Architects, draftsmen,
+															photographers, anthropologists, philologists, digital
+															humanities staff and historians conducted field-work
+															together with project leaders Christiane Brosius and Axel
+															Michaels.</p>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> November 7, 2018
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+											<div class="row">
+												<div class="col">
+													<a href="{% url 'project_launch' %}"
+														class="btn btn-xs btn-light text-1 text-uppercase">Read More</a>
+												</div>
+											</div>
+										</div>
+									</article>
+
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold"> October 2018</h3>
+									</div>
+
+									<article class="timeline-box left post post-medium">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<div class="row mb-2">
+
+												<div class="col">
+													<div class="post-image">
+														<a href="#">
+															<img src="{% static '/img/news-portal/r2c204.jpg' %}"
+																class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0"
+																alt="" />
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+
+													<div class="post-content">
+														<h2 class="font-weight-semibold text-5 line-height-4 mt-2 mb-2">
+															<a href="#">Project Launch and joint
+																fieldwork</a></h2>
+														<p>The Heidelberg team and all staff members in Nepal joined
+															forces to launch the project and begin the process of
+															documentation in Kathmandu / Patan. Architects, draftsmen,
+															photographers, anthropologists, philologists, digital
+															humanities staff and historians conducted field-work
+															together with project leaders Christiane Brosius and Axel
+															Michaels.<br />
+															In addition to this, the team established the
+															infrastructures necessary necessary to facilitate close
+															collaborative work across international borders. </p>
+													</div>
+
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<div class="post-meta">
+														<span><i class="far fa-calendar-alt"></i> October 7, 2018
+														</span><br>
+													</div>
+												</div>
+											</div>
+
+
+										</div>
+									</article>
+
+									<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold"><a href="#">September 2018</a></h3>
+									</div>
+
+								</div>
+
+							</section>
+
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+
+	</div>
+
+	<!-- Vendor -->
+
+	{% include 'partials/javascript.htm' %}
+	<!-- Theme Base, Components and Settings -->
+
+
+	<!-- Theme Custom -->
+
+
+	<!-- Theme Initialization Files -->
+
+
+	<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+			ga('create', 'UA-12345678-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		 -->
+	{% include 'partials/footer.htm' %}
+</body>
+
+</html>

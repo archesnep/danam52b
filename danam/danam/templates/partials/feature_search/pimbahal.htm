@@ -1,0 +1,137 @@
+{% load staticfiles %}
+{% load template_tags %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Basic -->
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ app_settings.APP_NAME }} - Welcome</title>
+
+    <meta name="keywords" content="NHDP" />
+    <meta name="description" content="Nepal Heritage Documentation Project">
+    <meta name="author" content="NHDP">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{% static 'img/favicon.ico' %}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{% static 'img/apple-touch-icon.png' %}">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
+        rel="stylesheet" type="text/css">
+
+    {% include 'partials/css.htm' %}
+    <!-- Default css -->
+
+</head>
+
+<body data-spy="scroll" data-target="#navSecondary" data-offset="172">
+    <div class="body">
+        {% include "partials/danam_navbar.htm" %}
+        <div role="main" class="main">
+            <div class="container sticky-container">
+                <h2 class="text-center">Pimbahal</h2>
+                <hr>
+                <div class="row">
+                    <div class="col">
+                        <figure>
+                            <a class="img-thumbnail d-block lightbox"
+                                href="{% static 'img/feature_search/pimbahal.webp' %}"
+                                data-plugin-options="{'type':'image'}">
+                                <img class="img-fluid" src="{% static 'img/feature_search/pimbahal.webp' %}"
+                                    alt="image of pimbahal">
+                                <span class="zoom">
+                                    <i class="fa fa-search"></i>
+                                </span>
+                            </a>
+                            <figcaption class="text-center mb-0 my-0 mt-1">
+                                Pimbahal; photo by Christiane Brosius
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+                <p class="text-justify">
+                    Like Cyāsal, Pimbahal has a vibrant political and cultural history and life that also manifests in
+                    its larger ensemble of monuments, and intangible heritage, and turns it into one of the relevant
+                    monument zones we have defined (please note that by doing so, we do not follow official and
+                    administrative boundaries!). Pimbahal is a unique part of Patan’s urban heritage and dynamic life,
+                    with a high condensation of sites used for social, religious, economic and cultural purposes. For
+                    this case study on DANAM, we have documented 12 phalcās and six other heritage monuments, ranging
+                    from monastic compound to shrine and temple
+                </p>
+                <div class="row">
+                    <div class="col">
+                        <figure>
+                            <a class="img-thumbnail d-block lightbox"
+                                href="{% static 'img/feature_search/map-of-pimbahal.webp' %}"
+                                data-plugin-options="{'type':'image'}">
+                                <img class="img-fluid" src="{% static 'img/feature_search/map-of-pimbahal.webp' %}"
+                                    alt="Map of pimbahal">
+                                <span class="zoom">
+                                    <i class="fa fa-search"></i>
+                                </span>
+                            </a>
+                            <figcaption class="text-center mb-0 my-0 mt-1">Map of pimbahal</figcaption>
+                        </figure>
+                    </div>
+                </div>
+                <p class="text-justify">
+                    Similar to the Cyāsal case, too, Pimbahal’s built heritage was also affected by the Gorkha
+                    earthquakes of 2015. Both use their open spaces, one of the few larger ones in the otherwise
+                    condensed network of Old Patan, intensively. Pimbahal area and sites were quickly regenerated and
+                    got a ‘facelift’ that has pushed the open space around the famous pond into a popular site for both
+                    local residents and other visitors. As in the case of Cyāsal, Pimbahal locality is made up of
+                    various castes: Śreṣṭhas, Rājopādhyāyas (Newark Brahmins), Maharjanas (farmers), Śākyas, , Kapālīs
+                    (Newar musicians and caretaker of the temples) and Bhāratīs (Daśanāmī Sanyāsīs), for instance. The
+                    associations related to the area have started to revitalize some of their ritual and other cultural
+                    practices. Pimbahal and Cyāsal share their open squares and engaged socio-cultural activities as
+                    well as historic Cila͂ (possibly Ashokan, 250 BCE) Caitya. There is also a three storied medieval
+                    pagoda temple of Caṇḍeśvarī towards the northern side of the pond, the lineage deity of Pātravaṃśa
+                    Śreṣṭhas of this area. Another strong association, the to Digvijaya's Lākhe clan, is to the Lākhe
+                    (lit. 'demon'), and some representatives of the Pātravaṃśa Śreṣṭha clan promite this association,
+                    also through rejuvenation of related rituals in this particular vicinity. The pond is believed to
+                    have been made by Lākhes (either clan members or the premodern figure of the Lākhe demon), following
+                    the order of Gayo Brahman/Bāje1. All four sub-clans claim that they once migrated from Banepa, a
+                    small historical town located to east of the Kathmandu Valley. Each clan also celebrates annual
+                    linage deity worship once a year jointly and separately as well in the temple of Caṇḍeśvarī. The
+                    social topography around the pond contains many legends related to the famous tantric Gayo Bāje and
+                    the lineage goddess Caṇḍeśvarī. During the annual festival of Indrajātrā, figures of Yamadyaḥ
+                    (Indra) are displayed in many phalcās and samay-baji (ritual food with 5 kinds of edible things like
+                    beaten rice, buffalo meat, vegetable etc.) is distributed as prasāda by the donor or guṭhīyāra
+                    family of the sites. One also finds worship of other deities, gurus and ancestors in several
+                    phalcās, edcative, social and religious activities.
+                    Local and municipality organisations have actively engaged in post-earthquake reconstruction of
+                    damaged sites around Pimbahal, Chāybahal and Sulima areas. The Jagamadu Pukhu Kṣetra Vikāsa Samiti
+                    (Jagamadu Pond Area Development Committee), in collaboration with Lalitpur Metropolitan office and
+                    World Bank, implemented the Pimbahal Pond Repair Project (almost 6 lakh Rs.), a Project for Stone
+                    Paving around the Pond area (almost 6 lakh Rs.) and a Rainwater Harvesting Project (almost 5 lakh
+                    Rs.) in 2017.
+                </p>
+                <hr>
+                </hr>
+                <sup id="fn1">1. For such legend or oral history of the locality see: 1999, Sharma, Nutandhar, "The
+                    Legends of 'Gayahbajya' of Patan in the Kathmandu Valley", in: Contributions to Nepalese Studies,
+                    Vol. 26, No. 2, Kathmandu: CNAS, pp. 239-256<a href="#ref1"
+                        title="Jump back to footnote 1 in the text.">↩</a></sup>
+                <p>
+                    For more info click this <a href="https://danam.cats.uni-heidelberg.de/report/86169b6e-9e60-4014-b364-17010e9dae15"
+                        target="_blank" class="text-decoration-none">link.</a>
+                </p>
+                <hr class="mt-5">
+            </div>
+        </div>
+    </div>
+    {% include 'partials/footer.htm' %}
+    </div>
+    {% include 'partials/javascript.htm' %}
+</body>
+
+</html>
