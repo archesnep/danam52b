@@ -1,0 +1,116 @@
+{% load staticfiles %}
+{% load template_tags %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Basic -->
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ app_settings.APP_NAME }} - Welcome</title>
+
+    <meta name="keywords" content="NHDP" />
+    <meta name="description" content="Nepal Heritage Documentation Project">
+    <meta name="author" content="NHDP">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{% static 'img/favicon.ico' %}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{% static 'img/apple-touch-icon.png' %}">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
+        rel="stylesheet" type="text/css">
+
+    {% include 'partials/css.htm' %}
+    <link rel="stylesheet" href="{% static 'css/design/vendor/font-awesome/css/font-awesome.min.css' %}">
+</head>
+
+<body data-spy="scroll" data-target="#navSecondary" data-offset="172">
+    <div class="body">
+        {% include "partials/danam_navbar.htm" %}
+
+        <div class="container py-1 text-justify">
+            <h2><strong>Anthropology of Inscriptions:</strong> Memory and Cultural Heritage in the Public Sphere
+            </h2>
+            <div class="row">
+                <div class="col">
+                    <div class="lightbox float-left mr-4"
+                        data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}, 'mainClass': 'mfp-with-zoom', 'zoom': {'enabled': true, 'duration': 300}}">
+                        <a title="Kumārī Pāṭī, inscription from 605 CE, view from SE;
+                        photo by Matthias Arnold; 2019-10-13"
+                            class="img-thumbnail d-inline-block img-thumbnail-hover-icon mb-1 mr-1"
+                            href="{% static 'img/K_D_Inscription2.webp' %}">
+                            <figure class="figure">
+                                <img loading=lazy class="figure-img img-fluid"
+                                    src="{% static 'img/K_D_Inscription2.webp' %}" alt="NHDP Inscriptions Project"
+                                    width="auto" height="400">
+                                <figcaption class="figure-caption">An inscription on a silver kalaśa from VS 1990 (1933
+                                    CE) in which the spirit of Buṅgadyaḥ is transferred when his statue is taken out for
+                                    Nhava from the temple in Ta Bahāḥ (photo by Monalisa Maharjan, 2021-04-28)
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                    <p>
+                        Up to the present day, inscriptions are omnipresent in Nepal’s religious and public life.
+                        Written artefacts in Sanskrit, Newari and Nepali language recording grants, donations or the
+                        establishment of trusts are found on temples, shrines, wells and rest houses alike. Due to
+                        the rapid urbanization, infrastructure development or natural disasters many inscriptions
+                        are currently highly endangered.
+                    </p>
+                    <p>
+                        The Project "Anthropology of Inscriptions: Memory and Cultural Heritage in the Public Sphere”
+                        which is funded by the Flagship Initiative “Transforming Cultural Heritage” of Heidelberg
+                        University aims at investigating the crucial role inscriptions, graffiti or other publicly
+                        displayed media of written communication have played for the construction of spaces, identities,
+                        collective memory and value in the Kathmandu Valley. A selected corpus
+                        of inscriptions will be documented, edited and published in digital form in close
+                        collaboration with the Nepal Heritage Documentation Project (NHDP) and the Research Unit
+                        “Documents on the History of Religion and Law of Premodern Nepal” (HAdW). By drawing on
+                        methods from Visual Anthropology and Philology, the inscriptions will be studied from an
+                        interdisciplinary and transtemporal perspective: as images and texts; as sediments of past
+                        meaning and sites of contemporary struggles; as historical objects embedded in monument
+                        sites, but also as literate practices through which ritual and festive activities are
+                        connected to heritage scapes.
+                    </p>
+                    <p>
+                        <strong>Principal Investigators:</strong> <a
+                            href="https://danam.cats.uni-heidelberg.de/about_cb/" target="_blank">Prof. Dr. Christiane
+                            Brosius</a>, <a
+                            href="https://www.sai.uni-heidelberg.de/abt/IND/en/mitarbeiter/zotter/zottera.php"
+                            target="_blank">Dr. Astrid Zotter</a>
+                    </p>
+                    <p>
+                        <strong>Research Fellows:</strong> <a
+                            href="https://www.asia-europe.uni-heidelberg.de/de/personen/academic-staff/wissenschaftler-personendetails/persdetail/cubelic.html"
+                            target="_blank">Dr. Simon Cubelic</a>, <a
+                            href="https://danam.cats.uni-heidelberg.de/about_rk/" target="_blank">Dr. Rajan
+                            Khatiwoda</a>,
+                        <a href="https://danam.cats.uni-heidelberg.de/about-manisha-maharjan/" target="_blank">Dr.
+                            Monalisa Maharjan</a> and, <a href="https://danam.cats.uni-heidelberg.de/about_ns/"
+                            target="_blank">Dr. Nutandhar Sharma</a>
+                    </p>
+                    <p>
+                        <strong>Research Assistants:</strong> Julia Meckl, Franz Veit
+                    </p>
+                </div>
+            </div>
+            <p>
+                For more information see the inaugural issue of <a
+                    href="https://www.cats.uni-heidelberg.de/media/catsarena.html" target="_blank">CATSarena</a>, the
+                newsletter of the Centre for
+                Asian and Transcultural Studies (CATS), on page 77.
+            </p>
+        </div>
+        {% include 'partials/footer.htm' %}
+        {% include 'partials/javascript.htm' %}
+</body>
+
+</html>

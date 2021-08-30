@@ -19,17 +19,13 @@ CUSTOM_SCRIPT_FOLDER=${CUSTOM_SCRIPT_FOLDER:-/docker/entrypoint}
 
 if [[ -z ${ARCHES_PROJECT} ]]; then
 	APP_FOLDER=${ARCHES_ROOT}
-	#PACKAGE_JSON_FOLDER=${ARCHES_ROOT}/arches/install ; obselete because package.json file is moved back to project root. 
-	#https://github.com/archesproject/arches-docs/issues/61
-	PACKAGE_JSON_FOLDER=${ARCHES_ROOT}
+	PACKAGE_JSON_FOLDER=${ARCHES_ROOT}/arches/install
 
 else
 	APP_FOLDER=${WEB_ROOT}/${ARCHES_PROJECT}
 	# due to https://github.com/archesproject/arches/issues/4841, changes were made to yarn install
 	# and module deployment. Using the arches install directory for yarn.
-	#https://github.com/archesproject/arches-docs/issues/61
-	#PACKAGE_JSON_FOLDER=${ARCHES_ROOT}/arches/install
-	PACKAGE_JSON_FOLDER=${ARCHES_ROOT}
+	PACKAGE_JSON_FOLDER=${ARCHES_ROOT}/arches/install
 	
 fi
 
@@ -324,8 +320,8 @@ collect_static(){
 	echo "----- COLLECTING DJANGO STATIC FILES -----"
 	echo ""
 	cd_app_folder
+	pip install django-crispy-forms django-tinymce django-multiselectfield
 	python manage.py collectstatic --noinput
-	#pip install django-crispy-forms django-tinymce
 }
 
 run_celery(){
@@ -365,9 +361,26 @@ run_celery(){
 }
 
 
+run_json_dump(){
+	if [[ ${JSON_DUMP} == True ]]; then
+	JSON_DUMP_TIME_DEFAULT=24h
+	JSON_DUMP_TIME="${JSON_DUMP_TIME:-$JSON_DUMP_TIME_DEFAULT}"
+	echo ""
+	echo ""
+	echo "----- PLEASE WAIT ${JSON_DUMP_TIME} FOR DUMP TO BE READY -----"
+	echo ""
+	echo ""
+	cd_app_folder
+	while :; do
+		echo "Dumping JSON backup in ${JSON_DUMP_TIME}"
+		echo ""
+		echo ""
+		sleep ${JSON_DUMP_TIME} & wait ${!};
+		python manage.py packages -o export_business_data -s ${APP_FOLDER}/${ARCHES_PROJECT}/json_backup -f 'json' -g ${RESOURCE_MODEL_UUID}
+	done &
+	fi 
 
-
-
+}
 
 run_django_server() {
 	echo ""
@@ -423,6 +436,7 @@ run_arches() {
 	elif [[ "${DJANGO_MODE}" == "PROD" ]]; then
 		collect_static
 		run_celery
+		run_json_dump
 		run_gunicorn_server
 		
 	fi

@@ -1,0 +1,130 @@
+{% load staticfiles %}
+{% load template_tags %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Basic -->
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{ app_settings.APP_NAME }} - Welcome</title>
+
+    <meta name="keywords" content="NHDP" />
+    <meta name="description" content="Nepal Heritage Documentation Project">
+    <meta name="author" content="NHDP">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{% static 'img/favicon.ico' %}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{% static 'img/apple-touch-icon.png' %}">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <!-- Web Fonts  -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
+        rel="stylesheet" type="text/css">
+
+    {% include 'partials/css.htm' %}
+    <!-- Default css -->
+
+</head>
+
+<body data-spy="scroll" data-target="#navSecondary" data-offset="172">
+    <div class="body">
+        {% include "partials/danam_navbar.htm" %}
+        <div role="main" class="main">
+            <div class="container sticky-container">
+                <h2 class="text-center">Cyàsal</h2>
+                <hr>
+                <div class="row">
+                    <div class="col">
+                        <figure>
+                            <a class="img-thumbnail d-block lightbox"
+                                href="{% static 'img/feature_search/map-of-cyasal.webp' %}"
+                                data-plugin-options="{'type':'image'}">
+                                <img class="img-fluid" src="{% static 'img/feature_search/map-of-cyasal.webp' %}"
+                                    alt="image of pimbahal">
+                                <span class="zoom">
+                                    <i class="fa fa-search"></i>
+                                </span>
+                            </a>
+                            <figcaption class="text-center mb-0 my-0 mt-1">
+                                Map of Cyàsal
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+                <p class="text-justify">
+                    Cyāsal is one of the key monument heritage areas selected for the NHDP pilot phase (please note that
+                    by doing so, we neither follow the official and administrative boundaries, such as defined by the
+                    Department of Archeology, nor do we intend to create a new heritage zone that collide with the
+                    existing official boundaries!). It is a unique site, of various interconnected and meandering
+                    squares that turn Cyasal also into one of the few large open areas the densely built old city of
+                    Patan has (other exceptions are Pimbahal and Patan Darbar Square, see monument areas…). The area is
+                    very popular among local residents and urban youth from the Kathmandu Valley as well as some
+                    tourists. Especially the festivals are popular, but the area also has some remarkable smaller and
+                    larger monuments that deserve our attention. As an ensemble, Cyāsal tole (Ṭola) is, thus, a
+                    remarkable habitat of both Newar urban cultural heritage and modern facets interrelated. The ancient
+                    trade-route cutting through the square from East to West, is still relevant. Cyāsal is now
+                    surrounded by splintering urbanism, most fields have been sold and converted into ground for
+                    constructions. For NHDP, we have so far documented 20 phalcās and in this small-scale vicinity,
+                    which has a density of public and semi-public monuments as hardly any other neighbourhood in Patan’s
+                    old city, possibly even Kathmandu. Moreover, eight other monuments such as shrines, ponds/stepwells,
+                    caitya/stūpas and monasteries have been documented and mapped. Although Cyāsal’s buildings,
+                    residential and public, were quite badly hit by the earthquakes of 2015, reconstruction was very
+                    important, also because residents of the area are proud of the tangible and intangible heritage and
+                    actively use and engage in practicing it, be it for festivals, feasts, annual rituals and
+                    processions, or devotional chanting.
+                </p>
+                <p class="text-justify">
+                    The locality has got several Licchavi period stone inscriptions to trace back its history to ancient
+                    period. Also, one of the four Cila͂caityas believed to be built about 2250 years ago during the time
+                    of Great King Aśoka of Magadh (India) is also situated here. The shadow play in the Bhailaḥ (Avaḥ
+                    Guṭhī) capāḥ during Indrajātrā is the cultural specialty of this area.
+                    Cyāsal was a final battlefield for the battle between Kirantas and Lichhavis. About 250 A.D.,
+                    Lichhavis are said to have attacked this post, killing 800 Kirantas who were guarding the post. In
+                    Newari language, 800 means chyasa, thus this place is also a ‘memory site’. Mainly people from the
+                    caste of the “Vyan͂janakāra” (traditionally kitchen gardeners) and Avāle (often tilers, potters)
+                    reside here, the latter more towards the South of the large square, the first towards the North.
+                    Earlier, there would have been communal tensions between these groups, but those have now become
+                    part of the folkloristic memory rather than active conflict. Members of Maharjan farmers, members of
+                    Śākya or Śhreṣṭha caste names are written in diacritics above and below castes also live in
+                        and around Cyāsal square.
+                </p>
+                <p class="text-justify">
+                    According to an Avāle resident (aged 55) the Avāles are divided into two guṭhīs i. e. the Cidha͂
+                    (smaller) and the Tadha͂ (bigger) and into ten Si (death) Guṭhīs as well. The members of Cidha͂
+                    Guṭhī are called Lā manaṃ (vegetarians). Only five families still live in Bhindyaḥlāchi. The other
+                    Avāles are connected to the Tadha͂ Guṭhī. Some Avāles have migrated from Kathmandu, near Ason Tole
+                    (Asana Ṭola), to Cyāsal Tole. They shifted their lineage deity from Lainchaur to Depacākhyaḥ in
+                    Shankhamool (Śaṅkhamūla), Patan and worship her in the month of Pauṣa/Māgha (Jan-March).
+                </p>
+                <p>
+                    <strong>References</strong>
+                </p>
+                <p>
+                    Gutschow, Niels, Inventory of Public Resthouses pāṭī/phalcā, sataḥ: Draft Report, Kathmandu: Urban
+                    Developemnt Through Local Efforts/ GtZ, Dec. 1992
+                </p>
+                <p>
+                    Tiwari, Sudarshan Raj, Special Study Cyàsa (A action programme and strategy for public space
+                    conservation), Kathmandu: Patan Conservation and Development Programme, 1994
+                </p>
+                <p>
+                    For more info click this <a href="https://danam.cats.uni-heidelberg.de/report/b6eac59e-7334-4788-8fa0-b26fd9237e0d"
+                        target="_blank" class="text-decoration-none">link.</a>
+                </p>
+                <hr class="mt-5">
+            </div>
+        </div>
+    </div>
+    {% include 'partials/footer.htm' %}
+    </div>
+    {% include 'partials/javascript.htm' %}
+</body>
+
+</html>
