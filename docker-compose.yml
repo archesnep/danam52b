@@ -3,7 +3,7 @@ services:
 
     arches:
       container_name: arches
-      image: asisgtm/arches:5.2.b
+      image: asisgtm/arches:52-0
       build:
         context: .
         dockerfile: ./Dockerfile
@@ -12,8 +12,7 @@ services:
         - arches-log:/arches/arches/logs
         - arches-static:/static_root
         - ./docker:/web_root/docker
-        - ./danams:/web_root/danams
-        #- ./danam:/web_root/danam
+        - ./danam:/web_root/danam
         - arches-uploadedfiles:/web_root/danam/danam/uploadedfiles
         - ./docker/entrypoint.sh:/web_root/entrypoint.sh
       env_file:

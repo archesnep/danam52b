@@ -1,0 +1,5 @@
+archesrepo_files
+docker-geoserver
+letsencrypt
+*.pyc
+danam/sql_dump
