@@ -26,7 +26,7 @@ TEMPLATES[0]['DIRS'].insert(0, os.path.join(APP_ROOT, 'templates'))
 LOCALE_PATHS.append(os.path.join(APP_ROOT, 'locale'))
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'wlb)$=q572j4y3k!9zgkpt3!-f%8^_f8s_i3s911wd-2pr8872'
+SECRET_KEY = '3!+cky()5^i33z5hzw@ct-s2oa(z=$+7*_=7yp(h3x)zk442-9'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -166,7 +166,7 @@ CACHES = {
 }
 
 # Hide nodes and cards in a report that have no data
-HIDE_EMPTY_NODES_IN_REPORT = False
+HIDE_EMPTY_NODES_IN_REPORT = True
 
 BYPASS_CARDINALITY_TILE_VALIDATION = True
 BYPASS_UNIQUE_CONSTRAINT_TILE_VALIDATION = False
