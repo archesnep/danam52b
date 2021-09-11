@@ -75,3 +75,12 @@ def how_to_search(request):
 
 def published_articles(request):
     return render(request, 'partials/published_articles.htm')
+
+
+def phudyah_dipankara(request):
+    return render(request, 'partials/phudyah_dipankara.html')
+
+
+
+def heritage_walks(request):
+    return render(request, 'partials/heritage-walk.htm')

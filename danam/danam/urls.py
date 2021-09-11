@@ -97,6 +97,8 @@ urlpatterns = [
     path('heritage-focus-area-pimbahal/', danamviews.pimbahal, name='pimbahal'),
     path('heritage-foucus-area-cyasal/', danamviews.cyasal, name='cyasal'),
     path('publications/', danamviews.published_articles, name='publications'),
+    path('phuydah-dipankara/', danamviews.phudyah_dipankara, name='phudyah-dipankara'),
+    path('heritage-walks/', danamviews.heritage_walks, name='heritage-walks'),
     path('associated-projects/', danamviews.associated_project,
          name='associated_project'),
     path('tinymce/', include('tinymce.urls')),
