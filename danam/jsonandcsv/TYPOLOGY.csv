@@ -1,0 +1,739 @@
+tileid,parenttile_id,resourceinstance_id,monument type religion others,Monument type,monument type others,monument type religion,monument main diety,sortorder,provisionaledits,nodegroup_id
+26506d28-aa2c-425e-ad43-a4b0963e81bd,None,00fd72ab-5246-418e-b001-825a2f227a57,,"Engaged to another building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dbdbe830-5038-4615-a45a-eaa31960b3fa,None,01610bbc-5297-47cf-9164-9fa4f72a15a8,,Stūpa or Caitya,,Buddhist,Four Lokeśvaras ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c434054b-98ce-40d8-997b-6edfe5b4f961,None,017a4a8f-b183-4e57-9ff9-54ae1145378f,,Śikhara temple,,,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+18fa57f5-dd9f-4978-8f32-3810237f9771,None,01c33990-cd66-4e1e-8d92-e3fb8e2ab5ee,,Tiered temple,,"Hindu,Vaishnava",Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+067ae9e2-7be5-4367-a2f8-d2256a6079ee,None,01de2008-1b9b-41d9-821a-b1eb6693db80,,Phalcā,,Hindu-Buddhist,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b3570593-38bb-4a46-8430-12e1013157e9,None,01ee9fc5-6bbb-4896-bd83-9e5b60cee96e,,"Monastic building (bāhāḥ),Stūpa or Caitya",,Buddhist,Pañcabuddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1299f7ce-8d43-4823-bbb9-a94253c2a374,None,02509f50-336d-423f-ac40-60dffc2d905c,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7d4ae153-b45c-4e37-a00f-5aff9667cb73,None,02b1eaa8-e6a5-11e9-8bc4-0242ac130002,,Tiered temple,,Vaishnava,Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0c046813-4df9-4b5a-94d3-3753a7de641f,None,03ab0902-61c8-4458-8eee-f23e345d9372,,Phalcā,,Hindu,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a2e0b6e8-ad03-49e3-b334-0d347d7fa8c8,None,049dc399-08e2-47c4-85b9-e66851694e69,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+305255cf-1676-4313-85a2-d0fb4052f679,None,04e62546-0b04-41d7-9651-12189c45e5c6,,"Esoteric shrine (dyaḥchẽ, āgãchẽ),Engaged to another building",,Buddhist,Cakrasamvara/Saṅkaṭā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b530438d-1d85-4577-8286-ebcfaf901f37,None,054498ec-d633-11e9-beea-0242ac140006,,Monastic building (bāhāḥ),,Buddhist,Maitreya Bodhisattva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f757b908-e123-4c9c-b6a9-e19de77fcae5,None,05e2a35c-e8d5-11e9-8bc4-0242ac130002,,Domed temple,,Shaiva,Triliṅgeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9147da9e-5fed-42f1-8275-77a3d15703ad,None,0687a32c-e7e8-11e9-8bc4-0242ac130002,,Engaged to another building,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e35f051e-6712-43ba-a11e-c1af85d88ed4,None,068cb560-e748-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f53e6437-8b6b-4a84-be0d-fbc28a9c3eb3,None,06a4360c-e5ec-11e9-b125-0242ac130002,,Integrated Phalcā ground floor,,Hindu,Hārītī Ajimā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8a136f6f-8efd-4e53-bbdd-63dc8febde82,None,06d2c415-2c7e-4d6f-9617-2b1eb6ab8c4a,,Tiered temple,,Hindu,Bhīmasena,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e7d806d9-db14-42a2-aceb-0a5667d19498,None,0706813a-e81d-11e9-8bc4-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+99be6e86-e8eb-4877-8d14-08331cc33046,None,0826cd5e-f3e4-11e9-a3c8-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dd452ae9-8102-4af0-ab58-48635d2a6806,None,08473132-9181-44fe-8412-4d89e5dd27e4,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6dd716b3-cbc4-4539-80f5-77dc84689b86,None,09670bee-ec13-11e9-b125-0242ac130002,,Monastic building (bahī),,Buddhist,Bhaviṣyavyākaraṇa Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4d089d04-5db0-466a-84d3-5f834ed41507,None,099d312a-d5a9-40b1-9144-91b28545912d,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+92bd17fc-4548-469e-9e86-ccc7b8d772de,None,09adaf39-4932-4356-b6d1-3cce3af16e82,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f458c00c-a74c-4921-8cb6-67ea672f3601,None,09cff614-e084-49eb-9fd7-7e4eb20cd37d,,Domed temple,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ba4301da-7669-4835-82af-d08b676fd526,None,0a5850e6-17f9-11ea-b9b1-0242ac130002,,Water architecture,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a5e9d8ac-8478-4a83-90a8-12dde442dbcb,None,0aa65aef-7a50-4942-9e17-f6e077dbb14a,,"Shrine,Pillar,Archaeological object(s)",,Hindu,Kālikā and Mālikā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b42bfee7-934a-4415-a9ec-615f4be319bc,None,0b26d633-56f8-4872-859c-76d7f7c0677d,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2b91251c-2819-4be1-98a4-001fd2af9c6b,None,0b6871b6-44e1-45f4-9074-005d6e68a28e,,Phalcā,,"Buddhist,Hindu",Garuḍanārāyaṇa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+97d77faf-cedf-4224-8ad7-96c823aff6c7,None,0b875a50-e754-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,none,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+80478dae-a6f0-44e0-9875-bee37eb2ac6c,None,0bb01539-043b-4538-a59f-132ef7bd578d,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6ba70919-cdea-400f-b55c-366aadb2a0d7,None,0be328fe-020b-11ea-a389-0242ac130002,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+55a524c1-e291-4477-98a7-b102e1e21086,None,0c6b269c-e676-11e9-8bc4-0242ac130002,,"Phalcā,Freestanding building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6e8c6ed2-da60-4a2f-940f-6574fa821b7b,None,0cb251ee-3005-42d3-bc37-fe6cfbb30747,,Stūpa or Caitya,,Buddhist,Lokeśvaras,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+799a8503-5f3c-4bb0-85e1-094495801ad9,None,0cbfabb8-e699-11e9-b125-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+37e7e8f3-0ba8-49e2-bfae-fe4ba414afdf,None,0d3c9626-fa37-11e9-8649-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5ecd0abd-b6e6-4106-8e79-d363580484be,None,0d480c66-3e6d-11ea-b44d-0242ac130006,,Water architecture,,Hindu-Buddhist,"Nāgarāja, Varuṇa",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cfca21d9-22e2-4f08-90d5-0485d48b9953,None,0d6f474f-c0fe-456c-8b09-c85c8f15ed9f,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+36b10dc7-b145-4d9f-a5c7-ab3602ca8467,None,0fb3ffc0-395f-42e9-bece-bba42a1c530b,,"Stūpa or Caitya,Monastic building (bāhāḥ),Tiered temple",,Buddhist,Tārā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+acef31fc-7935-43fb-a22c-765490966675,None,109ab54a-e9a3-11e9-8bc4-0242ac130002,,Phalcā,,Hindu-Buddhist,Joragaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+10a25650-4014-41bf-9871-82cebcdf1d0a,None,10afc076-5274-4ad9-9023-94b8c25893aa,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+46dac272-6380-4d05-8fd3-a2e8df5a73c9,None,1165bb2e-eb1e-11e9-8bc4-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5218a69d-6edc-47c1-a8c6-0b500567867f,None,1176053e-eb54-11e9-8bc4-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+245acf94-5f7f-4ed2-8d5e-c7c30c59250f,None,1279d314-220a-4acb-9622-67d050fc75db,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c2d92c10-2a3f-42ff-8f95-d2d156fc463e,None,12c555ec-ea9c-11e9-8bc4-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4fe3cfed-1251-47cc-837b-c175822789df,None,12d828f2-e4f7-11e9-8bc4-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Hindu,Esoteric ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+94a69966-4528-4feb-80d9-e8851051184b,None,12e25456-4bce-11ea-91df-0242ac130006,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+47fbcac3-3610-40f1-bba2-23091d549da1,None,12f3faf5-d915-4a52-a73d-f19bd71e411a,,"Tiered temple,Sataḥ ",,"Buddhist,Hindu",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8b8a451c-1644-4568-86ee-ec820b606338,None,138e0452-8e6c-4b68-8410-b5263da353a8,,"Shrine,Domed temple",,Shaiva,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+308d6071-8295-489f-90eb-8442653fe0f3,None,1394f154-e70c-4fba-94b6-ef62156047ab,,Śikhara temple,,"Shaiva,Vaishnava", Hariśaṅkara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b2546c81-c2ae-4e3d-a4e6-627a0d51e966,None,13b0e238-70ba-11ea-b99f-0242ac130006,,Tiered temple,,Shakta,Mahālakṣmī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c56644fc-b777-4789-800e-08a61d5b7c76,None,13b406e0-8594-4cf7-8592-4e7d82bb4ce6,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0ac8d5eb-280d-4f76-a15f-37b81574d59b,None,1414a11c-d6a1-46df-9667-8793239be9dd,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+939af25b-c243-47d2-ade5-25feeb2d2e00,None,141efef8-74ca-11ea-b4b6-0242ac130006,,Sataḥ ,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+46fa2625-d046-404c-9c6f-2a987a08fdaa,None,143332de-342b-4f52-92ac-dd1b5accd1ea,,"Water architecture,Śikhara temple",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2d160afa-3d5f-428e-8674-93144d455401,None,143b3eaf-9561-4dbe-8f57-5b84756b8865,,"Esoteric shrine (dyaḥchẽ, āgãchẽ),Monastic building (bāhāḥ)",,Buddhist,Akṣyobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+693b0523-adb9-4230-8843-cf84fc706cb0,None,147f9da8-5a54-438d-b51e-1d473f23b374,,Monastic building (bāhāḥ),,Buddhist,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+814b93e2-002d-4508-b60b-ba03110840b7,None,14b65b9e-1869-4c2a-b0d4-d013efe48da0,,"Engaged to another building,Phalcā",,Hindu,Sarasvatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+744fb4ed-8cc0-4546-a88b-906d6604bf61,None,14cbeef4-f646-11e9-a3c8-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e57348b0-a8e0-4b64-b508-ae2f1a467ad5,None,15217304-e6a8-11e9-b125-0242ac130002,,Domed temple,,Shaiva,Kopeśvara Mahādeva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e4d0ee79-436a-4506-bd3e-a27e17518cce,None,154297b7-c1ca-4eca-813e-774c28a7f805,,"Phalcā,Shrine",,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+541040b5-e66d-4f38-b0be-1c3b314dc92e,None,15613d2a-e91b-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣhobya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+069f8806-d5af-430e-98c6-9eeb07b8403f,None,15a0ed8d-f812-482f-98fc-a61b6704b12f,,"Tiered temple,Shrine",,Hindu-Buddhist,Nāsaḥdyaḥ (Nṛṭyeśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4058d8f3-aee9-4384-8e25-744b712c5ff5,None,15acbf64-e9a4-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b19f43a7-22c3-4a13-85e7-27549541413d,None,15d6cfa0-0cb8-4616-8eed-9219ddbb76e3,,"Engaged to another building,Sataḥ ",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b36b597f-c774-4125-ba73-6ff995774ccd,None,160dcc4f-6d81-421d-9eda-0fb8d248513c,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2d4db8b7-c34e-4caf-aa48-6e4fc6e5c8a6,None,16f8b0dc-e9b1-11e9-8bc4-0242ac130002,,Tiered temple,,Shakta,Taleju,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cc1254a8-6cf8-444c-9723-f996a9c0943e,None,170a68d0-e68d-11e9-b125-0242ac130002,,"Tiered temple,Domed temple",,Shaiva,"Umāmaheśvara, Śivaliṅga",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e58e7216-9bf1-4bc4-9021-4c0a596e8599,None,1724e57b-b911-48c1-ab87-68c43a852a64,,Sataḥ ,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7e9667e7-6d0d-4180-9525-377ad1391a7a,None,1772bbc6-e73f-11e9-8bc4-0242ac130002,,"Stūpa or Caitya,Courtyard building,Shrine",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0b8d3a38-3b9d-4a4b-9bbf-5cadff082ebc,None,178fd214-e67d-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+28d4fa4a-2752-482d-aead-1d1213b37633,None,1798db32-ecce-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9c7cce98-e0c4-4914-ad01-6091a8469ed4,None,18f9e792-3138-11ea-b242-0242ac130002,,Monastic building (bahī),,Buddhist,Maitreya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e51fc6c1-d072-42e1-bc5d-1d3b944cf06f,None,1914bb16-0362-11ea-a389-0242ac130002,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f5be348b-02f2-46b6-8db0-05d70fc735f0,None,1a039922-09eb-11ea-8a1c-0242ac130002,,"Engaged to another building,Phalcā",,Hindu,Sarasvatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4317a4e7-969e-41f4-b76d-a9c51e15210b,None,1a0a8ea8-eff1-11e9-a3c8-0242ac130002,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f513fa81-c18b-4a6f-add3-a79002c79442,None,1a16c05c-ee04-4441-a90c-a9177408fb98,,Śikhara temple,,"Hindu,Shaiva",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1a215260-78da-11ea-a71c-0242ac130006,None,1a1afb9a-78da-11ea-a71c-0242ac130006,,Tiered temple,,"Shaiva,Shakta",Taleju,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5481b19a-2032-4783-b207-6b7253e09865,None,1a5335da-e755-11e9-b125-0242ac130002,,Tiered temple,,Shakta,Śrīyantra,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0357e303-2559-4439-b158-5438137cb7c0,None,1a7f3f24-ec12-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4f8840a-501f-4668-b795-bcc2ea75c8a1,None,1aadfb0c-34ff-4498-897c-8fe5259f197d,,Pillar,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+338098d0-7fe4-45f0-a86f-f31b51c50f59,None,1b0a5033-a1ca-4049-8d6f-d1c7b243eabe,,Phalcā,,Hindu,Bhagavatī and Śivaliṅga ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+362b2b88-d107-4211-9f33-f3c47bad28d9,None,1b800023-3ea3-48df-b4ac-c2fae7966360,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7681af0b-00d9-4287-a34f-f9bff208bc88,None,1c2db54a-e68f-11e9-b125-0242ac130002,,"Sataḥ ,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1f955c60-81b6-4096-a759-8be0e850ccf7,None,1cfe28d3-c6cb-4d26-8f94-f3e189e7a502,,Residential building,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+65a70e91-b416-4285-8c16-59a00a23bc84,None,1d95833c-6cbe-4f96-be3c-fad253fe5f27,,Śikhara temple,,"Hindu,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8dcc92d2-8042-4af4-aefd-ee1575164001,None,1dd2eee2-de1b-48ee-948f-2b2e337b8188,,"Fortress,Archaeological object(s)",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8837a2d3-d559-4be9-b3d5-942cd8000e5e,None,1e2335a0-f62a-11e9-a3c8-0242ac130002,,"Freestanding building,Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+adace2eb-cecb-4d3d-848e-55e71a71c854,None,1e4bfd8c-dc8a-11e9-81a8-0242ac140006,,Tiered temple,,"Hindu,Buddhist",Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+76091a8f-048b-4f63-9129-76e55db148ac,None,1fd94780-2644-42d6-bae5-74e6bdfa2abc,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c8cf7320-26db-4607-8dc1-ac456a9d8706,None,204170f8-e23a-4811-a8c3-aa77b9a792c6,,Tiered temple,,Hindu,Mahālaksmī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0140341d-89b7-44a4-9ea9-c16959c7d4d6,None,2070b496-e729-11e9-8bc4-0242ac130002,,"Shrine,Phalcā",,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+17590aa8-0c7a-48d6-9079-b4cd1bcba55c,None,20787244-8ee5-11ea-bd59-0242ac130005,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+18ace90d-c380-424e-a29a-d3430ae19c1d,None,20b9cf3e-f33e-11e9-a3c8-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3185a355-be1b-4e52-b3ef-48a5d7ee6386,None,20ef6cd9-f40f-4799-8101-a9b7b824d039,,Water architecture,,,Umāmaheśvara ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d49d1f40-7537-4798-a77e-3631fa692677,None,217154c2-e99f-11e9-b125-0242ac130002,,Monastic building (bahī),Mahāvihāra,Buddhist,Dīpaṅkara Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+40507e17-8260-4b27-92c2-2911c627afcf,None,21b56e2d-d3ff-4ce6-94cc-d5b85fb8a31e,,Freestanding building,,Hindu,Nāsaḥdyaḥ (represented through three wall niches),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+98ba7215-027f-4b48-88a4-7abf2174f459,None,21c324c0-e763-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5ac269cd-7157-46f2-8c44-f33d685c9d7b,None,222a5a4a-e1ef-4af0-afc9-bae7bd03d3ce,,Shrine,,Buddhist,Śākyamuni Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3f4d8414-4c95-4d47-b8e2-2ca924a57590,None,224ae916-e8e2-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7897bf22-1494-41ea-8196-d54bf4d92f16,None,2284154e-efcf-11e9-8649-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f951b106-a6b1-4d62-8f29-3626f59f916b,None,2289d7b8-8b5f-438d-b783-0a0ded2f7ba6,,"Courtyard building,Monastic building (bāhāḥ)",,Buddhist,Śikharakūṭa Caitya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+04d7dee7-72a0-4099-8b36-ccc5805c6bb3,None,2298db0e-2225-11ea-b9b1-0242ac130002,,"Engaged to another building,Phalcā",,Hindu,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d03524af-4582-437f-92bd-9a9b38186302,None,229c34d8-428d-11ea-b44d-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5a802d22-0ce9-4cb8-9b67-fe7106ff9a1f,None,229dc17a-452d-4986-bf4a-4e56326009f8,,Śikhara temple,,Shakta,Siddhilakṣmī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+af4d9bab-99e2-4d59-8b2c-66d424c45b52,None,2306e890-198f-11ea-b74e-0242ac130002,,"Shrine,Courtyard building",,"Buddhist,Hindu",Manakāmāna,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+003cbf44-8f7a-4867-bdb8-25aee91c1337,None,234a903c-e5e0-11e9-b125-0242ac130002,,Tiered temple,,Shakta,Bhagavatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+295d710d-91bc-4505-90c0-adaba3a10443,None,238d55d1-f5f6-43c4-841f-2fbd871d60f4,,"Engaged to another building,Sataḥ ",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c8f48f9d-b32f-4630-9485-4e4a598e23b4,None,23bdf498-e692-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),None,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ca3f294d-53c1-4ab4-83d2-729a8cadbb4b,None,23d40c88-efc0-4f8d-bb17-a50f831912f3,,Tiered temple,,Shaiva,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6f4a80b8-f667-4b0b-9e69-c214b188e092,None,23d6e0b6-7f2d-44db-a22e-913a500a756a,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a5c986e4-66f9-43cc-9191-7bcb1e45ca8b,None,244754e0-fa2e-11e9-8649-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c209c0ca-4112-4425-a0c0-feddac43b9cc,None,24779526-7b25-4512-ac56-5d503d43020a,,"Archaeological object(s),Shrine",,"Shaiva,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8dd6f243-87d1-4ca7-9704-7d8ee120afba,None,24afe176-f66a-11e9-a3c8-0242ac130002,,Śikhara temple,,"Shaiva,Hindu,Buddhist",Buṅgadyaḥ/Karuṇāmaya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+eaa52d28-5bbc-49dd-b1a1-1c57a82c284f,None,2502d305-75a5-4779-b795-791971a8d437,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+aa54dfcb-3a62-4da7-bf8a-a6d01f6d4095,None,2507d356-5fc2-11ea-8083-0242ac130006,,,,Buddhist,none,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7f7eeda4-8911-4148-9dc3-10f271bd6848,None,2548d9e2-ea78-11e9-b125-0242ac130002,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7c5b576d-14e9-430b-ad62-49e77dc90c60,None,254b0d1c-e68a-11e9-8bc4-0242ac130002,,"Phalcā,Engaged to another building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+46447e92-e46c-4a8a-b238-ea175c9bcfb0,None,256339d6-e9d3-11e9-8bc4-0242ac130002,,Tiered temple,,"Vaishnava,Shaiva",Hariśaṅkara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+630b015e-95ce-4d48-b4eb-6582211541a1,None,25c65422-6b9b-11ea-8083-0242ac130006,,"Domed temple,Shrine",,"Hindu,Buddhist",Khaḍgayoginī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9d63ed24-1286-4ddc-9bf6-7f1d7e8cc504,None,25ef2d16-a10b-4081-bba3-7f4639646edb,,"Courtyard building,Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bb2f84ba-1e73-4532-a464-ecd4949fe7cf,None,26404afc-cb0a-11e9-b993-0242ac140002,,Monastic building (bāhāḥ),,Buddhist,Amitābha ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+42d4d428-c89f-423e-951e-f06c30717a5b,None,265a30ab-5d14-4b23-823d-171e8ecfedc0,,Śikhara temple,,"Shaiva,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+be0abca1-e28f-411a-8f4b-a00b57ccb7d0,None,26daa57e-e6ae-11e9-8bc4-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Buddhist,Cakrasaṃvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e14a221f-cbe1-4459-a008-1ccde1b7de07,None,26e27d10-f989-11e9-a3c8-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+75f77ac0-e188-49b9-b01e-dd601684d2ae,None,27609ec0-8feb-46bf-bde3-4392aa004e9a,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6c7a38fe-896a-4e3c-b7c6-408ed2a5248b,None,276619ca-ea4f-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+29cd7364-e2cd-45c2-ac63-6d0dcd74ccbe,None,2775db1f-e420-45fb-8334-54dee45c5f27,,Śikhara temple,,"Shakta,Hindu,Shaiva",Śivaliṅga ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6b1c4e9e-36ec-48d5-b77d-34ee7bcf1b69,None,27ca1a68-e9ca-11e9-8bc4-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5be5d855-0297-4789-b6fd-125364d56316,None,28e34398-8dda-11ea-8e56-0242ac130005,,"Freestanding building,Phalcā",,"Hindu,Buddhist",Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+915572db-d21f-412b-a56a-ae87dec04cc5,None,28f77756-69bc-11ea-8083-0242ac130006,,Sataḥ ,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+29712f09-ce8a-456d-bc81-b3c2a7554bc2,None,2a0b1750-ee3e-11e9-8649-0242ac130002,,"Freestanding building,Phalcā",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fb4f77ee-9d5c-4200-9e13-202ec4f5e704,None,2a1ca80c-8b69-43a0-ab19-ac6b126986ee,,Tiered temple,,"Buddhist,Hindu",Bāghabhairava ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8719c07b-fb34-49b6-82c2-fcbddec06d6f,None,2a5c82ae-d073-11e9-8599-0242ac140006,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2b3c01de-f303-45d5-85e8-dc50878947fa,None,2a8e92e4-ffb7-11e9-8f3c-0242ac130002,,Sataḥ ,,Vaishnava,Lakṣmī-Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6d13870c-d6a4-4cd0-961c-ccb993be9b78,None,2ab99c6c-e69b-11e9-8bc4-0242ac130002,,"Sataḥ ,Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cd46318e-5ccc-4b41-bc92-93fadfa9e2e0,None,2acb57c3-2a55-442b-bf83-fa397fd60613,,Tiered temple,,Hindu,Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9c39743e-b65e-4b12-88a1-d076f736c265,None,2af20687-0710-4883-a117-f45f941a14ff,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe2f4183-68b0-423f-a4a9-5500a2fe9559,None,2bad144c-eaa5-11e9-8bc4-0242ac130002,,Sataḥ ,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+62e386a5-fdff-4b18-848c-7ab0da4099bb,None,2c130982-5fc6-11ea-8083-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+78f3b9e6-4c92-4539-b9c3-8440ec444742,None,2c4ddb84-f419-11e9-a3c8-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+16b5ca3e-53ee-4cba-bb5d-0038937401af,None,2c57e6c8-e8cb-11e9-b125-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7b5091f0-3469-4616-9310-7b85fbd1545b,None,2c696054-eb48-11e9-b125-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c7cd4575-ebea-4856-92ea-800fb16d2abe,None,2c9f93f4-e832-11e9-8bc4-0242ac130002,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8bffba65-3b9e-4e9f-8114-3b699d69725a,None,2db1bbc0-f156-42ec-965c-e5cc9adc8981,,Phalcā,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8d69810e-ae91-4dae-a79d-b1116d78fe2c,None,2dca9004-e5e3-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+608dcf50-1f73-44c7-94c7-fdd410e308d0,None,2dcd0237-4d4b-4487-85f6-e9d35a365c9b,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b3278022-edc4-423b-b918-df03bdd5677b,None,2e8556d8-c881-4107-914a-20f925b3f28c,,Phalcā,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dfe570d6-0eda-4b7d-bd6a-b8ad5c5e62ff,None,2e9e454e-e4fc-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8086073c-6806-49d5-bb39-d4caaf52f389,None,2fa110b8-e90a-11e9-8bc4-0242ac130002,,"Monastic building (bāhāḥ),Courtyard building",,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ef6da62f-a2f3-4089-8c6f-ebfdb15b30c2,None,2fa561e9-6f62-4663-bae9-fdaeb0aee1a1,,"Sataḥ ,Engaged to another building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+785089b8-fd95-4023-a698-d59d74ccd738,None,2fe39e54-d189-4403-a7cb-0835b63e4387,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6f3802f4-e783-4ebb-bfd7-8bdf19cb7215,None,2fea6eaa-1b5f-43ca-96fd-9baad7fce137,,Water architecture,,,Bhagīratha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+adb3df8e-82e8-4875-b513-a806486b20c4,None,304bed70-ec0d-11e9-b125-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+42a59244-3940-4ad5-8b5c-3f2b640b9971,None,306b0be4-434f-11ea-b44d-0242ac130006,,Phalcā,,Hindu,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ff9d9b96-60e6-448f-913d-452e67a7f208,None,3082c42c-e76b-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7ebfa206-415c-4818-b9a8-bbd74cd8bce9,None,30972753-7928-4d07-b965-b0f91dca9b7d,,Śikhara temple,,Hindu,Sarasvatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6ede6a26-3dd2-4e47-a954-d0b4abd16b94,None,309c85aa-e8ed-11e9-b125-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a66a0727-c1a1-4e96-9631-e27412c2bda8,None,30a307d0-2282-11ea-b9b1-0242ac130002,,"Monastic building (bāhāḥ),Courtyard building",,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7417fc39-bb19-449e-b6f4-75d3565d6364,None,30f7f2bd-65d8-4a37-a619-5d73cd66c4d5,,Tiered temple,,"Hindu,Shaiva", Santāneśvara Mahādeva (Śivaliṅga),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+de726080-f098-4ca9-9b90-2e3d113ac7c7,None,3167408a-4c14-11ea-91df-0242ac130006,,Phalcā,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1eb635d6-1395-4a92-93e0-aad24d8b1b5a,None,321aa815-750d-4468-9903-b3ae79e07793,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f511bd93-c04d-472c-9b8b-8bd685c71c27,None,3331db72-539f-11ea-b4c2-0242ac130006,,Śikhara temple,,Shaiva,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e7d27249-ca4e-4b21-aa3a-63bb9a5d314a,None,33706bde-e4e7-11e9-b125-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+06f24936-7647-47c9-9c1f-3162cdaeb7fb,None,33776afc-ea72-11e9-b125-0242ac130002,,"Phalcā,Engaged to another building",,,Gaṇeśa and Māhākal,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ab95ec99-a5e9-431b-8fa5-bc7834be5422,None,337c6d44-c619-4816-b823-c10f18d802b4,,Shrine,,Shakta,Indrāyaṇī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2b4ce100-85e1-4fc6-963c-9698a33a978f,None,33d9ec0a-e733-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b75b4dc2-3633-4d04-b782-de6e39839027,None,3440946e-e936-11e9-b125-0242ac130002,,Tiered temple,,Vaishnava,Caturvyūha Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+273886b2-a319-4763-b56e-795ed03b0010,None,34d6f310-e5e3-11e9-8bc4-0242ac130002,,Śikhara temple,,"Shaiva,Hindu", Umāmaheśvara ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5878ce45-051b-4eb7-a9e9-4770f1e01cea,None,3570c001-88bd-42d7-aa26-47c6f09f5a6b,,"Freestanding building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fed9d1c1-8b23-41aa-adb4-0ff245c85fb6,None,358d5c28-12c4-477a-b2a5-3be3164b7657,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+51173aa5-ce16-4674-87f4-434c3c76e5a9,None,362d533e-e8f0-11e9-b125-0242ac130002,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+925d72af-e9ea-4277-a4a0-6780857c3f72,None,3655168d-4513-4bba-956d-69d76e83f0aa,,"Freestanding building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe379f79-3819-4326-bbc3-589ccbd8c635,None,36638422-afa6-11ea-9766-0242ac130005,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+591fb71f-9a95-4b45-97de-5da88b77e577,None,3668d45a-f899-11e9-8649-0242ac130002,,Pillar,,Hindu-Buddhist,Yaḥsi dyaḥ ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+71518002-61ed-40b6-b0a0-1cb20fed7b11,None,37438b5c-d78a-11e9-beea-0242ac140006,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1e6d7892-8c35-4232-beff-d5e4c419a92a,None,378c13d0-d632-11e9-a1bd-0242ac140006,,Water architecture,Water spout (hiti) and pond,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b60000c1-2734-45bd-b3e8-6eebe8b5e922,None,380e2e0e-e8ef-11e9-8bc4-0242ac130002,,"Phalcā,Capāḥ",,Shaiva,Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+397f87d6-1364-4425-8335-1e814339ee4e,None,38e62b02-e759-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+88b20251-187f-4c43-be00-1b6cce2fbcd7,None,39bb2040-e9fd-11e9-8bc4-0242ac130002,,"Shrine,Palace,Courtyard building",,Shakta,Taleju,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5cbd978a-543f-4b00-b0eb-1c718f42edf4,None,39beb848-fc76-43de-bdad-12ea8914001b,,Tiered temple,,Shakta,Cāmuṇḍā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d6a9aa90-175f-4ace-8e1c-d21561ffa828,None,3a3599d5-5f94-476d-a80f-4f2d3bb9bf9c,,"Pillar,Archaeological object(s)",,"Hindu,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5ca774dd-8183-4c15-ad7c-698a327c3968,None,3a781560-86b0-11ea-86ac-0242ac130005,,Phalcā,,Buddhist,Campakanāga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d8dc94ac-6cc1-43bd-ae18-d2c6090f2273,None,3aa59732-e7ec-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Maitreya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c2246824-086a-4c84-b0a0-52f20e5bec01,None,3b68c5ca-e64a-11e9-b125-0242ac130002,,Tiered temple,,Hindu,Bhīmasena,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1713cc56-8ef1-4a3d-a836-fca4419306d8,None,3b731959-de47-4cc6-84e4-e230598019f5,,Stūpa or Caitya,,"Buddhist,Hindu-Buddhist",Dhyānī Buddhas (Pañcabuddha),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+37a40c52-ffeb-4886-b23e-9952bcbc55a4,None,3b9b26f6-2b9a-11ea-b82d-0242ac130002,,"Integrated Phalcā ground floor,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+39200549-9bff-4bdc-a48e-bbdf6fa8dede,None,3bcfd73f-1e8b-41d9-bbc6-148eb8ca7808,,"Archaeological object(s),Pillar,Shrine",,"Shaiva,Hindu,Shamanistic",Śivanātha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+44d331f0-218d-45c0-8871-88f33acc5982,None,3c768352-d08e-11e9-8599-0242ac140006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ef5f2beb-f98f-4a2f-916d-73cc378cf94a,None,3ceea016-9d6c-11ea-9766-0242ac130005,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ad65a8d0-cbef-434a-81b5-d84f311538ef,None,3db42996-337a-11ea-b242-0242ac130002,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c7563d2d-0cb4-42c5-8030-8fbf245b367f,None,3dbcf8b8-cf5c-44e4-8ac8-4460069bdbbf,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f2cfad4c-6c4e-442d-bc49-d4b12a452d95,None,3e3f0fd3-fd74-4aab-a216-99cbfeca1bec,,Śikhara temple,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e92ff05a-52bc-48da-ab32-bd2f0efc1c23,None,3e52c084-1e63-4364-bc59-94d9b8e89e23,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+39130659-5459-411a-b210-1ea9591237c7,None,3e718754-6c00-4947-b32f-da8bb82139a7,,Śikhara temple,,Hindu,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1a344a79-7c04-4d9d-864d-2f2bc7019e90,None,3e7d7be6-ea61-11e9-b125-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+70c32b42-dab0-43e1-98ee-e2a84b20cb26,None,3e97265e-b2b4-4a68-862a-7c76dee0bacc,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Shakta,Mahākālī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3c703a0c-ac88-4632-9c9a-b1c96f0df68a,None,3ecd2d50-1b10-11ea-b74e-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3c5f24f8-2c8e-4b3e-acd3-4ba1b22c104d,None,3ed3eb32-4e39-4092-b6fd-f3fda0ca5c19,,,,Buddhist,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1efbca4f-04de-4db6-8b53-273ec2b2e39f,None,3f87ad30-e5d0-11e9-8bc4-0242ac130002,,"Phalcā,Freestanding building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+75cee642-fd17-4983-8d21-07dfc7919efc,None,3f88581e-e811-11e9-b125-0242ac130002,,Phalcā,,"Hindu,Buddhist",none,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe33fc05-dc9c-436e-8686-9ba065000e4f,None,3fe5a41a-f7d9-11e9-a3c8-0242ac130002,,Water architecture,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ede61539-33ed-465d-9649-873432b356f8,None,409cfb82-e6c3-11e9-b125-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4c3f6e6-21f6-4389-867a-d4649d9777d2,None,40ee8e4c-e836-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e2332229-8042-4a92-8ac2-8b6ce5bb9018,None,415635af-c1ba-4b28-ba37-3e3697ce2c98,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya Buddha ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+929844a6-d2c0-40ea-9e65-2bf433947ce1,None,4165aff8-eb2f-11e9-b125-0242ac130002,,Tiered temple,,Shakta,Caṇḍeśvarī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d95876d1-da9b-4f9e-9ab4-cdd8f7019ad0,None,43291104-1bbd-11ea-b9b1-0242ac130002,,"Phalcā,Engaged to another building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+64475f43-56a1-41e8-98b6-089121e8f134,None,4353fc98-6838-406b-ba3a-4872c4d03bb0,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c0a4eecd-27de-4209-b9b6-8da42848c07a,None,43a6124a-0a4b-4f1c-a3b6-f68fcb0e4dc0,,Tiered temple,,"Buddhist,Hindu",Aniconic Stone (worshiped as Gaṇeśa),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9d6c9385-7698-438f-8275-9c55e49888fe,None,4405bb30-4704-432a-9f61-2a7c8912321a,,Śikhara temple,,Buddhist,Śākyamuni Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cf064725-7465-4dce-8a32-c8568f5bbb09,None,440d970c-ea5d-11e9-b125-0242ac130002,,"Stūpa or Caitya,Monastic building (bāhāḥ)",,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d7d4c308-de5e-4f9a-8f10-79896f26aae0,None,443544db-8f01-4d16-8f90-1de79f599e98,,Tiered temple,,"Buddhist,Hindu",Statue of Sarasvatī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b1de0062-f6ca-4379-a19f-db41ab8f704d,None,44609e5a-ee3d-11e9-8649-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d2c598fc-f83a-4b5b-914a-824ee1325e17,None,45394990-d06e-11e9-8599-0242ac140006,,Stūpa or Caitya,,Buddhist,Five transcendent Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3dd69c41-de7c-49a4-b3ea-f89bc292c043,None,45b07460-1787-11ea-b9b1-0242ac130002,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ac3e3e54-d2ae-4bc7-87cd-77caa05c9634,None,460bec90-ea60-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+73574df9-6301-4710-87a4-c45950839fc3,None,468fb683-8654-424a-9005-731f310bed0f,,Water architecture,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+be94a736-2448-4dae-860a-bcb5a49598d7,None,479763c6-e90e-11e9-b125-0242ac130002,,"Sataḥ ,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5c01fc19-2111-45e2-afdc-2aaff3bfd466,None,489cc406-57c1-11ea-b4c2-0242ac130006,,Shrine,,Folk,Balabhadra,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1cb47a5b-07c0-41cc-baec-7608695fb1fc,None,48fbbcba-9da1-11ea-82af-0242ac130005,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa (Aniconic stone),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0f77e06c-57f5-42d6-8a00-2be77c0ca0d2,None,493f8e80-fba9-11e9-a3c8-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Budhha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a5aa8048-e32a-4e3d-bd49-0af5a9500c58,None,49e99160-f60d-11e9-8649-0242ac130002,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b3d557c5-f0b6-4b62-ba29-42ba441a9c5e,None,4a025a42-e6ea-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ba9b5f07-ca63-4cf3-b1c5-c5a288edabdf,None,4a028b6c-f954-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3db990ed-9105-4017-8131-f48dbf08c4d7,None,4a2c6259-e814-432e-a59c-99eb9d750007,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dd4edb05-de00-4134-a7e7-c015afe1b5b7,None,4a305bd6-5eb8-11ea-b4c2-0242ac130006,,Phalcā,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+64a20748-cc2c-4448-83c0-c3503c6f2dd5,None,4a48d563-85d1-4e51-8f78-2254393f85e2,,Shrine,,Shaiva,Gorakhanātha / Bhairava ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d648c5a4-41bd-4665-bfe6-88f3ce38e85a,None,4a6c25be-af79-11ea-8ae7-0242ac130005,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7253d46a-6d30-49d7-ac29-ef73accdc494,None,4abcfc57-87bc-46d0-9338-add4863dbf46,,Phalcā,,Unspecified,Pvāḥsyāḥdyaḥ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1b451965-3a46-4f72-a457-48f4d11862fd,None,4b3adb40-7726-4977-b911-1710edbfa41f,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0cc8d751-e4af-4a0c-afa1-c192cf200c6e,None,4c31625e-ea78-11e9-8bc4-0242ac130002,,Courtyard building,,"Shaiva,Vaishnava,Shakta",Lakṣmī Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f2c695d3-52eb-4889-8914-4835d5cf01fc,None,4db3bfb2-eefd-11e9-8bc4-0242ac130002,,Capāḥ,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+40b359ab-32eb-4bf7-8907-0d41932887d4,None,4db72ccc-e6c6-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ed036d31-3242-4580-9d58-77d3352d68e6,None,4dc008cc-64c1-42da-9518-9646c65ab630,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1e6c46e9-cdfa-4306-80a7-b2369811868b,None,4df05f74-e5e0-11e9-b125-0242ac130002,,"Freestanding building,Phalcā",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0aee44d6-6083-48c8-87d6-d0ab568a5deb,None,4e0709f7-c313-4a8c-ae18-d3ca0d994713,,Pillar,,"Buddhist,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7b4bda6d-d224-4a5d-9773-3057935b0070,None,4e76f5c4-ebf4-11e9-8bc4-0242ac130002,,Monastic building (bahī),,Buddhist,Vairocana Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e918ae57-6e12-4e06-a16e-fb1c8ba33afe,None,4ea9bf18-4293-11ea-a19a-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+89cd32de-20a6-4d9f-904c-c8a5f83937b2,None,4ed2374c-e846-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ef481658-5a76-41ff-9abf-d642526ec22b,None,4eeb757c-5fc4-11ea-8083-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2a312ecd-93dd-41e8-89d4-a6ca48f363d0,None,4f116514-0102-11ea-8f3c-0242ac130002,,Domed temple,,"Hindu,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+213e3dfd-1f2a-41dc-bbc4-b0047a5202d7,None,4fbe0748-3653-4e38-a86d-1627db252297,,Pillar,,"Buddhist,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+559b9921-4b33-41c6-b93e-5f2f2ad63314,None,503085f6-076f-11ea-8a1c-0242ac130002,,Water architecture,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8d436202-d2d2-4fae-ab8a-6d5a9cd73c5e,None,50e6b167-1959-4ce9-a9d4-1800e7273a52,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+207ce787-fefc-4778-9f0b-a21e01a43075,None,50e8eedc-eb42-11e9-8bc4-0242ac130002,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+68ee1a30-81b6-4a44-aae7-b90ddfec6259,None,51d9d5da-4ceb-11ea-8083-0242ac130006,,Shrine,,"Buddhist,Hindu",Chvāsakāminī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f7e74dea-41e1-449b-b255-0984bf34bb28,None,5277a9d6-2f86-11ea-b242-0242ac130002,,Domed temple,,Buddhist,Buddha Śākyamuni,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe05fdac-1e6b-407e-a15d-e51c3d1b9be0,None,54346f5f-5ad8-4ab5-887c-c983ea617de2,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f32366bc-0623-4660-ba38-90c984e221c7,None,55133c56-e68d-11e9-b125-0242ac130002,"Engaged to another Building, Phalcā",Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e6d72d12-b3f7-4cd1-b930-00812601f3b5,None,553b9314-e687-11e9-8bc4-0242ac130002,,Stūpa or Caitya,,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8f653c2b-8855-4f90-842e-adcd674af3eb,None,55519f42-0202-11ea-a389-0242ac130002,,Sataḥ ,,Hindu-Buddhist,"Mahādeva, Gaṇeśa, Kumāra",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+181dc0d1-ae55-4d30-a295-18ddbdd0f42f,None,5553af61-8bca-4f14-baa9-a077e67f701d,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+61713a0d-8c62-4fea-b654-48ae01b08260,None,5576adf8-9a84-11ea-9766-0242ac130005,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1275dbb4-681e-414e-9444-687aea1895c6,None,557a604c-e6a7-11e9-8bc4-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Hindu,Bhīmasena,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f408bc04-d965-4ec0-86bb-84ff2cd85781,None,55be585c-411d-48dd-be74-5cd78f2723e1,,Water architecture,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+290f1f34-0006-44ca-81aa-db96ba0698f4,None,55bee51e-01f5-11ea-a389-0242ac130002,,"Engaged to another building,Phalcā",,Vaishnava,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+32d73be9-947a-4c74-9469-565bde670e5a,None,55ebd8ba-e343-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4e8d5b15-e5e7-4bec-8f72-bb2e64ab0469,None,55ef0210-dfa6-11e9-81a8-0242ac140006,,Capāḥ,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9c4c960a-72a6-4849-a81f-3f806862c19a,None,56588bbe-f0bc-11e9-a3c8-0242ac130002,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cf6daafc-11c0-4123-9d0c-ea9170058992,None,56a5632a-c2df-41f2-8fbb-2d82330d9c76,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c59c84b4-8da3-47d5-8125-290012490b20,None,56fa3190-ea8a-11e9-8bc4-0242ac130002,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bf046518-151d-4fe4-8f03-b8b225760324,None,574c588e-e7ed-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,    Nāmasaṅgīti,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9f712229-ffc5-4342-b4fe-a6af0c7891d4,None,57688e06-ca3c-11e9-b993-0242ac140002,,Stūpa or Caitya,,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+10304972-63a8-45d4-8412-600b3d107536,None,5790999f-7d84-4dc0-b4a9-a65dee5d1481,,Tiered temple,,Hindu,Umāmaheśvara ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d70be1cf-6f11-4449-b344-aedc15aa1244,None,57b1c7cd-c924-4581-b4d1-8deccecb9358,,Tiered temple,,Vaishnava,Lakṣminārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dfb0be6c-d594-4ffd-bd5f-83a9736eb655,None,580324c0-5212-4b6e-83be-eab695af708f,,Tiered temple,,Shakta,Matū Ajimā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f6bb0851-dd94-4d6f-95dc-312cb6dfe277,None,58201fa0-0b37-4744-af03-0c6aaac21835,,"Palace,Engaged to another building",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+54f63944-8a95-4dcf-b2dd-d3ea35499aa4,None,5864a56c-7d5f-4174-ab70-9b73013c325f,,Śikhara temple,,"Hindu,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+963c9933-b81a-4f2d-9a63-02ef62749333,None,59e912ca-06a7-412a-a9b1-60d5d0fc0a6a,,Shrine,,Hindu,Viśvakarmā ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4f4af745-fc0f-4784-a9ea-66177b4f6fd0,None,5a2b953a-01f9-11ea-8f3c-0242ac130002,,"Pillar,Shrine",,Hindu-Buddhist,Mahākāla,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+28120730-949b-4b89-818a-0e6f5c4efea3,None,5a3ab8f6-6344-11ea-b4c2-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f53e3011-518c-466f-86ca-2e19c3727ed6,None,5a9d675d-4ea1-416c-9d12-fe75a690e587,,Domed temple,,"Vaishnava,Hindu",Rāma-Sītā-Lakṣmaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c4a63495-fdfb-4599-b7fc-732723686920,None,5b4fb39f-ba1c-4a7a-9218-98fba1910a5a,,Domed temple,,Vaishnava,Lakṣmīnārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2443c579-79ba-420f-bc13-327784d8b850,None,5bfb6d40-eb4c-11e9-b125-0242ac130002,,Śikhara temple,,"Vaishnava,Hindu","Jagannātha (Kṛṣṇa), his brother Balarāma and sister Subhadrā",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6810dc43-11c5-45a8-8e02-6c5c9ddd3920,None,5c063668-e5f6-11e9-b125-0242ac130002,,"Phalcā,Sataḥ ",,Shaiva,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0daf1ff9-3eb5-4d9b-983b-aea65fbd578f,None,5c766eac-e5d2-11e9-b125-0242ac130002,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3d9c49bd-9857-497d-ba95-3b6dc466f19b,None,5c944401-65d2-49ed-b361-dbf4e3358629,,"Engaged to another building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+960ce566-aa48-413f-8e2d-e2ac54d4267d,None,5cb98dcd-6658-4b9c-8990-8c2299397aca,,Tiered temple,,Shakta,Bālakumārī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a74a293d-67b2-4e08-bf76-cfb1033aa09d,None,5d44f5b8-70f8-11ea-966a-0242ac130006,,Water architecture,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d8f24d66-d90f-4177-8103-e4ebd06a6205,None,5d9c1eae-e1c7-43bc-905a-a0816724b854,,Tiered temple,,Shaiva,Sarveśvara Mahādeva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4d07929e-7c2c-4f59-b948-91ea8cfe8681,None,5dfe48f0-eb2d-465c-a5d0-67bb1ae1277a,,"Tiered temple,Shrine",,"Vaishnava,Hindu",Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b47c042b-ae19-45eb-b782-64a9dd48b0a0,None,5e259143-1a43-49f4-94fd-068766f80876,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0546f31b-3c31-4a89-8c99-a49dec788af2,None,5e94853e-0756-11ea-b2c1-0242ac130002,,"Phalcā,Freestanding building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bd3c15e3-6a49-498b-8ff1-d9a3f318e912,None,5e9af02d-96f4-42a8-8c91-57d31cd5027b,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7d7e2407-b517-4d03-bfae-1818e7f3e76c,None,5f0eb57e-e8d0-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4db3c5b-4313-42f4-8c4b-482771ddc6a1,None,5f10573c-c317-4fef-92ed-b0354eeae8e0,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,,Viśvakarmā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d517b759-b65f-4076-805d-a24f784b60a1,None,5f218d0a-4412-11ea-a19a-0242ac130006,,"Engaged to another building,Tiered temple",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+480c0637-fb67-4203-a0d5-7839f5337f5d,None,5f27520c-348e-43da-8160-a2e2729a37c7,,Water architecture,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1d9fc899-3265-41b1-86a3-52477515282b,None,5fa893c6-fbc5-11e9-8649-0242ac130002,,Sataḥ ,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+321b0902-286e-489a-bd0b-51b5a924fa05,None,5fadd6dc-06b1-11ea-8a1c-0242ac130002,,Water architecture,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+92466528-f68a-4c47-acc1-e78aabd86945,None,5fcb8c96-4297-11ea-a19a-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a166fc0a-ca47-467b-9e23-9e71e127c9e6,None,5fd9092c-0569-11ea-b2c1-0242ac130002,,Stūpa or Caitya,,Buddhist,Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+08cb4547-bff2-4ba6-a7f3-8be26e4c38c9,None,5ffc298d-bf45-4996-a8c8-4023014d9152,,Tiered temple,,"Hindu,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a51d86a3-8fa2-4d5f-aff6-571fc1e1ee08,None,600ba6fa-8f77-11ea-bd59-0242ac130005,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+adf93666-b3b5-44ce-b27c-b6feee28b0cc,None,60a8a8e0-e4e8-11e9-b125-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6ab4f1d6-e101-4fc9-af0c-6aa546da5ba2,None,60aa32b2-ea3f-11e9-8bc4-0242ac130002,,Monastic building (bahī),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c931e525-2fce-4479-835a-b724cf5132ec,None,618c600d-e494-4d74-b277-e81f773a21f4,,Archaeological object(s),,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3f56b038-f033-4b71-8f03-1e702ec941bd,None,619ad1be-7cb3-4973-a2ce-13e5c7832083,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f443ae48-25f4-4932-b1e1-c0eaa3a95aa6,None,6206f79c-e5dc-11e9-8bc4-0242ac130002,,Freestanding building,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee06bbb7-6466-4f07-b18c-6ffb62699956,None,62332e5e-8c90-484f-8c98-82e018442939,,Phalcā,,Hindu,Śivapārvatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3f85b560-fc72-4f12-a0dc-5e621632bc5c,None,62af421e-8c58-49de-856d-89cf1184ae5f,,Tiered temple,,Shaiva,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ccd823d-af99-4dad-8364-606f0ca65beb,None,63987fea-cd6d-11e9-92b4-0242ac140002,,Monastic building (bāhāḥ),,Buddhist,Esoteric deity and Vasundharā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9844ff5d-a3be-4fb5-97c6-d343f8fc18ca,None,6399088a-e68a-11e9-b125-0242ac130002,None,Freestanding building,None,Unspecified,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1fca6cfa-a441-4c07-b27f-df6780fe89ca,None,63cd4a6e-4a3a-4241-86ff-428121b2a15c,,Śikhara temple,,"Unspecified,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e03ede1f-787c-49f5-9d2b-367924b0220a,None,63d66002-8bc5-48b3-af42-cf40b44b38d1,,"Esoteric shrine (dyaḥchẽ, āgãchẽ),Monastic building (bāhāḥ)",,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+76ca8a4a-9d0c-4670-9bcb-a5a038bcc03a,None,63d69d53-665f-496d-ba83-9b322a3268bc,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+242b394b-bde9-483b-b7b2-1fe116cf547f,None,63ee2cfd-8c43-457b-970c-a837cc8f7f11,,Śikhara temple,,"Buddhist,Hindu",Ganeśa (from 1503 CE),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9e50a5f4-41c5-46d1-8992-c3cf48739513,None,6594f9ac-fb26-4e95-8c0e-4957e705df7c,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d4840a72-46e7-461d-8d82-8e439aff2528,None,65ef3af4-9d6a-11ea-82af-0242ac130005,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+38dff273-5a6e-45f1-a203-89f95a797504,None,6700e6dc-ad31-11ea-8ae7-0242ac130005,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d430623b-5b68-41fe-8cc7-3f3c51a32c94,None,67282390-14e0-4896-92cb-d79b96080f2e,,Stūpa or Caitya,,Buddhist,Dhyāni Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3feb9d81-c7ca-45b1-ab7d-477cd889891d,None,673afbfc-e6f2-11e9-8bc4-0242ac130002,,"Integrated Phalcā ground floor,Sataḥ ,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1498a207-27c0-46c6-a72b-8050b8a8ebbf,None,678eb152-5957-11ea-8083-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+253024fa-a534-4da4-bb3b-959eb1100c44,None,67c377c8-fa2d-4d66-8051-e899b0e3e60a,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ea4ac1b6-34d3-4c99-84bf-256ffeb69e53,None,67f1cda0-9f96-4673-8502-6b706e34c465,,Bridge,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+30936e68-b1ff-4d50-a646-71e0f85d3ab3,None,67f7ff3b-da0a-4064-969e-53333412edd9,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+098c08ab-9a3e-476f-a2e5-bb7cc7ad0fec,None,69280807-eee5-40af-a285-7fc9cb500ad6,,Shrine,,"Vaishnava,Shaiva,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2abc6e1b-a99d-4246-ad0b-dba97514201b,None,69370820-1ef5-11ea-b74e-0242ac130002,,"Engaged to another building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8d62ec7f-16f4-4a80-a5e8-323d1a09c885,None,69d578b5-0f06-47ad-9080-9fe3e1adb07f,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b445548c-116f-4592-8d4d-85cc5b18417d,None,6a263bd4-6022-48bd-ba52-b730dd67710c,,"Engaged to another building,Shrine,Phalcā",,Vaishnava,Garuḍa Nārāyaṇa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bd1b64cc-0e71-4e0e-ae29-dbd97761232c,None,6a2ca05c-3aaa-11ea-b44d-0242ac130006,,Tiered temple,,"Shaiva,Buddhist,Hindu",Rāto Matsyendranātha / Buṅgadyaḥ / Karuṇāmaya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+aabbb4f7-8338-44ca-8bd0-d636d173e01d,None,6a68a4bf-4153-4db9-9aa4-c5f78331a414,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c810dfae-719b-4a5c-a7c5-3e1d69c8f778,None,6a68f8a4-ad2d-4c82-97df-70095bf3dd7c,,"Pillar,Archaeological object(s),Shrine",,Hindu,Ugratārā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ae61583a-69ea-4d82-8600-4e80b7eb85e1,None,6a82831d-1e4f-4570-9030-319e6b8a1480,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+27daa0a4-8adc-4ba2-ac76-fe29d700d9d6,None,6b267ae4-4c53-4516-a1d0-5fc7366596c4,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1e5a8019-167b-4dd9-bb2f-53b298188c37,None,6bb91e99-b953-4be7-855b-70a870f1c1b4,,"Shrine,Platform,Pillar,Archaeological object(s)",,Hindu,Bhagavatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1afedc0e-1f6a-4e2b-a043-b05bfbcf9d08,None,6c19dd43-3e02-4f62-8636-0b3e5971ef4d,,"Tiered temple,Shrine",,Shakta,Chinnamastā Devī/ Mvaḥmadu Ajimā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ca505af6-e68f-48e7-b8fb-e356ca44d373,None,6cdaf736-d3f8-4b5f-9b6d-384f21c8d902,,"Freestanding building,Sataḥ ",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+62db0ff5-c1d1-45c1-a48a-e0b307f58a93,None,6cef8522-e33c-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+71c57147-87c6-4d48-8dc9-2dd165e0dfd8,None,6d22b620-367a-4250-8a51-f1735ca86877,,Monastic building (bahī),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā (Maitreya),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4421d9e-36c4-4b34-aab2-8dc26da0ec93,None,6d478768-e8f5-11e9-b125-0242ac130002,,Tiered temple,,Shaiva,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ea9ff33-fc5b-46b6-a3ce-dab99c13f16c,None,6da9c621-521e-41d0-97b4-a3a8c2a9c960,,Śikhara temple,,Shaiva,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+174bf2e2-ba31-48a2-9bec-2d19f2c38f29,None,6e03bbf6-0522-11ea-8f3c-0242ac130002,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Shakta,Bālakumārī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a7bb61fa-579e-4990-a8b2-3e4fb6057a3b,None,6fac8c1c-e768-11e9-8bc4-0242ac130002,,Phalcā,Phalcā used as temple,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8c58c8f0-3a92-4692-b0a3-fe48bfe35039,None,711b19a4-ec10-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+275c5af4-151b-4e5d-a5c8-5a5bcc291b30,None,7171bc5b-58ee-4d5d-9808-c118c20022de,,Tiered temple,,"Shaiva,Hindu",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ffbc91a-ad75-46ec-ae82-bcd4f6b442ae,None,7195ddad-7b38-423b-b1a2-479a4ad0292c,,Śikhara temple,,Buddhist,Padmapāṇi Lokeśvara ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+511e295b-d0ab-4341-a733-1dc7e9c5cf32,None,71a0ee45-c6f0-4598-a938-d160e0fc7ebf,,"Shrine,Archaeological object(s)",,Hindu,Udayadeva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+baea3105-3ccd-4015-b1c6-00eee8999eb7,None,7212764c-e691-11e9-8bc4-0242ac130002,,,Bell,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6b7b5c1b-08a9-4790-b6c4-933cbcd90d7a,None,7286700f-4313-42ba-be54-d79933e086a4,,Water architecture,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c77424a6-d4e2-4bda-8925-ad8f42bec1a2,None,72b92b8f-e331-4878-85d4-5aa407f60047,,"Śikhara temple,Shrine,Archaeological object(s)",,Shaiva,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b0916208-4a22-4c12-b219-9fa21f850fe1,None,731bd8c6-5877-4951-bf17-efc7b7c68933,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7a87cb00-5f16-425e-bd45-8f59546aa697,None,737cb161-8db7-4e7d-a315-4f6fdf29d047,,"Engaged to another building,Phalcā",,Hindu,Sarasvatī and Bhīmasena,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+aeda5a80-658b-4968-8c15-9921bfec068c,None,73f86971-d72b-42bc-8776-14acf48bfaca,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5bed0d4f-aa6b-4bff-8ab4-5c85e28e672a,None,74ae042c-e6a8-11e9-b125-0242ac130002,,Śikhara temple,,Vaishnava,Kṛṣṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+75c4fd3d-1aea-4ee1-9467-52440c25f328,None,75171568-d049-4c63-9fce-ddf40dc4e157,,Śikhara temple,,Shakta,Stone vessel and khaḍga as the symbol of Vatsalādevī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+373d660a-0d8d-4b14-b7b4-93de51d50d3e,None,755714a7-16e4-4926-b93c-a906820ce3bf,,Pillar,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+202568f4-773a-496b-ac98-b49c1674e309,None,7559d8ea-32ef-11ea-a67f-0242ac130002,,Monastic building (bahī),,Buddhist,Samantabhadra Bodhisattva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2118f730-834a-4c94-af86-39efb416bb4f,None,75d880e6-e74f-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+94516dc2-006a-4081-bce4-eea13fb13fba,None,7605825a-b679-4eb0-a1c0-8365e6493bfa,,Shrine,,Shaiva,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9426a1c4-0e9a-4d1d-a02e-152a37902d11,None,76ab9a02-0244-11ea-8f3c-0242ac130002,,Stūpa or Caitya,,Buddhist,Four Dyānībuddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9d27d573-527f-4059-9f0e-65d61907b7e9,None,776a4b78-3709-406d-bdb5-7f65590d125d,,Pillar,,Hindu,Hanuman,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1e53406b-8f73-4d2c-9ee9-f1476266018d,None,77e6fd7a-5e11-11ea-b4c2-0242ac130006,,Shrine,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c5d06dac-e1c8-49cb-8a46-be604d6a64db,None,781d9148-efea-47f6-bfee-3aa004bf0e43,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Shakta,Bālakumārī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+80969ef9-e1a8-4f7e-9ae5-5c6790b105c1,None,781f49c2-723f-11ea-b99f-0242ac130006,,"Engaged to another building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d84fce28-e721-4d64-ab72-04ed1f50ef26,None,78211803-598c-46df-834e-4d97356acd0c,,Tiered temple,,Vaishnava,"Kṛṣṇa, Balarāma and Subhadrā",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d20223a0-f989-4c00-8ab8-c08a790389b6,None,786375ae-ec2d-11e9-8bc4-0242ac130002,,Stūpa or Caitya,,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0e7340ef-17b5-42e7-83a3-afce0750eb86,None,786fe3c9-b65a-4bee-9432-867ae7d7be39,,"Freestanding building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7c43a95f-0154-4f44-9e8f-5f2f9c7c8c4b,None,788cd320-e6a8-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ed9dd1f8-238c-4f55-b1fe-6fa94dbf1dae,None,790c0a2a-5e10-11ea-8083-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d61eeef9-4431-4d1c-bdb7-74fae89d03ab,None,794a1040-e665-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Avalokiteśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6b60b711-d4a1-4443-8a5d-ab592500606b,None,7a98de01-7e10-4dff-a67f-30e3687f11a7,,"Engaged to another building,Sataḥ ",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2a7a8484-4667-41cd-ad15-60d407073bd7,None,7e809e00-cdbe-40f2-b1a8-5074e3cd0da3,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+706a7599-d3c7-4d70-b4d7-3b7eabbfc84d,None,7eb10e0c-df75-4816-b1d3-5a541d6c7d19,,Śikhara temple,,"Hindu,Shaiva",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1e7564f9-0543-48f5-a1fe-02d92a0c74fe,None,7ebfcc36-6e7b-4afe-b4ca-a6b4ec2729da,,Domed temple,,"Hindu,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0566fb2a-658b-4381-a9a6-c11354fb95ff,None,7ee44ac8-f17a-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+93273ec7-0afe-42d0-a8d0-7022bf015b33,None,7f398f5a-a97b-4bb8-9261-b8a0cd448ae7,,Tiered temple,,Shakta,Vagalāmukhī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+23b23215-9663-454d-b41b-5d43cbc3c3cc,None,809bbb06-e6af-11e9-b125-0242ac130002,,Tiered temple,,Hindu,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e9f666ae-79ac-4551-9163-23a3c9f24553,None,80cdc8b9-422f-4a81-b2f7-3046a922e3e3,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2b2b2862-b9df-4c85-8ab0-7696b312c71f,None,81196e13-6df7-43aa-8a21-8f6200b14b65,,Domed temple,,"Hindu,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d140d3fd-1b6d-4a0b-9902-b8298b509c68,None,81e0d744-ea9c-11e9-b125-0242ac130002,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7385e9b9-78af-4239-9798-78859a24a7de,None,81f57520-f0b7-11e9-a3c8-0242ac130002,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2627246e-4d3c-4043-b369-5450eb719638,None,8206aa54-e8ea-11e9-b125-0242ac130002,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b75dab8e-2c49-4988-80e9-3f8badcfc201,None,82776660-bee0-4f35-bb18-a88f7276afeb,,"Pillar,Pavilion",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ceaad98-79d5-45e2-be30-70d6afdbd8fd,None,828826c8-56cd-11ea-8083-0242ac130006,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+953b0b6d-115f-4688-bce6-14fcb3b1d495,None,8319446f-2ea3-4d3b-8848-80f325a69132,,"Śikhara temple,Pillar",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5684b97d-ca6d-45c5-8670-8736b237054d,None,834f87e7-78a7-4012-a388-cfe5bb6f51c7,,Tiered temple,,"Buddhist,Hindu",Luti Ajimāṃ / Indrāyaṇī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d7562683-bb46-4e36-afb0-b62348212f03,None,83b26802-2953-4afc-baf7-e9ea63fd5fd6,,Stūpa or Caitya,,Buddhist,Pañcabuddhas ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4ebfd190-dca2-47bb-9fd5-45fcec70105b,None,83d25607-b6cf-4031-bb2a-36e1532ced6a,,"Freestanding building,Phalcā",,Buddhist,Triratna ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c9e6c87b-9649-4473-8629-8c85b2360934,None,83e736d7-89d3-4b2f-93da-fa2dc6744480,,Śikhara temple,,Hindu,"Originally Visṇu, but Śivaliṅga (at present)",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+42d660f9-cf05-4ab0-9ac4-1b6655e900f4,None,85784d90-e904-11e9-8bc4-0242ac130002,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b3203699-1c62-454c-a219-d047e8b274ad,None,85caf911-91c6-4848-84fa-0e09aef3e05d,,"Engaged to another building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1a283d33-3532-4d7d-a183-6a0168885245,None,8657bd6a-9d6b-11ea-9766-0242ac130005,,Sataḥ ,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+29b6f14a-0009-467f-ad08-e18476e4cc86,None,8668778f-085d-4d1c-bf8a-ed3e0e5c96e3,,Domed temple,,Hindu,Ādi Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c76c1fe8-0088-4c3f-9f79-0a414d6d6ed1,None,86c994be-020a-11ea-a389-0242ac130002,,"Freestanding building,Phalcā",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8203df5f-93d3-49ef-98fe-ac367bf91ed3,None,86caa94a-dc3f-46fb-95e1-202a709cefac,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+342dff36-00bf-4947-8e97-05b21641e72b,None,870f3118-e67b-11e9-8bc4-0242ac130002,,Monastic building (bahī),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1167d6a3-5070-49b7-a22d-cc2193fb67f6,None,8720230c-b399-41b7-a0db-08f7116f4612,,"Freestanding building,Phalcā",,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+25175bc3-ea2d-4f5c-b083-904ba96194ac,None,872e0e8c-f0ba-11e9-a3c8-0242ac130002,,Water architecture,,Shaiva,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ec29374b-76c3-4cf9-8b98-5542dedf3276,None,87486c5c-cf5a-44bc-937b-8ccff40fd44b,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+89894a68-a152-458a-82cd-092655cf88b9,None,8781be4e-af8f-11ea-9766-0242ac130005,,Freestanding building,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3338bf51-ca7f-4274-87ff-e70d5ca17616,None,87c885ca-8c0a-4bad-9c69-682de1e22b2e,,Tiered temple,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+24c5f648-8640-4668-b63c-e5f78ac0e1af,None,87e25c28-82d3-4774-bfb4-808e6eb07ace,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3d949622-4a8b-4ac2-b863-5c7657b1b4d0,None,88628b43-2a88-45c3-8a99-07f0d5b84cec,,Monastic building (bāhāḥ),,Buddhist,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2c6f9bf2-a1aa-4655-b709-1c628f4cd897,None,88835980-3eff-48f9-8655-81f58fa018c2,,Monastic building (bāhāḥ),,Buddhist,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b94bfc77-a5a7-449f-8b08-5ec4ee19cd9b,None,88b72ab0-e6b3-11e9-8bc4-0242ac130002,,Śikhara temple,,Vaishnava,Narasiṃha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0675470f-dd52-454e-87b7-05450b2d9c39,None,89ddbf0d-5d6b-4ce4-9bee-5c4403136528,,Tiered temple,,Vaishnava,Garuḍanārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e837d8f6-4b0a-4b34-be4b-eb08961d30e5,None,8ad6f527-a10b-4452-95dc-9d3ed9f9912d,,Sataḥ ,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+694db4c3-3a1b-430f-9048-c43bf9edc7e9,None,8bd0dd8f-8bee-4b91-a977-d2b40db4a23c,,Tiered temple,,Shaiva,Unmatta Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+36fb6ad4-ae2d-4881-bb65-b7d1ba1bd8e2,None,8bf6cc7e-e8fe-11e9-8bc4-0242ac130002,,"Integrated Phalcā ground floor,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3fecd186-3a89-4e79-8bf6-16998cea4659,None,8c223fa8-fa3d-11e9-8649-0242ac130002,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a0e7c14e-728b-4a92-80ca-e89adb99c10c,None,8c376304-6852-48b8-a840-20e3764916b3,,"Pavilion,Integrated Phalcā ground floor,Freestanding building,Palace,Water architecture,Platform,Monastic building (bāhāḥ),Capāḥ",,"Hindu,Sikh",Test,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+318cec42-aaa5-461f-a6fb-900aa6bd7750,None,8c5e73b9-f669-4839-b375-093e33198b93,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c1642b2d-e4d7-4a0d-ba64-7b3ee45c8a1a,None,8d7016d6-5470-11ea-b4c2-0242ac130006,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b28d2335-c0b2-44f2-99bf-5bea327c1971,None,8e375f65-fefc-48a6-af75-a116aefdf746,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6a32c9f7-5b66-4da8-90a1-4ad20fd8252c,None,8e38f1ef-d6ec-4d1f-ae8f-e94e5d425013,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fc3fcae3-8d6e-45f7-a194-d8507d28b795,None,8eca193e-f410-11e9-8649-0242ac130002,,Phalcā,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe546582-df7d-417b-92b5-a4c60393f388,None,8eeabc38-6103-11ea-8083-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā (Maitreya),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+17da717a-58f1-4ece-afd1-97732c2fdf9f,None,8ef7a2bb-be68-438f-9902-2914c6ebc9f1,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,"Hindu,Buddhist",Indrāyaṇī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ea60570b-c25e-4455-855e-1d702855f7e4,None,8f1db6ee-e77b-11e9-8bc4-0242ac130002,,"Engaged to another building,Sataḥ ",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+581eabec-13e0-4dd5-ba8e-0470cc45c7fb,None,8f55831e-9d6d-11ea-9766-0242ac130005,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+62f94750-9a69-4ba5-91be-5de40fe5714b,None,8f604b7b-bd43-493f-87e8-e36d69990ad9,,Stūpa or Caitya,,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+74cbee9c-dffd-47de-a4f0-a7ae7f05ad28,None,8f639858-8eec-11ea-8e56-0242ac130005,,Monastic building (bahī),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2df681aa-5cd1-49c5-b4e1-a431211ad301,None,8f7a0db3-8133-4eb5-97b0-8b0c8703aa82,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0b16b7c2-bf10-471b-bd47-a4274efa90c3,None,8fa97d24-02ff-11ea-a389-0242ac130002,,"Water architecture,Phalcā,Freestanding building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e440577e-1ac7-4400-aac9-a8a563ce5092,None,8fe3c368-1cbc-11ea-b74e-0242ac130002,,"Platform,Shrine",,Hindu-Buddhist,Buṅgadyaḥ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b7678dbc-83e0-47e7-a7ba-76b8b9ee7264,None,8ffce5d6-df78-11e9-81a8-0242ac140006,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0706b141-955c-434c-b195-3a379693b3b1,None,900a45b8-7fde-496b-b6c8-2bb60128983a,,"Freestanding building,Sataḥ ,Residential building",,Shaiva,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+450e20d5-2b5b-4418-ab76-0d96f0ef5abf,None,902da6e4-6f82-42e7-95e9-8e2fc2d454fd,,Stūpa or Caitya,,Buddhist,Dyānī Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+84e585b6-3953-4d61-b10d-91660d2ebaf7,None,906628ca-19ff-4a2b-bc04-db34fdeec3f8,,"Freestanding building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9cc5c177-4a8b-4d38-9d1b-012c7b8c55c5,None,908fcace-b19e-4829-b2a1-db91bb11bde6,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",Mañjuśrī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e41f3bce-2f50-4895-b292-a06090fae330,None,90a5b5ca-e613-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee53935e-33bf-4cfe-8f29-d2544ba123af,None,90aa98a2-539a-11ea-b4c2-0242ac130006,,Monastic building (bahī),,Buddhist,Buddha in Bhaviṣyavyākaraṇa Mudrā (Maitreya),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+66d4ad42-f0ce-40ba-8363-532bc9479679,None,90dafade-e8d7-11e9-b125-0242ac130002,,"Stūpa or Caitya,Monastic building (bāhāḥ)",,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+48878019-8561-4d11-a618-c9da464286da,None,91b124d2-3aa9-11ea-b44d-0242ac130006,,Stūpa or Caitya,,Buddhist,Pañca Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+033729b1-cd00-4914-a83e-03a2d45917eb,None,922539d2-e746-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+59c3eafd-c600-4cfb-9cbc-d1ead5cb2bd4,None,92ec797a-e91c-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+81941cc1-368b-4488-a838-69022dbdf778,None,930f4862-eb68-11e9-8bc4-0242ac130002,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+76a086cf-7f0e-4aaa-9218-26544a578ca1,None,938935b2-b933-41bd-8fcb-d65d713daaf7,,Śikhara temple,,"Shaiva,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+30cea9bc-cc1e-456e-9cc5-7e40bfa1e2f7,None,939ac030-e812-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b8ed56a9-ccc4-4dfc-9ca5-bf9ffc6c363e,None,93b01588-d2f1-11e9-8411-0242ac140006,,Tiered temple,,Buddhist,Jaṭādhārī Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1d3ebd8b-12c6-4e89-802e-02583dba8d7a,None,94153c04-e432-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ebf1410e-ae04-4796-9288-a7d09b910db9,None,949507c0-48a2-41d0-a136-eced941d72c3,,Tiered temple,,"Hindu,Shakta,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+30d47acf-101d-4587-8fb4-80b1fe7bf471,None,94adf614-f3d8-11e9-a3c8-0242ac130002,,Domed temple,,"Vaishnava,Hindu",Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4cf84336-9e9d-4775-b81e-bc855f120a97,None,94df40ea-74d2-11ea-b4b6-0242ac130006,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d8429979-914a-4b26-8968-430534d766e0,None,95211cfa-694d-4f3b-8f94-fe9191041187,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e8643a4b-e648-4403-83f7-53cb5cf80511,None,95846732-e5e4-11e9-b125-0242ac130002,,Tiered temple,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+42956a5a-8878-418c-b9de-075fb3cdc4e7,None,958fbc2c-e837-11e9-8bc4-0242ac130002,,"Phalcā,Freestanding building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ef86928e-3227-40a1-991c-730682285b81,None,95b952e2-e8c5-11e9-8bc4-0242ac130002,,"Freestanding building,Phalcā,Capāḥ",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fa0caad7-e812-4676-b7b3-ebedb0ac1114,None,95de5b2e-4292-11ea-b44d-0242ac130006,,"Shrine,Stūpa or Caitya",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6d927acc-6551-4b83-b7de-4ebbb186d2e6,None,96d763ae-020a-11ea-a389-0242ac130002,,"Freestanding building,Phalcā",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+68792451-bf95-4d00-9058-d7baecaadbc7,None,97945f3f-64f5-4560-b611-1bc997a00710,,Domed temple,,"Hindu,Shaiva",Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0c13b628-211f-4757-8b0a-ff6358414471,None,97c8d066-f0e6-11e9-a3c8-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+09b80e9b-3e68-414b-8053-431bd1f05a3e,None,97f7c7ff-da96-44f3-9841-9e708675d5b4,,Tiered temple,,Shakta,Siddhilakṣmī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9c9d6975-7e4c-4f8d-9769-90f8c051f147,None,984b11da-5419-43a3-ad9c-7561a204970f,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,"Hindu,Buddhist",Mahālakṣmī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+10c36c54-a802-4d98-904d-960beac4338b,None,9884d7b8-e92d-11e9-8bc4-0242ac130002,,Tiered temple,,Shaiva,Gaņeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f522a1cd-dbfd-441a-a500-340f74752a8a,None,989f4dde-8eee-11ea-8e56-0242ac130005,,Tiered temple,,Hindu, Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+458897d7-dbf1-416c-bc14-4874ab9aee73,None,98b92c2f-f4d6-439b-8f42-b34bab291ad4,,Tiered temple,,"Buddhist,Hindu","Aniconic stone, worshiped as Rudrāyaṇī ",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+172060ef-8168-4a2d-a4a1-716f8c72fdc1,None,98c7b75a-e729-11e9-8bc4-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+edf0e94e-31bf-48ee-a055-6dcdb4828060,None,990ceb20-1c32-11ea-b9b1-0242ac130002,,Shrine,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c718efa4-dd16-4fdc-84c1-7cf246e4ab0a,None,99462054-e675-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fffcf633-e97f-48dc-8b22-2adb6d95a781,None,99847ffe-f320-11e9-8649-0242ac130002,,"Integrated Phalcā ground floor,Phalcā",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5830fed4-4d0f-4374-bb8b-f5e954a082b6,None,99a444d4-6d05-42b3-8d29-d17839072d01,,Śikhara temple,,Hindu,Bhavānīśaṅkara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+11a8fe65-99da-4da7-9150-b83b4d15759e,None,9c4ca4e2-c676-4da1-9a0c-f1abf393123e,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4de22162-7f9d-489d-9267-246a41476fbb,None,9d4436ef-a0b8-44e1-9090-2ebc3e2a8bf0,,"Engaged to another building,Phalcā",,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6305efec-3310-49e8-bd72-2a0ea0cfa5d5,None,9d5039d0-e979-11e9-8bc4-0242ac130002,,Śikhara temple,,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3523e3ab-bf1b-40e5-bf1f-69d528dcdd83,None,9d50c831-722c-47b1-841d-464f04149299,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+17078668-649c-4051-baba-0a5d0dfe1f31,None,9df40600-ef45-4e96-a503-e51e961d4182,,Shrine,,Shakta,Mahākālī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9ad2529f-c41f-487e-9ef8-1d267ffe5ede,None,9e929afa-0e37-4e57-9228-d7d244a486bc,,Tiered temple,,"Buddhist,Hindu",Gaṇeśa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1911d0b4-c28e-43ca-a3b2-70ef93e60fc5,None,9f08a9e4-f561-11e9-a3c8-0242ac130002,,Tiered temple,,Vaishnava,Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5e1c7bdb-5691-4cd8-9283-5d566ca15e69,None,9f7d86ba-e6c5-11e9-b125-0242ac130002,,"Phalcā,Freestanding building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ef33396a-633d-46c0-8f49-2f7538ccd2e8,None,9fce2e86-16a8-11ea-b9b1-0242ac130002,,Stūpa or Caitya,,Hindu-Buddhist,Buddha and Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+82f33534-c0bc-49f2-a9b6-5a44f4faffb4,None,9ff7fad8-e68b-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+93a2a994-4bbd-4250-9abf-e85820525926,None,a0067903-e67a-4795-97b3-1e943372ca47,,"Freestanding building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e8361ee3-24db-4d1d-a1a9-e5636033e2ed,None,a03c60ca-ebe9-11e9-b125-0242ac130002,,"Monastic building (bāhāḥ),Sataḥ ,Capāḥ,Phalcā",,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5cb1464f-ae7f-4cbd-9fe7-8b24dcd088a5,None,a0771bce-eb36-11e9-8bc4-0242ac130002,,Śikhara temple,,Vaishnava,Kṛṣṇa and his two wives Rukmiṇī and Satyabhāmā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+239a6735-6c56-4c39-be4e-cb8159ca413e,None,a07b81ab-63f4-42de-bc49-adcfcbf04639,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6e1f9e86-c7cb-416d-a39b-06ee2c1d6829,None,a0a959a5-3d62-4bf3-bca7-baf976e2cc2f,,Monastic building (bahī),,Buddhist,Maitreya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ff2a7095-c7eb-4465-8bad-7da958d81bd2,None,a10c10ff-f2fb-459c-9768-9139e26a1951,,Shrine,,"Hindu,Shaiva",Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ec5e0b9f-8cf8-4ccb-8343-15d16eebd840,None,a12441fe-e7f9-11e9-b125-0242ac130002,,Capāḥ,,"Hindu-Buddhist,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d7f91016-16a2-4be5-8400-fdb8a53d5716,None,a1557804-f13d-4f7e-ada1-29305e9296f9,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+445236dd-e41c-4eda-a7dc-5b76b258547e,None,a16942b4-e65e-11e9-8bc4-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f6d4b3a1-05a4-4856-b4f4-2c3bb1a9d776,None,a1c1839d-cf8f-4018-b603-379f40d87ee8,,Śikhara temple,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a81b42ca-5544-4046-be6e-dbc972327b3b,None,a1c7421f-fcb4-4730-939f-f15fc0875903,,"Esoteric shrine (dyaḥchẽ, āgãchẽ)",,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dc47f132-8eaf-42d7-bee1-7487294fef67,None,a2b60b1a-1760-11ea-b9b1-0242ac130002,,"Sataḥ ,Phalcā,Engaged to another building",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+389f22f0-ac44-4b41-9941-a6a25eee984f,None,a3bae3af-9264-4671-9d80-011fa72505d9,,Śikhara temple,,Hindu,Bhavānī and Saṅkara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1cab15d5-16c4-491a-9506-da62dfec1f0c,None,a423a365-f6bf-4745-9a4a-f8747e978f73,,Śikhara temple,,"Hindu,Shaiva",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+331ec121-36a3-464a-83c0-f33bd1245389,None,a45fa664-3093-49ce-994b-1ab74ee2ba95,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+449f065f-1a0a-43db-8eeb-ff061fb7d136,None,a467140c-6285-423d-9cd7-a1265c959907,,Courtyard building,,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+62c317ae-cefe-4d6e-9de3-88d382fe3604,None,a4df4e50-f6f0-11e9-a3c8-0242ac130002,,"Freestanding building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+249c6dc3-9d38-4017-87a3-9e073e76af8c,None,a4f64b3a-176d-11ea-b9b1-0242ac130002,,Stūpa or Caitya,,Buddhist,Dhyānī Buddhas (Pañcabuddha),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+45ef6884-a4d4-4cb6-b93a-9406e041df44,None,a51a820a-e916-11e9-b125-0242ac130002,,"Monastic building (bāhāḥ),Courtyard building",,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+262c74f5-8f44-4c73-879f-f1807ce9d95f,None,a5df6af2-eb05-11e9-b125-0242ac130002,,Tiered temple,,"Shakta,Shaiva",Ākāśa Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a3230bc9-ac9a-4867-9bda-7b35e757505c,None,a6a95118-e723-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a17aff42-76de-491c-9f2d-7c515cb21cac,None,a792be02-0ac6-42d1-876d-07285e738424,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c1a82b50-eb4f-460e-98f1-4505cf830931,None,a79cdd22-e806-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+58449056-ad77-4684-8e32-23fbaf327947,None,a7d6372d-28cc-4130-b01d-060b1a6800e1,,Tiered temple,,Shamanistic,Bhagavatī/Mahiṣāsuramardinī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0a93d3c4-d54f-4542-88ad-082f8d26e947,None,a867501c-b232-4830-aa77-ee21f742ba92,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ac548a08-4c1e-47fb-9d91-f4708a0165eb,None,a89893f8-eb06-11e9-8bc4-0242ac130002,,Tiered temple,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b9f5700b-45da-4bab-b73b-92b98795d474,None,a8bb767e-f54d-11e9-8649-0242ac130002,,Śikhara temple,,"Vaishnava,Hindu",Kṛṣṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8eed2c2d-8cc1-4a1f-93c2-d1019a1af0c3,None,a910d68c-e9bd-11e9-8bc4-0242ac130002,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+128d8d41-b2f1-433c-8cda-d72262b6a0ae,None,a91155c6-e751-11e9-8bc4-0242ac130002,,"Phalcā,Freestanding building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+97366f4e-984e-4350-952b-1c1a68dc6ca0,None,a919257e-3389-11ea-b242-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Padmapāṇi Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+baf6150b-6a49-4101-942f-2da8e1d40853,None,aa24912f-0974-453a-9009-d9b984934280,,Archaeological object(s),,"Hindu,Shaiva",Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+23dbf9d5-b567-4ce0-b64b-88ca8606b8c4,None,aa4c7ab7-28db-4857-adc4-00c80287b220,,Sataḥ ,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+14e29fd0-f74b-42da-83dc-fe8b425cbf9b,None,ab83bc5c-ec0d-11e9-b125-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+18fb4948-8307-453b-a0bc-9355a5fc08ae,None,abf85117-e75e-4438-82da-aa6b6e15d0f3,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5cd0caba-6042-4b95-9ddb-a35f6aa63f25,None,ac2862e2-1666-11ea-bc0e-0242ac130002,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9938965b-3023-4e26-9f70-df796f282123,None,ac64e224-ea6c-11e9-b125-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+56a774cc-7d69-4078-8f62-39b6e4dbd35e,None,ad0003ea-3ad5-49e6-a40a-e6ed4fec1983,,Fortress,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+07934d51-a363-456e-b6d9-60c5c8983973,None,ad88fd32-e752-475c-8eeb-b93267e0c168,,Archaeological object(s),,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3eaa1dd3-c499-4f5d-9599-5e98b6273c53,None,adc2f4ee-e99a-11e9-b125-0242ac130002,,Phalcā,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ed3c9c96-b0c6-4901-8039-d9e879889579,None,adfd2472-e808-11e9-8bc4-0242ac130002,,Sataḥ ,related to Gaṇeśa,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+def240ad-f670-4fef-a86f-01cb3675d7bd,None,ae58c406-0473-4bad-86cc-722a48513358,,Monastic building (bāhāḥ),,Buddhist,Caitya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8ac06cdd-f299-4175-8df7-25b174c9eaa3,None,aedf5947-88c8-45f9-8226-c260ec8e73ec,,Water architecture,,,Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8b643090-f57d-489a-a946-563ef5ab6afa,None,aefd4c30-f410-11e9-a3c8-0242ac130002,,Tiered temple,,Shaiva,Hariśaṅkara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+78bbda24-aa3f-4a6d-9f61-55475fd47a3e,None,afa386ca-8eea-11ea-bd59-0242ac130005,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e20a8152-0569-41ae-b02c-b2f481a5a9b1,None,afda32ed-6743-46ce-9ba6-bf127276619c,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",Viṣṇu and Sarasvatī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1cb4a34e-8207-45d8-8897-57616b975fc3,None,b01f2744-ea8f-11e9-8bc4-0242ac130002,,"Engaged to another building,Sataḥ ",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f43095b9-e31a-471e-88d8-718a8d339af1,None,b07cb7d9-5bd4-4436-bb64-6c83b8a3eda6,,Śikhara temple,,"Hindu,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+05e37efb-3783-420e-9093-9f4ef1512cda,None,b088faf0-5abf-4b86-be5c-8386de2d9fda,,"Engaged to another building,Sataḥ ",,"Buddhist,Hindu",Nāsaḥdyaḥ (Nāṭyeśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e77df2cd-4e80-4878-92a6-53718e415e53,None,b0c83c96-e4ed-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+68de5b25-17a0-426b-9e23-cfe989dce6a2,None,b0d6e090-8be2-4dac-91c6-9931976a73d8,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c0cccfd4-b2e6-407b-afef-e52301fedfe1,None,b1226710-e61f-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+69617228-7341-4ed6-8528-d145ac6f4eb9,None,b142ec3d-7636-467d-b7d0-63c181af0176,,Domed temple,,Hindu,Śiva Liṇga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+621b7b24-0ed3-43b7-b685-8d1fedde14a8,None,b158dddc-a46e-11ea-9766-0242ac130005,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b150e98b-ebd0-4689-8a7a-e02f04905911,None,b171c89c-f3de-11e9-8649-0242ac130002,,Tiered temple,,"Vaishnava,Hindu",Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+288162fd-6707-4ead-ad8a-dc3d9633c121,None,b19203da-3b84-11ea-a19a-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1c6691c8-b87b-42b8-9f11-af1bb30e424b,None,b1a676be-eb4b-11e9-8bc4-0242ac130002,,Tiered temple,,Hindu,Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5c045a58-7266-4f9d-ac4f-876a9a9d44be,None,b21b09ef-1998-4f1f-8e8b-ffe6b99f9116,,"Engaged to another building,Phalcā",,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee25671a-37b4-4e4e-a0cc-f7632b595643,None,b23905f8-e7f2-11e9-8bc4-0242ac130002,,"Engaged to another building,Phalcā",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7ad56639-a745-49a8-adbf-18f2a17eb77f,None,b2fd35c0-aa7b-40d1-98e3-9d268cbd6e90,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6d41ca19-fcb9-4ba9-8397-4b26835c42a9,None,b3247856-e619-11e9-b125-0242ac130002,,Domed temple,,Vaishnava,Śrīdhara Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+61d8506a-01dd-40f6-a921-0d17e4509033,None,b345df3c-e71d-11e9-b125-0242ac130002,,"Engaged to another building,Sataḥ ",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e0cf88d3-4196-48ef-9893-6ab33b9f3735,None,b53e45b8-ebf5-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6e5e24ce-363a-4921-896f-804eee94d39b,None,b573cb9c-9644-4567-841d-83fc0c61403b,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c8925a9f-a4d0-4bf1-92d1-477f3844b6cd,None,b5f8d23a-166a-11ea-a10c-0242ac130002,,Phalcā,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e939638c-de39-4847-8ea3-0ef5717bebda,None,b66fa304-e68d-11e9-b125-0242ac130002,,Tiered temple,,Shaiva,Triliṅgeśvara (Śiva),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+77ac2f80-1699-4424-bb17-f8a83022e4c2,None,b690f84e-94ec-4f89-b376-e7e3fbd55ddd,,"Freestanding building,Sataḥ ",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+03d4db27-0c7d-4d18-b3db-8ba075a779f0,None,b6c2586a-e77d-11e9-8bc4-0242ac130002,,Tiered temple,,Hindu,Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e29be97e-e47b-463b-98c3-2a2f217f3743,None,b6c6ae2c-b5f6-11ea-9e0d-0242ac130005,,Sataḥ ,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5d9ba49b-0022-4127-806d-f467b92db2aa,None,b717f92c-5e11-11ea-8083-0242ac130006,,Tiered temple,,Hindu,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5fd6a678-0a2e-4012-a537-75d57a0d372d,None,b7910d9c-e915-11e9-b125-0242ac130002,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0f74e563-e5fe-417a-b63e-bffb13058bdd,None,b7a28a89-94d9-4b40-9e51-e5afdfc4e759,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9d43066d-13c3-4642-8738-888b51e2e47c,None,b7adbd29-8528-4609-9ec5-fb8db9579d4d,,Phalcā,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+55614670-5be5-4158-a8dc-b2c4a35691ce,None,b838d133-9b23-4208-a191-91b883182755,,"Water architecture,Śikhara temple,Pillar",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e543c9a5-4db4-40bc-9b4d-c35c057d49db,None,b83ff19b-0e10-4281-8bbc-92cff905383f,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+527ed8fb-fa01-4a98-8611-a0d2d6a76334,None,b8985e38-e68c-11e9-8bc4-0242ac130002,,Pillar,,Vaishnava,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+48d851ba-5a94-41b7-ad00-4b98c0116b84,None,b8b26a0c-02a8-11ea-a389-0242ac130002,,"Phalcā,Engaged to another building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b60202b2-f542-4112-ada5-f1f1a7f2d3dc,None,b90d17aa-ebff-11e9-8bc4-0242ac130002,,Śikhara temple,,Vaishnava,Kṛṣṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8c0d1096-3ab9-47b3-9c66-0c8057733e1d,None,b92b7a0f-0268-43e8-bbe2-d83d39d6e54b,,Monastic building (bahī),,Buddhist,Akṣyobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e23804c0-9d01-441c-ac96-41500d32e6c9,None,b9ae5311-886f-4c4e-a207-1d16593c3d1b,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+07ef29b6-7a38-44e6-b26b-e23a44b0b449,None,b9c7d774-e82c-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,sanctum is empty,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d574f172-4a56-4e42-910c-34524199341b,None,b9e834fe-e680-11e9-b125-0242ac130002,,Stūpa or Caitya,,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a3e4ca8d-77c9-4b30-949a-173b8a2e7a52,None,b9e8a7f4-65d8-11ea-b4c2-0242ac130006,,Tiered temple,,Hindu,Bhīmasena,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6103ec3d-168a-4d84-8974-5a8e8f582f44,None,b9ea1eba-e8c2-11e9-b125-0242ac130002,,Śikhara temple,,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8849a441-538d-4a0e-b84b-d63c2304c22c,None,ba289280-9a88-11ea-82af-0242ac130005,,Capāḥ,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b07184ab-7586-457f-987f-e57ba57b5094,None,ba391e8f-b8ce-4cdb-9e24-8c254e2b24c6,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9c184974-5d15-4f44-8b1b-017a2ccf2a17,None,baf9c7ea-0782-11ea-b2c1-0242ac130002,,"Freestanding building,Phalcā",,Shakta,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e1dfa583-3220-4c37-a478-b8487059664c,None,bb58b263-f53c-45f6-9e1c-d9a3e5a68856,,"Engaged to another building,Integrated Phalcā ground floor,Sataḥ ",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5ed63bb4-aaf9-4a9b-a72b-ffeae464851f,None,bb6b3f3e-e832-11e9-8bc4-0242ac130002,,"Courtyard building,Monastic building (bāhāḥ)",,"Hindu-Buddhist,Buddhist","Bhagavatī, Yogāmbara",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f552423f-e395-48ed-84a2-b6e98fca4bb2,None,bb7c0f44-35d0-11ea-a67f-0242ac130002,,Tiered temple,,"Buddhist,Hindu",Manjuśrī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d2c3a418-e029-4414-aa14-25a3c709e216,None,bbb0b3d2-e681-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dcab3075-c8af-497e-8016-b037cf052306,None,bbe0fc5e-d632-11e9-a1bd-0242ac140006,,"Courtyard building,Palace",,Vaishnava,Keśavanārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e36f58e8-d682-4862-be18-cbaa034128af,None,bbf0265a-2f5e-46cf-a7b1-321c77b3d84b,,"Engaged to another building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d0395bb7-d6d1-495a-b71c-dfa5a42dcc51,None,bc3c1b44-e60d-11e9-8bc4-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b2fbb7d3-b4f9-464b-a277-1a1288b0edce,None,bc7fbe06-eec3-4f9d-8bf0-e72186e51e0b,,Residential building,,Buddhist,Śākyamuni Buddha (also worshipped as Samantabhadra),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5808a3cb-7277-4824-904e-cf44f5734d71,None,bd721439-4d10-41da-b917-532f375c7d40,,Monastic building (bāhāḥ),,Buddhist,AKṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ac5fbbea-b38a-45d5-a3b9-2aaadd20328f,None,bd790583-27ca-4af9-8c0f-19a8ef459c91,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+91b1f149-4cba-4366-b228-1b246f1fb5bf,None,bdca6826-e8d3-11e9-b125-0242ac130002,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e3ffbbee-2d1e-42c7-a2f0-f27c212423cf,None,bdd6cf60-bf76-4b4c-b840-05df41a35429,,Shrine,,"Folk,Shamanistic",Thārpa Maṣṭā,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1779fb77-8134-4235-b4a3-2a731f2a83e8,None,bde08b8a-e5ed-11e9-b125-0242ac130002,,"Freestanding building,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+712abab3-9234-47eb-8ca8-d8f65fd62e2d,None,be9d31f0-2cb2-40d0-8af9-3df0fcbb0040,,Monastic building (bāhāḥ),,Buddhist,Buddha Śākyamuni,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f64b2f2e-6f85-4e3d-b886-4d6f2dc5297a,None,bee5d202-74c6-11ea-a71c-0242ac130006,,"Freestanding building,Phalcā",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8d3288e4-a193-4b45-8b9e-fd8b3e167ee7,None,c0655dd4-e671-11e9-8bc4-0242ac130002,,"Phalcā,Engaged to another building,Capāḥ",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+45f5c1d4-badf-4753-be80-e0b8f80e4b49,None,c07ed9a8-8a2b-4453-9478-803722743140,,"Domed temple,Śikhara temple",,Vaishnava,Kṛṣṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee259c64-183f-41ce-b9a1-220469e87679,None,c0e068c4-3861-4dda-b854-bf9090b1943b,,"Freestanding building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+092c1685-d2af-4498-bb72-3b9703513481,None,c14d067e-43e0-40e2-9285-b46e67f7512e,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d86e57b0-7336-4bb1-a26f-bcbba9e33a9d,None,c1999448-f401-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fa160a02-b572-42b6-a419-8628a32f081e,None,c1c37f40-b4fa-4cc7-89ab-ab47dd29262e,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2c3523d8-4aca-409b-9100-119936cd3a30,None,c232bdac-f1a0-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+381f20d6-93b7-4d50-8e64-e4ea269cf25d,None,c264266c-a68e-4301-a3d2-4dec489ccb0f,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7a900b55-30ef-461d-bca4-08031ea69708,None,c424b153-f094-485f-9869-38b571398549,,Stūpa or Caitya,,Buddhist,Aśoka Caitya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9ba2ed75-e2d4-44ab-967f-708b102d6771,None,c473d060-68b2-4ac2-9625-d83b71151062,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bb0b6912-bd48-424f-9b02-95576cc57855,None,c50fc4bd-3c46-48be-87b7-d9a01da0a631,,"Engaged to another building,Phalcā",,Shaiva,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cf9d234e-a5a5-43dc-ac0d-4ea49bd3a64f,None,c5248a52-966b-43c2-bc90-4d30d6ba824a,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fd179837-e819-4d82-a5f7-89c5d2167758,None,c566021c-f3ef-11e9-8649-0242ac130002,,Tiered temple,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8ef47cd2-1210-4d5a-894e-ad2dcd670c42,None,c5b0b399-6128-4f61-8c17-3299d977626a,,Śikhara temple,,Vaishnava,Śridharaviṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+07bac3ab-976c-426d-baec-426222660fe0,None,c65d730c-e80b-11e9-b125-0242ac130002,,Stūpa or Caitya,,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+19916649-5ea7-48cd-be6e-4325b59d4277,None,c6c9638b-35f0-4420-be0b-f53c95df6449,,Residential building,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c01baaed-e87d-4a3d-8b87-2e003bb197f8,None,c71c03f4-1149-454a-8e88-3e1a9e8d9ec5,,Śikhara temple,,Shaiva,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c61b05b5-4e69-4034-b7c4-52b26220fc58,None,c72a8936-6822-11ea-8083-0242ac130006,,Capāḥ,,Vaishnava,Lakṣmī-Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+221fc574-ea92-41c4-b518-14d5fd2ed33b,None,c79cc000-e8f2-11e9-8bc4-0242ac130002,,Tiered temple,,Shaiva,Viśveśvara (Śivaliṅga),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6b264e98-717f-4acf-bdcc-9f850c106bbe,None,c7d1edc3-a3ae-4dea-a8f7-a1642645fd06,,Water architecture,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+460751a2-2a7a-4886-bc9e-0f0dc1131cd9,None,c7d9c086-2284-4081-82de-322f2c723d31,,,,Hindu-Buddhist,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0efa9dce-44b5-454f-aa7e-049f8d4ca67f,None,c82a4429-3f99-488c-9126-08e90a83a573,,"Śikhara temple,Archaeological object(s)",,"Hindu,Shaiva",Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c0195474-a82f-433f-b93d-d2e763f4408f,None,c8834722-30f6-11ea-a67f-0242ac130002,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dc78decb-49cb-4452-bb00-3368617176b7,None,c8a590ea-78b0-437c-b392-20614ceb58e5,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cd062f6f-b882-4a82-9649-d7f4129c0b53,None,c8b1d0f0-4fa7-47f0-b318-f57249bab295,,Archaeological object(s),,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3df6be9c-74a7-40bc-aaae-6c8dab58f2cc,None,c9073acf-a4d3-42a6-b3e0-64bba8d596e3,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+25d6f546-a61d-4a4f-b11f-aff0a2e76c4a,None,c955a75b-f223-473f-a256-82f8a1d068f5,,Phalcā,,"Buddhist,Hindu",Bhagavatī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e60269d9-feca-4262-8587-11a349146e62,None,c977c8df-04ac-46d1-a6da-b0b268b33baa,,"Stūpa or Caitya,Pillar",,"Buddhist,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+21a39894-3403-4750-9432-8b5932ad11df,None,c97c089e-8eed-11ea-8e56-0242ac130005,,Water architecture,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0464ca01-39c0-44a5-824e-5127b73e888b,None,c98dc194-e676-11e9-8bc4-0242ac130002,,"Freestanding building,Phalcā",Maṇḍapa,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+38a12419-9d7f-46c0-bde9-f25d15cea1fe,None,c9bc2916-eb40-11e9-8bc4-0242ac130002,,Tiered temple,,Vaishnava,None (previously Rādhā-Kṛṣṇa),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1196910b-713d-405d-947d-b4405bb1c3c7,None,c9fb4246-b740-47fb-b2a3-c5776039167f,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+eceb0858-fce0-4439-9325-608a375849af,None,ca03a00c-e96a-4eef-bd2e-13f7942459a5,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+39ec9734-fa2c-4112-84ee-e3de747f6123,None,ca193ec5-9ef4-48dd-b4ba-3158b6996350,,Phalcā,,Hindu,Umāmaheśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+507cb4fd-36bb-4dd6-a7df-5f58cca6a51f,None,ca2cb4c6-e6b6-11e9-b125-0242ac130002,,Water architecture,,Vaishnava,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+efbba20c-8b46-4be2-a78b-025b4db55dcc,None,ca467b46-96fa-49e4-a093-6da5a304fcc8,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2fa6b8a7-61f5-4264-a8ac-8a4c315a44cf,None,ca61f6c0-e681-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d32124b6-f4aa-496c-9da9-33c390c01281,None,ca7dd19e-f7af-11e9-8649-0242ac130002,,Sataḥ ,,Vaishnava,Viṣnu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+45520c90-ceb8-4b9c-a0ca-198b92e862fb,None,cb03ff18-e75a-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Buddha Śākyamuni,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ba833bb5-6d48-474a-9a62-57604c7ba448,None,cb1604cc-eb5d-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee80c062-1c95-4970-9e05-a3a83f6fe273,None,cb193cf8-529c-4656-9468-05af05cdcdc5,,Stūpa or Caitya,,Buddhist,Dhyānī Budhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a5babe9a-27e2-4788-95e2-ce6710cc0a33,None,cb4026bb-ffb1-473c-be38-7256bd1f8700,,Shrine,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f343eedf-5f84-4f65-a29e-08d536835711,None,cbae4fa5-4717-4c6c-9b34-eb8d696a09ba,,Tiered temple,,"Hindu,Buddhist",Gaṇeśa ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d3698ede-4c48-4b7f-bc5d-d59ce6d86197,None,cbbbc576-3b42-11ea-b44d-0242ac130006,,Phalcā,,Hindu,Viṣṇu and Lakṣmī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d476877b-42c1-4f33-8db2-b14f5cbb4d22,None,cc076a1e-4e0a-11ea-8083-0242ac130006,,Phalcā,,Unspecified,None,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9751ba0b-4639-4415-b608-12db2f62b7ba,None,ccb98862-3d06-11ea-a19a-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b983809e-0620-4bab-b54c-1f39db65de08,None,ccd765bc-e900-11e9-b125-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ddd0789-2f14-4eb1-a2cc-ec5f3328ec96,None,ccfc9e0a-70ea-11ea-966a-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7bb2b0a5-cecf-44be-8a18-08682c4c9819,None,cd358e72-4b24-4377-9061-27b9e408dbb5,,"Esoteric shrine (dyaḥchẽ, āgãchẽ),Courtyard building",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+23d99d5b-d192-4685-bffc-fa52df13060b,None,cdc824f7-fbb4-4aa3-b164-441876d29ed8,,Shrine,,Buddhist,Sṛṣṭikānta Lokeśvara,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+112c153e-ab88-4674-9dad-83c80a63a6aa,None,cdeafb74-f3cf-11e9-a3c8-0242ac130002,,Stūpa or Caitya,,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c9fcbc76-bf61-4a39-9101-716645baea7f,None,ce814212-e698-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+004972e0-1707-4ddc-a293-fe6b5142b509,None,ce9b3552-e916-11e9-b125-0242ac130002,,Śikhara temple,,Shaiva,Śivaliṅga (Bamavīrabikateśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+888b5957-4a6d-4046-a066-6803961fed88,None,ced28492-e666-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ff24411f-26cd-4bfb-96df-51e05d504e5f,None,cf2cf2a2-fbb9-11e9-a3c8-0242ac130002,,Phalcā,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+79d37fc3-f5e3-4449-acef-6f59d37b8e0e,None,cf39fef8-b9bb-4b7d-a27d-48b4b3750d7a,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d95e835f-1716-4e40-897a-fe99bc360ffa,None,cfc0099e-f15d-4c3e-8d8f-e048222f7956,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1c9e0d9b-0df1-42db-8df6-5c6776a4c9d9,None,cfcdabd6-e80c-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c528c764-acef-4f01-8e89-f8cae073b1c8,None,d024e070-e7f5-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+f552dea1-f79f-4fcc-befb-ae52671e3282,None,d05bfad4-e696-11e9-b125-0242ac130002,,Śikhara temple,,Vaishnava,Kṛṣṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+29cc13b8-5da3-4cd7-a3c3-9ef602d1766a,None,d134c8da-df36-486b-9582-93e5f2cf9146,,Śikhara temple,,Vaishnava,Śrīdharaviṣṇu ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+744ad618-e264-4e08-b3a9-fd5e4d2d960a,None,d13be190-1750-11ea-ac74-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5d388d92-a931-44b8-a1d8-dd70d1da766d,None,d188f409-0b23-4616-93a8-6ba1fa524630,,Water architecture,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+9bad4b44-a84c-4a2b-9bac-b264491da6fc,None,d1bc6464-69b2-11ea-b4c2-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+557e9501-a90b-4fad-a2d6-59c587d0648a,None,d2578f40-cfce-4450-a8c1-3092c08ef487,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ccd6de50-7a44-41e5-bf36-bcf4dbc140e0,None,d292d972-7a85-4e3e-8af6-75db779adaab,,"Freestanding building,Phalcā",,Buddhist,Padmapāṇi Lokeśvara ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d5396621-9e09-4c44-b66a-25ddccda685f,None,d2d6cf8f-9c71-417f-b82c-89f487f13a74,,Pavilion,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+cb6c45c9-4927-4f15-9c2d-690029fb7d6b,None,d3c6eaf6-e76f-11e9-8bc4-0242ac130002,,"Integrated Phalcā ground floor,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c92b135e-a40d-47a6-b09c-14ff6f161792,None,d3ebfce1-622b-4c10-b7a4-e827e24358be,,Water architecture,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7462ac8d-3767-4573-ae59-6db1a60a1838,None,d46efa17-704b-4706-be58-fe535e26bbfc,,Monastic building (bahī),,Buddhist,Maitreya Buddha (in Bhaviṣyavyākaraṇamudrā),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+265432a4-9bd4-48d4-8fb7-764366d47520,None,d5354d0a-fb98-11e9-a3c8-0242ac130002,,Tiered temple,,Shaiva,Viśveśvara Mahādeva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0ddae7b0-ccf7-45ea-aa16-68543fab07a4,None,d5d76955-24df-4827-9df5-d9f9679da6b5,,Pavilion,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+09880761-247a-4b48-aea0-ff12ff41acd8,None,d62e32fe-b78c-43af-817c-edb16e6d7ae8,,Shrine,,"Buddhist,Hindu",Aniconic stone (Indrāyaṇī),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+56e32e50-be3f-4e12-9249-95638e6eccfc,None,d642cefe-408c-4943-9405-b0aebe0d82a1,,Phalcā,,"Hindu,Buddhist",Buddha ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+872b99ee-e77c-461a-92a4-e43382bbd03a,None,d691fdfc-ba4f-4035-b3cf-82e6a6b14169,,Śikhara temple,,Shaiva,Śivaliṅga/ Silu Mahādyaḥ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+62fdfcbb-5bbf-44c5-bc4f-f0775429b13b,None,d7817b79-6689-481a-acdf-8956b936acf5,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+edc38574-bf84-4cd9-ad49-d4f46c7098ae,None,d7c4e686-d20c-4141-9a25-dfc5d3ccab45,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e4c5f84c-fc0d-45aa-89cc-47f1062ab58d,None,d7d38dd2-f338-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ecfba8ac-2e31-4c07-ba1f-c053a2b3b602,None,d966be8e-e82b-11e9-8bc4-0242ac130002,,Sataḥ ,,"Hindu-Buddhist,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+04ef06f5-8658-492c-91e1-46f7b14c1da0,None,da572af6-f404-11e9-a3c8-0242ac130002,,Domed temple,,Vaishnava,Nārāyaṇa/Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4579fe0d-fbcc-4943-87b9-99f5c6ff22d4,None,dacad8ea-e7e1-11e9-b125-0242ac130002,,Water architecture,Pond,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4eef649-a683-4af0-b490-57960f28c0fe,None,dad90976-01e3-11ea-8f3c-0242ac130002,,Stūpa or Caitya,,Buddhist,Buddhas,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bdd4045a-a976-4b63-8a63-32e949e8823b,None,db4d5da7-cd79-4f96-b624-d28bdef73274,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+110d1781-ac11-4691-a0af-7dd697dd4d72,None,dbacea6d-e4a2-4ac1-93ff-0a0c3323fa97,,Archaeological object(s),,"Vaishnava,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d1a5892e-65b9-4c6b-aced-9809525ffefb,None,dbee183c-e72c-11e9-b125-0242ac130002,,Tiered temple,,"Buddhist,Hindu",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+39527b7f-4c53-4b30-9599-307ce9762736,None,dc5306f4-f571-11e9-8649-0242ac130002,,Integrated Phalcā ground floor,,Buddhist,Bhairava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c54bfca4-7a82-42e7-8afd-0a60bf8c7f92,None,dc691a70-2258-11ea-b9b1-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+adb957c4-1d2e-465c-9e4c-7ace90ffcbaf,None,dcf4fb94-4f23-4804-967a-f9c7b13910bc,,"Engaged to another building,Phalcā",,Hindu-Buddhist,various deities,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+78c60300-e965-44ca-9929-4ab6f1b9f99f,None,dcfad1e4-d632-11e9-a1bd-0242ac140006,,Engaged to another building,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+54f80614-f877-4666-9d24-79971756cab4,None,dcfc4ed2-e74b-11e9-8bc4-0242ac130002,,Water architecture,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+82cd51ca-e130-4612-8d4d-ffc29a039031,None,dd8ad654-e91a-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ea5caad-f955-4d36-9885-88839825eff2,None,de276e42-6b9c-11ea-b4c2-0242ac130006,,Tiered temple,,Shakta,"Aniconic stone, worshiped as Siddhilakṣmī",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+35900079-dab3-4c47-8e9a-44d0060da47c,None,df0f0bae-e699-11e9-8bc4-0242ac130002,,Phalcā,,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+063cf154-6dce-41c5-b3b1-5678cb300304,None,dfb6f035-9e37-4acc-a608-0d3b85d66491,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+e32b7b91-f110-4913-80a2-73d051a72c3b,None,e0659b0d-4f7f-4f56-a3ff-09b266dc3518,,Phalcā,,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7fdb31b9-890f-4afb-abca-7099bc23d2c9,None,e0a00834-5fbf-11ea-b4c2-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b8225f80-80b8-4df7-9481-1a9b054c45c8,None,e20b2c0e-e741-11e9-8bc4-0242ac130002,,"Phalcā,Sataḥ ,Freestanding building",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1bbe8ccd-f23a-43e3-b901-75363c79e4d5,None,e2371888-e6b9-11e9-b125-0242ac130002,,Tiered temple,,Vaishnava,Trivikrama Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+80d6a5b1-343a-4480-8609-68e602be9969,None,e24051bb-caf5-4479-b3e7-e8252a550661,,Śikhara temple,,,Śivaliṅga,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2f7c4469-e6d4-4f9b-89d8-2a1202770501,None,e273afc4-5fc1-11ea-b4c2-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ad15e76-a064-4a8a-bb09-0c18cc9a55d8,None,e275f09c-d920-492e-a565-dacb55ddc4ae,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+79f3f855-4988-4c70-b664-4cb782225948,None,e2e7bd8e-e81a-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,"Triratna (Akṣobhya, Prajñāpāramitā, Ṣadakṣari Lokeśvara)",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ed3cbff4-ad3e-476f-813c-67b24f5f3b1d,None,e3074532-e806-11e9-8bc4-0242ac130002,,Monastic building (bahī),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0f6c177e-d0ee-4084-94fd-20d6cbadc03e,None,e333b4f4-6caf-11ea-b4c2-0242ac130006,,Tiered temple,,Hindu,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+57fcf946-73a5-4d54-a3a1-f680cbeb75b4,None,e36d8152-e695-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhyaḥ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+da8614f5-6c19-44f5-aaad-2bc8a8a6b136,None,e4596c18-3c68-424b-ad72-eecd068f1ee9,,"Freestanding building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a5a1006f-012b-4e29-9d98-3b0610ce34fb,None,e499ec9a-e66e-11e9-8bc4-0242ac130002,,Engaged to another building,,,Nāmasaṅgīti,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+001ac46a-556b-4910-a410-09f43d8b709b,None,e4d19336-e8d3-11e9-b125-0242ac130002,,Domed temple,,"Shaiva,Hindu","Umāmaheśvara, Śiva",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+346a3f1c-53ac-462f-913b-4f43d2b9c008,None,e4dcd814-3927-11ea-a19a-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c0ef35be-bc6f-46e4-9935-a703f1cba7db,None,e4fe41d3-ce80-44ea-a77d-df8e00c5ea57,,"Freestanding building,Phalcā",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dad60c56-e59f-4ccc-be56-cbae469f05e0,None,e5618dda-e5f2-11e9-b125-0242ac130002,,Tiered temple,,"Hindu,Vaishnava",Jagannātha (Viṣṇu),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dd2c1d2f-711c-4c6f-a288-b3165c90e247,None,e57655fd-5077-44a7-96f2-23039e15b134,,"Archaeological object(s),Śikhara temple",,Hindu,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b5fbd324-15c8-4d9d-973e-733ed61d431e,None,e5aeceb8-4297-11ea-b44d-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1ea546a7-bfd9-42ed-9aaf-24690683de83,None,e5d8a76a-e671-11e9-b125-0242ac130002,,"Engaged to another building,Phalcā",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dc9c3726-4a63-4e4e-9764-5c282f96a450,None,e610f418-4d5e-11ea-8083-0242ac130006,,Phalcā,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+66d075ff-ad99-4daa-8c15-6a74af82cabc,None,e67206a4-e913-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+369e026e-3639-470d-8d28-6f5fd0ecc296,None,e6bb5368-4296-11ea-a19a-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+dd9bb7f7-827a-4f0d-8368-6d4987e2287b,None,e6c73144-fadc-11e9-8649-0242ac130002,,"Phalcā,Engaged to another building",,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3c1f6700-abf1-42d6-8e38-547282489ff6,None,e6f72884-e774-11e9-b125-0242ac130002,,"Phalcā,Engaged to another building",,"Hindu,Buddhist",Bhairava shrine in front of the building,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+31fd4e44-40e4-482d-a530-0c1ae9b0b94c,None,e7151050-eb4e-11e9-b125-0242ac130002,,Stūpa or Caitya,,Buddhist,Amitābha ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+eca28171-77e4-4721-8ad9-b8e010debc03,None,e73522eb-0ce8-4bca-99a2-add0f09eb964,,Stūpa or Caitya,,Buddhist,Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3720482b-b6bc-451d-aff5-6fc90d7e8ee6,None,e73fb90e-4a7e-4ec5-b889-774943bba723,,Monastic building (bāhāḥ),,Buddhist, Akṣyobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a4971eae-b8fd-4c03-bccb-a942aaadbc53,None,e78429eb-76fd-429a-869b-d06884f69467,,Water architecture,,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c40e922e-8a98-4f21-b9f0-d291dd1d6e62,None,e7ad4210-ca99-11e9-b993-0242ac140002,,Phalcā,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3a0bce1e-77f1-4915-97a9-5bd8dabef50d,None,e82b6796-485c-4df1-8a87-31fb7b52abb4,,"Tiered temple,Monastic building (bahī)",,"Shakta,Buddhist",Akṣobhya and Vijayeśvarī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3c24048f-c1a3-4173-9000-6687d6252f37,None,e862d312-eb57-11e9-8bc4-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a873f375-bd3b-499c-b114-fc7a17049ba4,None,e95e1763-b6b3-4c0a-a4e1-53b38bc7b043,,"Engaged to another building,Phalcā",,"Buddhist,Hindu,Unspecified",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3a9e9547-2984-4366-8a73-27c116b0870a,None,e991cf24-3051-11ea-a67f-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akśobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bf25f878-556c-44a0-99e0-e989d9a9ff99,None,eb386850-e4f3-11e9-b125-0242ac130002,,Tiered temple,Roofed Temple,"Buddhist,Hindu",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+0b9ef649-8c8b-4df2-9957-5b3692cfaad0,None,eb54e4f6-e4e6-11e9-b125-0242ac130002,,"Phalcā,Engaged to another building",,Hindu-Buddhist,Nāmasaṅgīti,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6dc17492-8469-4f79-b76c-fb437c8640e2,None,ebab7d45-3764-4565-8468-5b6228068d73,,Pillar,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+115d50d6-0c9c-4c9b-a232-eccc7d475f64,None,ec53aef0-70f0-11ea-b99f-0242ac130006,,Tiered temple,,Shakta,Aniconic stone (worshiped as Ugracaṇḍī Devī),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+3eb3c4c1-b4b3-4576-a181-4bfedff1b427,None,ec58b581-a7d0-4a3c-a45d-a7a83107b3d1,,"Śikhara temple,Shrine",,Hindu,Harihara (Hariśaṅkara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+7a0f292e-c17c-4982-a978-eab2b646d8ea,None,ec8d43e6-bcd6-4904-b80e-436fcc0bfcea,,Śikhara temple,,Buddhist,"Triratna (Buddha, Prajñ̃āpāramitā and Lokeśvara)",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6154c835-e222-416c-b4ed-8c3ab6b2c328,None,ecd19c3d-9488-4859-83b4-482e26daa713,,"Engaged to another building,Phalcā",,"Hindu,Buddhist",Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+abffeb02-3fbd-4ab9-9961-84ddb526f5ed,None,ece92710-65d8-47be-b6bf-126099f3d742,,"Engaged to another building,Phalcā",,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+4046b3a1-b2b0-4d2d-87f9-bb40bddf35ae,None,ee6be98a-0ace-4c06-bb8c-a47c941fced7,,Tiered temple,,Hindu-Buddhist,Gaṇeśa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a2574a7d-4caf-40dc-a9b2-1b856e28d758,None,eed34321-7e6d-44a6-840f-68589d631b8b,,Domed temple,,"Hindu,Buddhist",Mañjuśrī,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d0110844-874b-4383-a6bd-5c4ce07132c3,None,ef590bc6-cbf6-4903-a8ad-37a529030f6f,,Water architecture,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+685b6f82-cf08-43ae-96cf-e675b00d83f4,None,ef7069e0-9e23-4cb6-8af4-b5220d7197b0,,Shrine,,"Buddhist,Hindu",Dolã Māju,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bec0639d-b7e9-4b90-856f-bb49f6445d85,None,effa4b2e-069a-11ea-8a1c-0242ac130002,,"Freestanding building,Phalcā",,,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+19ec506d-d2c4-4dc8-98c8-f17c4d26ce15,None,f0ef1474-eb56-11e9-b125-0242ac130002,,Tiered temple,,Shaiva,Śivaliṅga (Bālakṛṣṇeśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+78ae7004-7176-4f46-a431-3d79c645cf5c,None,f12a1f58-ca48-11e9-b993-0242ac140002,,Pillar,,Unspecified,Annapūrṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+28467c96-54d2-420f-bd29-27a0a0e19c86,None,f17e763a-e815-11e9-b125-0242ac130002,,"Shrine,Monastic building (bāhāḥ)",,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ee2fe84e-b756-4647-a1bb-6aebb4e8489b,None,f1dcfeda-d07d-11e9-8411-0242ac140006,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a0b36617-8a29-4656-8300-97764516028d,None,f1f7e39a-cb04-11e9-b993-0242ac140002,,Stūpa or Caitya,,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ed6cb8d9-b1e6-4ad9-9126-f6b41999f6a2,None,f2154aee-e656-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+8e74331d-58c2-434f-9e69-41f33dd9126e,None,f26daa2c-d0cf-44c1-beb6-93d190d93e10,,Śikhara temple,,Hindu-Buddhist,Karuṇāmaya( Padmapāṇi Lokeśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+248a8628-ac47-4a65-84f1-df1ff2a0edd4,None,f2ae29a4-e92a-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),Courtyard with caityas and shrines,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+303c35df-1de4-4b6a-b05f-c3b4f76ce638,None,f2e86f2f-a0eb-4fe8-b090-0677d63bdc5f,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+c5971e15-d09b-43bc-b74c-ea7db57bb241,None,f360c428-f18c-11e9-8649-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d6c826ab-240a-46ce-9f49-1b45e9eb3096,None,f3be59cc-e6a0-11e9-8bc4-0242ac130002,,Domed temple,,Shaiva,Sivaliṅga (Bhasmeśvara),0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+01559b85-9ffb-4740-8ce6-0e3310294597,None,f3e7c4ba-cad8-4f46-97ab-af7388f9a744,,"Śikhara temple,Freestanding building,Archaeological object(s),Pillar",,Hindu,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fe54243a-0849-444f-b81b-dcd11b7d0e64,None,f40297a8-5fc8-11ea-b4c2-0242ac130006,,Stūpa or Caitya,,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ea22c073-2754-4462-bb1d-fd02a915c10f,None,f5665e6f-bda0-4b92-8c79-f5f68e11c896,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b9ebaac1-1deb-4a9d-b769-e784f080a2d6,None,f6968910-e8f0-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2b439a00-5bdd-4c9a-97ca-e276e6677c0c,None,f7773bd2-1f14-4d59-890c-52b8d6bee5ae,,Phalcā,,Hindu,Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+d352cdd0-ff86-4e46-809f-fbb7aebd0d07,None,f7f45a9a-350f-49bb-ae23-647492f2c434,,Monastic building (bāhāḥ),,Buddhist,Padmasambhava,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+1bcec5c1-d8f0-4130-acee-59c95084f71d,None,f8366c56-539c-11ea-b4c2-0242ac130006,,Phalcā,,"Buddhist,Hindu",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+2f487b1c-646d-4e29-83a6-f2a6bf0f7ee7,None,f8a2590f-ed13-4cab-b2e4-b8049f306f3e,,Śikhara temple,,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+fdd259ec-c2cb-4724-aa7d-e322f652d918,None,f96c7cf2-e923-11e9-b125-0242ac130002,,Śikhara temple,,Hindu,Gajendramokṣa Nārāyaṇa,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6e20432b-d7e9-43c9-891f-c096e8505a86,None,f99b4e0e-6215-11ea-b4c2-0242ac130006,,Monastic building (bāhāḥ),,Buddhist,Akṣyobhya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b72f0f6e-8f9a-45d0-90b9-0e30708c3586,None,f99c8d9c-baae-49b1-87f7-95f8e9003d90,,"Water architecture,Śikhara temple",,Unspecified,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+ccd0fd9f-b21c-4f00-8587-c0a4cd77bd0c,None,f9cdfd48-e837-11e9-b125-0242ac130002,,"Integrated Phalcā ground floor,Phalcā",,"Hindu,Buddhist",,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+40b07d1f-1ccc-4de2-87ce-6ff76b9dba97,None,fb356352-3c14-11ea-a19a-0242ac130006,,Tiered temple,,Hindu,Dattātreya ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+790b928d-dc0a-4b25-8543-b8f68472bf18,None,fbe267a8-f346-11e9-8649-0242ac130002,,"Stūpa or Caitya,Monastic building (bāhāḥ)",,Buddhist,"Originally Akṣobhya, now an image of donor ",0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bc0599f3-0ec4-4944-b89c-e75bdb875120,None,fc1db1e6-4fae-4899-816a-e3c4d3da77d4,,Water architecture,,Hindu-Buddhist,,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+438280b7-7b01-4b68-a3cf-c2bd2c318181,None,fcae3dbe-e8ac-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+b6433cfa-9057-4679-a0ae-8ac2ddc235b4,None,fdb33072-2257-11ea-b82d-0242ac130002,,Stūpa or Caitya,,Buddhist,Buddha,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+a51404f1-fc73-42f8-bca2-90eba0842188,None,fe209a6f-0543-4c9d-96d6-d5bbb307c227,,"Freestanding building,Phalcā",,Hindu-Buddhist,statue of Bhagīratha and śivaliṅga ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+61a2d226-f031-47ab-afd7-7217c734c52c,None,fe6ac976-a5a9-433d-96fa-23480b8ce6ba,,Monastic building (bāhāḥ),,Buddhist,Maitreya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+6e607502-3937-45c6-a2ee-4327df7c9206,None,fe81f05f-963f-4b0b-a5cd-e29d4c7920a8,,Tiered temple,,Hindu,Mahālakṣmī ,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+261c2905-7808-4d6d-81f5-834a4e9a0194,None,fecc17c8-e678-11e9-b125-0242ac130002,,Monastic building (bāhāḥ),,Buddhist,Akṣobhya,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+5fa765df-51da-4e5c-9c6d-c5010357913b,None,ff0d1c8e-ec6c-4946-b5b6-144827f3bdbc,,Domed temple,,Shaiva,Śiva,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006
+bc4e3469-abcf-48ff-ad4b-50439023c763,None,ff7398f9-1bb2-4e4e-ba9b-c985565f74a7,,Domed temple,,Vaishnava,Nārāyaṇa/Viṣṇu,0,,2cc32ef4-9323-11e9-a3b4-0242ac120006

@@ -1,0 +1,643 @@
+tileid,parenttile_id,resourceinstance_id,Thickness of walls,Type of bricks,sortorder,provisionaledits,nodegroup_id
+ed04f4ed-f2ce-4fa9-a55d-278091a2e1f6,9c60d139-48be-4e8d-a927-79d30d69eed4,01610bbc-5297-47cf-9164-9fa4f72a15a8,0.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1b59f767-08ab-4f24-89e4-e3bc68f52f23,f2a95745-a235-40a8-9ea1-80418550a537,01c33990-cd66-4e1e-8d92-e3fb8e2ab5ee,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3f69849e-2a80-41ad-928e-c0ae1a99ed6e,e0949e76-f4c4-4b10-8dcf-e2a759bc1b6e,01de2008-1b9b-41d9-821a-b1eb6693db80,33.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4696ab0d-1a65-4fc1-9e8e-f12b466cb7a4,6e6460d0-5636-44e6-af40-9974e132f1c6,02509f50-336d-423f-ac40-60dffc2d905c,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c1c0ba10-a53a-4253-8aad-38a17816b14f,8f9e2376-40b8-4271-a8e7-fabed81b4f6b,02b1eaa8-e6a5-11e9-8bc4-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+78153ba7-5d44-403d-94ec-92fbe6781dd1,8eecd993-20a8-4626-acd5-7db701a64cc8,03ab0902-61c8-4458-8eee-f23e345d9372,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dda9f789-dc18-4b7b-ba5e-13c2ba904a1c,d4deb720-1e01-4e33-bf67-e67624ef1a18,049dc399-08e2-47c4-85b9-e66851694e69,40.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+abbc76d9-e249-428f-b411-a013b8323275,26530700-b7c9-4480-a47d-6baeb1912423,054498ec-d633-11e9-beea-0242ac140006,50,"mā apā (regular fired brick),dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1a3f2fe8-6932-46b5-90ee-6b8c923383fd,3363e158-b7bd-48ba-9048-935ece561c4c,05e2a35c-e8d5-11e9-8bc4-0242ac130002,0.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6456d894-31ef-4fd5-8ec5-7944cc1d4ce1,5865848b-ee42-41c0-ad19-f73e9e983451,0687a32c-e7e8-11e9-8bc4-0242ac130002,42,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+929e7720-d851-4564-8a9e-36b9e4c8ec94,e1b88143-4a34-498e-a89e-884082c8f71b,068cb560-e748-11e9-b125-0242ac130002,23,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3685d4c7-07cb-4fc5-b5b7-4e2b173b565a,e53687b7-1b82-4af5-88cf-a1ebe8157b49,06a4360c-e5ec-11e9-b125-0242ac130002,38,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cd5c2b80-4ed6-4cec-b28b-d816381c8062,21d65540-7283-451e-a450-66ba8e8e9f7a,06d2c415-2c7e-4d6f-9617-2b1eb6ab8c4a,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7d22739e-558f-41cb-8519-61f34e0ab45f,0cf4a57b-31c1-4f10-a1fb-7d7f5696ccb8,0706813a-e81d-11e9-8bc4-0242ac130002,45,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cadb7d5d-fd39-4d7c-9ea4-0942148f47f8,a7b281d2-0381-423d-b7ac-9f7cf4f91af1,09670bee-ec13-11e9-b125-0242ac130002,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0ef194e9-7a9b-4a56-a7bb-08153fe7e102,a9a56596-5559-4f43-83d6-4ff7a178574c,09adaf39-4932-4356-b6d1-3cce3af16e82,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5a8da39d-1ccc-4141-9673-200ffa870e65,79d6d1be-25d5-48bd-8bc1-1b51e8ae3bee,09cff614-e084-49eb-9fd7-7e4eb20cd37d,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0877cc5b-50b5-41e6-b0ec-e00889b2d9e9,d7d8c02e-1fc5-41ef-90bc-3f7486857e09,0a5850e6-17f9-11ea-b9b1-0242ac130002,23,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ed927f3b-683d-424a-9860-bb669bfc46fa,fa90d5f0-d3c2-4a4d-b81f-6483b8f2b7e0,0b6871b6-44e1-45f4-9074-005d6e68a28e,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+96403428-3bb6-4b31-8399-3847ff205e2d,66aa24f9-5082-40ff-b03b-af221741b027,0b875a50-e754-11e9-b125-0242ac130002,55,"mā apā (regular fired brick),dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+29479ea7-a182-4114-b42e-6d70e32347f6,e62decc6-6c8a-421c-8d39-4e76cced4331,0be328fe-020b-11ea-a389-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+600267c9-8044-41f6-bdb4-4b6ee906a70f,9ba2106e-05f8-432c-943a-fd71f9d1bf0e,0c6b269c-e676-11e9-8bc4-0242ac130002,52,"dāci apā (conical veneer brick),mā apā (regular fired brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b14bc3ef-87ea-43a8-aca9-e2d2b735b7de,307165da-0241-4d1a-bd59-78ff6ba7f547,0cb251ee-3005-42d3-bc37-fe6cfbb30747,0.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+704a8907-09ac-47f4-8238-394f93e977a9,fb17fc91-d6d7-487d-80c4-7085505b6e80,0cbfabb8-e699-11e9-b125-0242ac130002,55,"desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+afd66a9c-e509-4bb6-8773-ef6801742099,0d58b718-404d-49c1-af00-cf564672893a,0d480c66-3e6d-11ea-b44d-0242ac130006,23.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9502deb0-625c-448c-83ef-9044d9c62b7f,c9790199-3e4e-45de-ab9a-81afe8074c9c,0d6f474f-c0fe-456c-8b09-c85c8f15ed9f,34.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c28d536e-4454-4224-8f9d-8dff943f3fe0,80119cdb-2252-4445-a5ac-d023dad33c67,0fb3ffc0-395f-42e9-bece-bba42a1c530b,35.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e35feabe-fd82-48ef-80b8-fa975e43caaf,506ad445-418c-4fae-a7ae-802f69b93882,109ab54a-e9a3-11e9-8bc4-0242ac130002,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+95c2b9c5-ee15-4a37-ac94-e844562f0214,fdb31d51-8974-4216-9133-3ec53aafd15a,10afc076-5274-4ad9-9023-94b8c25893aa,40.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2a67bfd8-13f6-4a57-81a1-c7554177ffbf,b58442e3-8715-41c6-998c-1e74fd528f6d,1165bb2e-eb1e-11e9-8bc4-0242ac130002,48.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+85cf918e-08dd-428e-853b-619d4457c903,17dbf718-6e97-4e82-a7dc-0a90e9f34d72,1176053e-eb54-11e9-8bc4-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c8062c83-5e52-472c-98ec-3e9de8545027,128465d1-5ecf-44d7-9559-f7c9d124315e,1279d314-220a-4acb-9622-67d050fc75db,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5ad71d3a-7138-4620-9f0f-08abe739e637,08561bd0-f4c3-497e-9d20-152ad8c0da9c,12c555ec-ea9c-11e9-8bc4-0242ac130002,52,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a60a55d5-b918-4b4a-8812-64f34f728648,e78f2a8a-5caf-493d-823f-975b5abaa386,12d828f2-e4f7-11e9-8bc4-0242ac130002,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+82226d05-0977-4135-a86d-a02e8132f6e9,69a9402e-71b6-40d4-b282-0a76a1e94d66,12e25456-4bce-11ea-91df-0242ac130006,45,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7139eeb5-403c-43db-8136-6aea045183a5,d1d5c532-1611-45a5-a7e8-455ca364622f,12f3faf5-d915-4a52-a73d-f19bd71e411a,35.0,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a7e1d57e-05a4-49bb-8709-44332150dfab,84a69222-c393-43ed-ad68-4f07bc9fadc4,138e0452-8e6c-4b68-8410-b5263da353a8,76.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c8049b27-c2b9-4d9a-9f60-a234dc240759,11974410-45fa-4766-8e0e-8cf02bddef1d,13b0e238-70ba-11ea-b99f-0242ac130006,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+485548ec-133f-47c9-843e-946b2374a5a1,8dcdfb87-6679-43d2-938d-b590b2456031,13b406e0-8594-4cf7-8592-4e7d82bb4ce6,62.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1d6e02c3-0bd8-4886-a274-e003165a1032,f069f479-4249-4c93-bada-61a49e025094,1414a11c-d6a1-46df-9667-8793239be9dd,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7f0d669a-f0f1-465c-8511-a9ab939e7268,842b4aba-b4db-418c-aada-8afc0f94bf23,141efef8-74ca-11ea-b4b6-0242ac130006,45.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d41a3392-e976-49c7-835c-d3cc1ea5a38a,e01fd0de-00d7-4094-b19d-2a8901e59295,143332de-342b-4f52-92ac-dd1b5accd1ea,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+21763cf7-0273-415f-a8a9-74c62e1f912c,534793b1-a0aa-4dbf-abde-43c3c6b5dcf0,143b3eaf-9561-4dbe-8f57-5b84756b8865,50.0,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cac06147-6b2d-453d-8542-6c1312b47bf6,b8dabf17-44e1-4f9f-b702-2ea1aa8304fc,147f9da8-5a54-438d-b51e-1d473f23b374,70.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f849507b-5e63-43c9-b9d4-0313fa8cc5c1,c1105eb1-1747-49ac-bbd7-0bf2d68f0a2a,14b65b9e-1869-4c2a-b0d4-d013efe48da0,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5074e747-5186-47b7-bcbd-1aea68b1d185,6c56349b-2dc2-4a90-b847-2f063de620cf,14cbeef4-f646-11e9-a3c8-0242ac130002,60,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5d3d50f7-87c6-43bc-95fc-1f3afd603a61,e3fa5411-bd95-478b-9608-7355ff984164,15217304-e6a8-11e9-b125-0242ac130002,47,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0531d55f-a521-4f6e-a761-ad7c318d78bc,1d8329d1-d14f-46bd-99cb-63b004de75d9,154297b7-c1ca-4eca-813e-774c28a7f805,63.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+157c112f-9b2e-48f9-b511-aa8208599a71,180acd4c-e7f3-4221-a97e-52b842824467,15613d2a-e91b-11e9-b125-0242ac130002,37,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2f974e14-a054-4109-80c8-e99230998d72,f94678e4-1d68-4e37-9533-237b4efe6b56,15a0ed8d-f812-482f-98fc-a61b6704b12f,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+42c4cfc3-8f91-4eab-895f-11f60ab396f5,4220d6bd-5758-48fb-8ced-89c29c24e01b,15acbf64-e9a4-11e9-b125-0242ac130002,,"mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+38ec5dce-09a2-4c3e-b81d-86639763b4d7,5e124c52-ef26-4322-998b-578e34a3016f,15d6cfa0-0cb8-4616-8eed-9219ddbb76e3,22.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+adbd7e71-5459-43c6-b175-a4bd7b198516,3116193f-e97d-4b5f-90d5-3e08a91f7ceb,160dcc4f-6d81-421d-9eda-0fb8d248513c,45.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+38ac02e3-afdd-4c87-97fe-cc8628decdbb,3ef3273d-5c5b-4230-acb8-d0927d5f1dd3,16f8b0dc-e9b1-11e9-8bc4-0242ac130002,115,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+65b948fb-dda2-4d36-946e-6c04fbb6fdb0,74e47017-16c2-4923-a2c7-bed21cef4004,170a68d0-e68d-11e9-b125-0242ac130002,60,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+74f140b3-a183-4a1e-8d34-caa9293bc2be,b4e0c794-523b-437f-aaf8-6f076cf6eb72,1724e57b-b911-48c1-ab87-68c43a852a64,57.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a30b7377-de34-4347-99ca-caf26ebd2a35,53745fa3-5cfc-460f-b99f-bc718d0db44a,1772bbc6-e73f-11e9-8bc4-0242ac130002,60,"kaccī apā (unbaked, sun-dried brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4a61bd86-d942-4db6-a043-ba8aad9e60c0,ee6e9017-32bb-42c0-828c-f284244ec23e,178fd214-e67d-11e9-8bc4-0242ac130002,720,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+23041871-3a10-4cb7-aac2-6331f3ffd7de,12a90264-6c18-48a0-ba82-17d5a70f6ec1,1798db32-ecce-11e9-8bc4-0242ac130002,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+21911eb0-743a-4237-856b-57b34c769629,4d81035a-53fd-48be-a76d-a23ce9d5c396,18f9e792-3138-11ea-b242-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+74782ca7-f723-4407-898e-bd52c2f50efe,d90dddf3-6113-4f56-8670-246f505cc1ee,1914bb16-0362-11ea-a389-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+04790c82-5925-46c3-a6f2-9a194deddc2d,4841e186-16d0-4d04-b11a-7a135c932639,1a039922-09eb-11ea-8a1c-0242ac130002,45,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+191c7bc0-db52-41b6-b27b-731721f68d89,251f0204-e90d-4a7c-ad88-4a4fb7eea01d,1a0a8ea8-eff1-11e9-a3c8-0242ac130002,51,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bd260c7a-08b6-4980-80dd-787f001483e1,2ecbbb8a-9829-4035-850a-eefc1c657461,1a16c05c-ee04-4441-a90c-a9177408fb98,23.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1a2e07a8-78da-11ea-a71c-0242ac130006,1a2c8d7e-78da-11ea-a71c-0242ac130006,1a1afb9a-78da-11ea-a71c-0242ac130006,62,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+53e8fef9-7162-40bf-b06e-05e33eaf1353,04304f8e-8654-481d-a450-e8b831dcb906,1a5335da-e755-11e9-b125-0242ac130002,56,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+13453edf-f2e3-4bfe-8158-8ca6ba9cd5c1,116c0b35-3b8d-4495-8527-cfcca4965d88,1a7f3f24-ec12-11e9-8bc4-0242ac130002,70,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bf63ad90-ba95-4a50-8054-409f7634355c,0356f744-b05b-46c7-9934-9ff30c1356c7,1aadfb0c-34ff-4498-897c-8fe5259f197d,11.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f09f36fe-6178-4fc1-a2b4-32ce8a01dbec,b7f9c4f3-7a3b-4e07-a652-967890817f0a,1b0a5033-a1ca-4049-8d6f-d1c7b243eabe,95.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5878016e-f1f7-4836-9eb6-e1d968983424,87087717-1edf-41c8-a8ab-a434c5d24d67,1b800023-3ea3-48df-b4ac-c2fae7966360,30.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+72fa7783-6315-4110-8498-fd354972cabc,07feadab-7ff4-4826-8b44-018da70a356c,1c2db54a-e68f-11e9-b125-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f7b0dd10-4fa8-4dea-bff5-e4ab4e060726,6b365e78-47b2-4e2d-bde2-e7b272ac97ca,1cfe28d3-c6cb-4d26-8f94-f3e189e7a502,52.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+46ba5559-fd35-4991-b34b-dd67e864d949,25c1ec2c-2d43-4060-b345-ef7f554eebaf,1d95833c-6cbe-4f96-be3c-fad253fe5f27,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ce603fa8-cfb4-4855-8c67-a72b44656933,6c7526e8-b82b-448e-8b88-24a76a6900d8,1dd2eee2-de1b-48ee-948f-2b2e337b8188,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b0d7c297-a9f2-4d09-875e-304d803c0027,fe60a19d-ad6c-49d3-bc6f-8b4cd610105f,1e2335a0-f62a-11e9-a3c8-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9e4cc01f-25ea-4b95-ae82-afde35714a88,b4030662-0278-4a92-a76e-fdba47127153,1e4bfd8c-dc8a-11e9-81a8-0242ac140006,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9ed783cd-e9a7-4f07-bd3f-a130391aed7d,d88ba9db-5345-4c6d-a940-2240badf2ea7,1fd94780-2644-42d6-bae5-74e6bdfa2abc,43.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8a963dcb-e217-404d-9402-5696b5d1ebf5,61db8e35-2ff4-4670-9d61-943d2a8236e1,204170f8-e23a-4811-a8c3-aa77b9a792c6,55.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6c294419-a8fa-4941-980d-9ea458011f38,30cdbe46-c6e9-416d-8ec5-40dcbc7c6a5d,2070b496-e729-11e9-8bc4-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b46c68b1-b715-4646-979d-59daefaa27d8,332fd722-7466-4edf-ab31-ee47fad981f4,20787244-8ee5-11ea-bd59-0242ac130005,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3dbd2de3-5cc1-4cf2-827b-a0faf1e75e06,130f7545-ae8e-4c9f-9b37-c6ac540e24fb,20b9cf3e-f33e-11e9-a3c8-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ae8c9de6-67ec-486e-b152-8ab082c9ca09,c3e6f5de-e42a-447d-8534-7a296aa488ee,20ef6cd9-f40f-4799-8101-a9b7b824d039,55.0,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a514b4ab-60a0-4b44-b609-4af540bd382b,88e9d04d-1231-4199-b5f0-6549897a2f9f,217154c2-e99f-11e9-b125-0242ac130002,5,"mā apā (regular fired brick),dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2de0e4bf-7a39-40a7-bdd0-23ad2cdbecd4,f2eeeefd-b332-4fd0-b1c8-07a8e077b872,21b56e2d-d3ff-4ce6-94cc-d5b85fb8a31e,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d1ef2271-3c4b-4b7f-bb15-d2654bd99b48,1ea9e8b5-c4e4-4fab-811f-3c9b98179ea6,21c324c0-e763-11e9-8bc4-0242ac130002,35,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d3bd3c8f-6589-4f91-b17d-f18986d328d0,084d7a30-7dd0-4db1-85c1-ac3d43f65d64,222a5a4a-e1ef-4af0-afc9-bae7bd03d3ce,0.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8d837a0a-3f07-4039-8411-589f5c0c10ed,7bfa4497-278a-44b8-af8b-42e99ee30fe6,224ae916-e8e2-11e9-8bc4-0242ac130002,40,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+924b32c8-3b77-4a96-9705-b5aad9cec917,f581cd9c-8313-4865-8006-49d7ae0c5643,2284154e-efcf-11e9-8649-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e343f587-bc65-4f64-9390-d8dc52569bf5,52b552e5-73aa-4c11-848c-07b5a3f9a035,2298db0e-2225-11ea-b9b1-0242ac130002,35.0,"desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6275cdb4-918c-47ab-b1bf-ddf97c877c4b,0cf57461-78b1-4c1b-b807-717b2f5b62fb,229dc17a-452d-4986-bf4a-4e56326009f8,55.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9f3fce78-d5b0-45ed-9596-4c21e825433f,83eca123-9d4e-4401-9b70-c29cb9312f8b,2306e890-198f-11ea-b74e-0242ac130002,35.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+029a47a7-dbba-41c5-901d-5ef69f791530,858db5ec-620b-4062-af43-72d554a9c819,234a903c-e5e0-11e9-b125-0242ac130002,84,"desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+55396a05-6ad3-47cd-9c6d-63b9f35d50de,98f3bc7c-7dcc-43b7-8db5-5b5a9d0706b5,238d55d1-f5f6-43c4-841f-2fbd871d60f4,28.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4fa53b42-1d94-49f8-b57b-34adae6b9d65,30ffdc3e-04a5-481c-9180-cb16525e7274,23bdf498-e692-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a7c62c4a-580c-4a67-a6d5-a1bd1ed7b012,5d2828ed-a85d-4e91-b64a-3e8429447ba0,23d40c88-efc0-4f8d-bb17-a50f831912f3,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2c178587-9975-4291-a7e1-e323941e279e,8891b165-4bb5-428f-b1be-84167b826bac,23d6e0b6-7f2d-44db-a22e-913a500a756a,57.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cbc263ff-170c-4620-822f-5c5771f69b59,26e47218-11d5-4fbb-b2c5-24d6e23c4ef1,244754e0-fa2e-11e9-8649-0242ac130002,50,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+89e5c026-7890-497f-b31b-b1626f6107eb,ddcd5348-472b-4c6a-be99-f790a73ed593,24779526-7b25-4512-ac56-5d503d43020a,67.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a49c8b8a-1ff3-461f-971e-78e6df35d73a,afd0233b-5076-49db-8301-65c5077a2659,24afe176-f66a-11e9-a3c8-0242ac130002,160,"stone,mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+211b8649-df06-44b0-a4a1-95d944e0cc89,b8814b87-7bb4-4f29-aa07-62f4e01ca706,2548d9e2-ea78-11e9-b125-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+56c6634a-02b0-4622-a4a5-acb5162ee5d7,8f26d46c-888b-4bf5-9316-f49c7564997e,254b0d1c-e68a-11e9-8bc4-0242ac130002,40,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c1dc37af-10c5-4c60-ae1a-85b1f1cd01d4,622237d6-5023-4cb9-89da-0e7c7bc653b3,256339d6-e9d3-11e9-8bc4-0242ac130002,95,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+aa6a4f8c-81da-4a6f-8a1d-1f6af83a1005,3a3afb5e-860a-4b32-9ce1-961d054e1519,25c65422-6b9b-11ea-8083-0242ac130006,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b1a6b775-6355-45ed-8123-2244c1ddc6fc,d163cda0-a0e8-4717-b488-e9917a51848a,25ef2d16-a10b-4081-bba3-7f4639646edb,52.0,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+373bf5ff-31b7-49d3-974d-90432bba40a3,7fcf40df-53be-479a-8cee-1412f4b7a354,26404afc-cb0a-11e9-b993-0242ac140002,40,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+871069d8-ca75-44f5-bdc8-e0d85c85f533,7c46c4ce-3dd7-4d65-8961-4549582dfbf3,265a30ab-5d14-4b23-823d-171e8ecfedc0,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+96c89e39-7e7a-4c0e-b985-0a74b44de75f,457ab663-1b8f-4d34-b5b7-87036c8dd97d,26daa57e-e6ae-11e9-8bc4-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+eee4af82-4199-409f-89e8-1625aad3f78c,dd606248-b240-4677-b4d7-03001e0354ad,26e27d10-f989-11e9-a3c8-0242ac130002,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+77151cc2-3f61-41a5-9edf-e65974949f90,7b136ea4-97ac-4154-8985-8888162488c7,276619ca-ea4f-11e9-8bc4-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+271e958a-dfda-4c09-951c-9be9717d07bf,946ea756-0a41-44d5-9add-cf32c758c8c8,2775db1f-e420-45fb-8334-54dee45c5f27,40.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+eeb963c0-707a-4016-9304-32cb207d8a41,c053107a-4527-4572-aec6-081157c8393e,27ca1a68-e9ca-11e9-8bc4-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+97be67fa-0c76-498f-a24a-c34bb9b277d6,17cf7e5d-6d57-4bba-85cc-1ca0fe18d54d,28e34398-8dda-11ea-8e56-0242ac130005,36,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f5f23cf2-7e8e-43dd-85e6-9c2909bf0770,9bb2cc79-6bcf-4df1-9381-d77e8e3eda9a,28f77756-69bc-11ea-8083-0242ac130006,58,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f716c0a7-0768-405c-85e8-1c3786c272f4,4b4e92e4-ac82-433e-9fa3-39637ff08881,2a0b1750-ee3e-11e9-8649-0242ac130002,25,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ce8829f4-9cf3-4905-b721-b8f300db79ea,ced645b3-8dbb-43fc-91c0-5a108f779500,2a1ca80c-8b69-43a0-ab19-ac6b126986ee,,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ad4b61c6-eef1-4b9c-9db6-2a7d982dd0c3,b0954bfc-e489-454e-a0aa-ae9c0f6080c5,2a5c82ae-d073-11e9-8599-0242ac140006,23,"desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2b340ea9-d6ba-4c15-92e3-7f037dfec620,b0ada2a7-c9c8-4307-9657-75e627b72b25,2a8e92e4-ffb7-11e9-8f3c-0242ac130002,56,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6b2d3d4b-7fed-4a7b-965e-da821a54d6f0,5266c7aa-b7a6-4374-a816-a4052d654def,2ab99c6c-e69b-11e9-8bc4-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6da8104e-62e8-4e78-9f25-72a7d4d39a6d,47974833-6049-491c-a634-169c4bea892d,2acb57c3-2a55-442b-bf83-fa397fd60613,56.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b22f47c4-4ed4-444a-821e-b3fde3bb24c3,063f5acf-2e68-4ea9-a597-6f18460ce1a0,2af20687-0710-4883-a117-f45f941a14ff,38.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b2d49b9d-bb22-4b6f-81c0-41380fa3a80e,0ff783a7-492f-4d60-9651-29193f71c6c3,2bad144c-eaa5-11e9-8bc4-0242ac130002,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a20bc9c4-05a0-4647-9d8b-c33ed10a2e89,ad6b85f6-f81f-43d7-962e-1c2fd907fddb,2c4ddb84-f419-11e9-a3c8-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b90db11f-b91a-4e0f-9a17-99f2135e889c,28f06b02-955a-4d09-b76f-500a440a9f49,2c57e6c8-e8cb-11e9-b125-0242ac130002,40,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0dbe0b5b-e7e2-48ce-92a3-ac7362d6c67d,1c0a687b-11ec-4bde-a30d-ad360aa56684,2c696054-eb48-11e9-b125-0242ac130002,60.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5312d13b-97a4-4c0f-bbe0-150cc3baeae6,e87cd3e4-fac9-40fc-ae04-20bde33a3ab6,2c9f93f4-e832-11e9-8bc4-0242ac130002,36,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c27e7796-0aaa-4040-a0a9-08c017f1564d,a5bee4e4-6e80-4e61-a25e-d5cc75702dd2,2dca9004-e5e3-11e9-8bc4-0242ac130002,38,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5e8dc683-8e7c-4475-930c-55e3fd6f6a80,f27f9470-dfc5-44cf-b477-50e6222d9f52,2e8556d8-c881-4107-914a-20f925b3f28c,25.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4ff3871a-8376-4157-84f7-fba511d40dec,dc044bbd-4dad-4304-905e-ea205c942c1e,2e9e454e-e4fc-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+01a97bc7-175c-4f26-87a8-de5150080c91,4bdd168d-8255-4e6d-adbd-e1b763f95107,2fa561e9-6f62-4663-bae9-fdaeb0aee1a1,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3c209e7b-3240-46bd-8a13-ddcd6083c806,e13cb926-8beb-4922-88f5-887c86519c49,2fe39e54-d189-4403-a7cb-0835b63e4387,53.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0150cc42-b888-4c0d-bec1-a15f353bac32,64055bbb-7cab-42e3-9d48-027db8fbd1bd,2fea6eaa-1b5f-43ca-96fd-9baad7fce137,0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e4173e89-c741-46d6-a84e-41ad2ebe54cd,84b564b1-85e1-41ed-aaf1-bb9c462c3970,304bed70-ec0d-11e9-b125-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e4ed8aeb-dbb2-4213-b2de-1fa7e63a9111,10e5b307-37f4-446c-8baa-59ad4b55531f,306b0be4-434f-11ea-b44d-0242ac130006,50,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7623307d-b251-4ec7-8977-49084355fb4f,da1d6b71-3bb8-4ece-b39d-60e144a66f68,3082c42c-e76b-11e9-b125-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b8184703-9613-4c92-927e-6b51bbcc17f0,4e2e4d9d-102a-40c2-8234-da7b2a057376,30972753-7928-4d07-b965-b0f91dca9b7d,55.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+11000d61-3d97-4639-895e-437b2f5d3d1e,ba66d545-1afe-4ce9-9be2-e7a3de26c16d,309c85aa-e8ed-11e9-b125-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+93f6c20e-b698-440d-8cc0-c99d69fb0344,a0dc5d61-91b7-4a14-9ca6-bf0af9306795,30f7f2bd-65d8-4a37-a619-5d73cd66c4d5,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0c4f9f04-fa33-48d3-a6dd-078b69de6aaf,b74c8e7b-c01f-4d4b-a3a6-066595c199eb,3167408a-4c14-11ea-91df-0242ac130006,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f9db8a9d-3062-49b7-bef9-c009047cc95b,a468cb1d-8398-4f73-9d14-6a8ca26a6aac,321aa815-750d-4468-9903-b3ae79e07793,25.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ab87cb16-54bb-491d-9891-d97fc00995a5,1727e4fb-fc1e-4297-88cd-33d34afb3d90,3331db72-539f-11ea-b4c2-0242ac130006,66,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+98329313-e45d-404a-afb0-4a66d42bb33e,c18b540b-ebd2-4dc0-8441-57d514e78349,33706bde-e4e7-11e9-b125-0242ac130002,40,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8340ab47-9025-4199-94dc-3081fd5f0ed6,b83f8f85-0b81-48b9-b4d7-a099ff7f1790,33776afc-ea72-11e9-b125-0242ac130002,58,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+66485afc-b706-4939-bf93-5e42ce313b1f,b7ffa293-414c-4b0b-828b-1cef2d8456ae,337c6d44-c619-4816-b823-c10f18d802b4,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+28219dcd-c744-440d-91eb-3ded4a04fd64,fb10e6f4-bf94-45da-8fce-2ed279523ee1,33d9ec0a-e733-11e9-8bc4-0242ac130002,60,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1a4d0667-afa8-48a8-b083-97777eaf5782,b8ec76c8-ccde-4582-842a-1a274f51618e,3440946e-e936-11e9-b125-0242ac130002,,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e195287f-c166-44e6-b2d5-fb63f9046e7f,a30c41b1-e869-4de5-964e-e28867e86736,34d6f310-e5e3-11e9-8bc4-0242ac130002,50,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+65951094-b7bb-49ee-9f3f-f75032c535be,b8e0e55b-6330-4121-b553-ef2167e09ca2,3570c001-88bd-42d7-aa26-47c6f09f5a6b,38.0,"desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+489b6b77-3168-460c-8f3d-30ec220991cc,e5d5f59e-ddbd-4063-b81e-4c2a4e0405c7,362d533e-e8f0-11e9-b125-0242ac130002,45,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0872fb03-d58b-4162-8ce2-2cc418f777bb,289c5aaf-3787-4475-902d-e78c26678b14,3655168d-4513-4bba-956d-69d76e83f0aa,38.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+98211cef-f688-4230-a9ad-2e797f1887ad,7eb8c325-827e-4c9e-8c83-2d10e753c0b9,36638422-afa6-11ea-9766-0242ac130005,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6d877051-f321-4f69-a915-ca605c57b3c3,ad8b0b66-8449-47ec-98d9-7789869b3f42,37438b5c-d78a-11e9-beea-0242ac140006,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b0bb58b6-b526-4449-b883-550a2b604dcf,1472014a-d67c-432c-b31c-bafcf744a36d,378c13d0-d632-11e9-a1bd-0242ac140006,80,"stone,mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9fa07354-42d6-48be-96e9-93935ac4391c,49b1598f-956d-4085-a086-bd59425c5142,380e2e0e-e8ef-11e9-8bc4-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e1f38503-930c-4617-a37c-2f876ba9929f,a35c0c1a-b418-46ab-847f-28d4ea69e20e,38e62b02-e759-11e9-8bc4-0242ac130002,50.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dc6d2aa8-8e9e-4239-9b65-e039dadc2c80,619ac29c-a55c-43a6-8dfb-ee58b727adff,39bb2040-e9fd-11e9-8bc4-0242ac130002,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+46c20f14-61d0-4719-a3c5-8e15f6982e6b,b7552f94-a03e-4dde-80aa-686185ecfb4e,39beb848-fc76-43de-bdad-12ea8914001b,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+190e5dda-6570-4a07-b10d-2bf6630b33b1,06cf7fb4-5ecc-488b-a9eb-5bb6903fd1f7,3a781560-86b0-11ea-86ac-0242ac130005,36,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+364d80f4-adb7-42fd-a1e1-e2a95eef1633,54b9e36a-63ca-49bb-81cb-2d2f70a876a3,3aa59732-e7ec-11e9-b125-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+93c15bfa-c47c-4a0a-a861-9ae18e7aa811,e0bdda10-3702-4929-b47a-226a3e2c003a,3b68c5ca-e64a-11e9-b125-0242ac130002,150,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b549736b-368c-471f-9c18-5f0e669f75e7,e81614a6-3530-42df-a6a9-6567a81eebeb,3b731959-de47-4cc6-84e4-e230598019f5,0.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+92aff837-e127-4624-9135-45fe6095270c,21e8b018-b9b7-45d8-a858-03c30c0b060c,3b9b26f6-2b9a-11ea-b82d-0242ac130002,55,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+602c4b6b-8fdb-4094-ba55-684634746406,e82702ad-8794-4d77-8287-28c85e56ee4c,3bcfd73f-1e8b-41d9-bbc6-148eb8ca7808,60.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4b78f4e6-01a0-40b8-a228-7be606ed4289,1a8d1ec5-eb7b-4900-8165-4bceb945c618,3c768352-d08e-11e9-8599-0242ac140006,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b4cb9272-8191-4d8d-bd06-e2daa961066d,62ecdb6a-ab22-4207-a37b-d45f9eccef20,3db42996-337a-11ea-b242-0242ac130002,55,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ac1bfbac-8964-4130-9497-6dbb1d2c701f,3cace300-4afe-43f8-b835-3872dac5b949,3e3f0fd3-fd74-4aab-a216-99cbfeca1bec,25,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d31314e7-2ab5-4ab8-8f8a-c3cf0106ff71,13e1375c-82fa-463e-97e7-e28609885e53,3e718754-6c00-4947-b32f-da8bb82139a7,55.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f2ad11b8-8a6a-4ea4-a409-650bd2d6332c,db9d125b-67d3-4132-98f3-c8eb5f54cf61,3e7d7be6-ea61-11e9-b125-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+96229fdc-9eee-4515-9de5-8d74016a678b,6fa91158-c760-47e6-9919-ad04437a90ec,3e97265e-b2b4-4a68-862a-7c76dee0bacc,65.0,"mā apā (regular fired brick),desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+adee9d7d-8944-441c-b0f1-de331b2b985b,481d2843-b0e1-41fc-be85-178777cb3bca,3ecd2d50-1b10-11ea-b74e-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1e454501-f0c3-42c4-af4f-c2dbf6df0f94,6e91022c-2ef4-4984-890a-1669f53db494,3ed3eb32-4e39-4092-b6fd-f3fda0ca5c19,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+951449b8-ceff-4137-be24-547a89140f66,476029ce-8d02-443c-a197-6e7e9cc02a85,3f87ad30-e5d0-11e9-8bc4-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+afcd8dbf-f952-40b5-a291-68fd96cc4240,6a7e94f2-aa50-4d9a-9964-21ddf95292c2,3f88581e-e811-11e9-b125-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+21e260a8-effa-4d24-bf52-21171eb75bd6,2370f2ba-ef5e-4811-a065-b24fb03214b5,409cfb82-e6c3-11e9-b125-0242ac130002,115.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3b1651f5-1fe2-48bc-a8be-e2a66743ae44,574418b1-c595-4aba-b688-aac65cf506de,40ee8e4c-e836-11e9-b125-0242ac130002,40,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3160902a-5d84-4d8e-8888-7fc15b6a0687,f5c51cac-2d71-43b2-9b66-91be71418db5,415635af-c1ba-4b28-ba37-3e3697ce2c98,55.0,"mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a56e7aea-6b54-43b2-9177-9fb2aa5ba8d9,5468688c-19d3-4153-89ba-86f1654b9513,4165aff8-eb2f-11e9-b125-0242ac130002,50,"desi apā (modern brick),mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0c8bf736-a69e-4572-9d03-9a53d4670332,e7df0429-c40c-4472-bed6-a420feac3603,43291104-1bbd-11ea-b9b1-0242ac130002,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3e2ed9b3-e200-4c01-886c-71879fd79d15,76a3ea38-335d-4d11-a97c-ebc6c101cdb3,4353fc98-6838-406b-ba3a-4872c4d03bb0,50.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5d2be3a6-88db-41c1-9b0c-93651cbad2e5,426ea69b-d5ce-4bb1-936e-cf5f67a401a9,43a6124a-0a4b-4f1c-a3b6-f68fcb0e4dc0,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+afc814ec-7043-48b6-aa19-87c19fec0240,d3ed7f49-8922-4177-8e5d-3dcbb8d49141,4405bb30-4704-432a-9f61-2a7c8912321a,43.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c610c2a3-9491-48d6-bc63-7fa5d1c9b9e8,9b17b0e4-22da-44fc-b0c3-d3c1740f081f,440d970c-ea5d-11e9-b125-0242ac130002,,"mā apā (regular fired brick),desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+49837e0a-fba6-4bde-a985-4b80e181c8c5,a2ec82b8-0575-46f1-a98f-35ab3c3faeea,443544db-8f01-4d16-8f90-1de79f599e98,52.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9a5ff226-9662-4597-925b-f0c5f9b00ec3,83e66bb7-4408-45bc-a075-f0aa00f7f014,44609e5a-ee3d-11e9-8649-0242ac130002,54,"mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bc393832-ee26-4899-8d79-cc67b6a98726,24a0c82f-4fbb-4750-9198-7ce84370b2e5,45b07460-1787-11ea-b9b1-0242ac130002,23.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6c46e2c0-65c6-401b-8c47-1c7cb7f473a5,7e1eb6ca-1c0a-4075-b49d-a66471364269,460bec90-ea60-11e9-b125-0242ac130002,50,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+13edbb78-689f-4ac8-ab23-65dda04f5592,2a2c435d-6776-4a78-9eb5-e9cf9db1cffa,479763c6-e90e-11e9-b125-0242ac130002,47,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8c6ac516-7ac0-43f5-924d-a66e8791a821,8b1d3f28-7952-4ebd-99e6-33a21b1109ab,489cc406-57c1-11ea-b4c2-0242ac130006,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+95bbb10b-2778-44af-b27f-40b4351c0d86,ee1dec89-7acb-4136-b951-2f504865d575,48fbbcba-9da1-11ea-82af-0242ac130005,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+797f07ca-5b44-4d5e-b315-75d0bfbff10f,a669a0d5-2260-4346-997c-e1c9531335fb,493f8e80-fba9-11e9-a3c8-0242ac130002,55,"desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2cda2f51-fc08-4ab6-9a9b-84621b35b939,25047a62-6e28-4158-9bad-e8ac3879d934,49e99160-f60d-11e9-8649-0242ac130002,,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c3fcb90e-e157-4926-b81a-954481c6017a,72e1d86b-046a-4f4b-981c-df6cadaf8778,4a025a42-e6ea-11e9-b125-0242ac130002,42.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e7f368f0-dac2-49c9-92b8-956aa8dd9bca,ea0ed390-0fb9-4b8e-9a02-1b3f95fef866,4a028b6c-f954-11e9-8649-0242ac130002,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1c5658f9-5874-48ed-9fae-cc8b688d6ff2,0efeea43-0f07-4391-9029-5e94a4ebfd51,4a2c6259-e814-432e-a59c-99eb9d750007,23.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2b6daa3f-bda6-4773-8ac6-296ae5884cc4,46bcf86b-0a6d-4548-8dc1-2a68b2e707c8,4a305bd6-5eb8-11ea-b4c2-0242ac130006,36,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9e354fde-45a9-4714-ab02-763acbdd5911,7a3c0af7-d8f6-4ccd-92d7-5c018399584c,4a48d563-85d1-4e51-8f78-2254393f85e2,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+199aacff-4d1d-4a09-9e5b-1f1c1586252c,f27355dd-833d-42e7-8c0c-2e85cc94887e,4a6c25be-af79-11ea-8ae7-0242ac130005,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+fdd31861-e58e-455a-87a2-3dc40936d2d4,626d74f6-c344-42d0-8e48-e5470cb13dbc,4b3adb40-7726-4977-b911-1710edbfa41f,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ef6a6911-1ad0-46ab-9725-e48d5015ecca,8a001c20-d41a-4fef-8d52-8fee65df7eaa,4c31625e-ea78-11e9-8bc4-0242ac130002,65,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+18884c17-a71d-4393-aedf-9e6dbc1b24df,2893f4ea-f2ea-4bbb-b3e7-a07e69813acc,4db3bfb2-eefd-11e9-8bc4-0242ac130002,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+44e6f3f5-11c2-4809-a780-ccb06535619d,f2f66959-92e4-4bee-a4fe-fe9f7e23c9ce,4db72ccc-e6c6-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b7af5969-a1ed-4da5-a409-982872b94fcf,6c32efba-c26a-43cb-986e-2b8e373b3bea,4dc008cc-64c1-42da-9518-9646c65ab630,23,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+080bfe04-c7ec-40a9-8865-b636fe8098e9,2ce86e98-318a-4b97-a48d-ac26cc46691d,4df05f74-e5e0-11e9-b125-0242ac130002,40,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5ebfa1f1-fb55-4bba-9aff-9b6535578802,481cee75-6f3f-438c-83b0-b92ee319670f,4e76f5c4-ebf4-11e9-8bc4-0242ac130002,60,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a3f48e27-ae9b-4551-8f7a-0e768e186880,ca3a02a6-496a-4a20-8042-a0ae414cc8ea,4ea9bf18-4293-11ea-a19a-0242ac130006,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+17b8fe5f-c5d3-429b-a4ca-96d2191f9959,ea964393-5f46-4579-ab28-95ffb915ba95,4ed2374c-e846-11e9-8bc4-0242ac130002,40,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3bd14ffa-8601-48fb-a970-edc71556f928,0687107d-979e-47cd-bf4c-78890b9fdc78,4eeb757c-5fc4-11ea-8083-0242ac130006,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+33f5a5aa-3b0f-4f8b-9186-4d0895c038ae,c5173511-198e-40a9-9919-b88dfe014b95,4f116514-0102-11ea-8f3c-0242ac130002,62,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b2e986ad-f32b-48dd-ad01-2587ba85cc6c,4b0efced-0cc6-43f6-83a0-7f87e2e348c0,503085f6-076f-11ea-8a1c-0242ac130002,18,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b58030f8-5d21-43d3-80cc-cf013063eecf,23d42070-8734-4d7d-b266-95b7ad18b023,50e6b167-1959-4ce9-a9d4-1800e7273a52,62.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0ed57be1-6f0f-46f3-bafe-c32cbdb18f4e,25c7d17c-98ec-41b0-a5a5-7d8fc29208fb,50e8eedc-eb42-11e9-8bc4-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+61616bc8-ac2a-46de-a6da-9d3406507d10,a98bb8e9-9e05-419d-a1ed-abe064dc7cf1,5277a9d6-2f86-11ea-b242-0242ac130002,52,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ccfefe6e-6936-4e51-bdbf-5b2172b1b6ed,b7910962-c2b2-43dc-b08e-5790b82324e2,54346f5f-5ad8-4ab5-887c-c983ea617de2,57.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c4e9384d-aaf3-4b70-a24a-df93ef4be5f8,c1b162bc-ab25-4fa4-9515-46675b1eb8be,553b9314-e687-11e9-8bc4-0242ac130002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+160973d3-fa6d-4037-a92e-27c3e304daf6,4e9e1f43-320f-4e4f-93e1-2de4da13f784,55519f42-0202-11ea-a389-0242ac130002,54,laḥ apā (water-struck/molded brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5cf60feb-66e1-4d84-a228-e9a12d92a176,1bca6f77-ba7e-4ece-a7ff-4349fee1c597,5553af61-8bca-4f14-baa9-a077e67f701d,58.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0900255f-d46f-48ea-a0df-265a5efee62b,64f10e0a-b798-45b3-8e9b-01e4fae75c04,5576adf8-9a84-11ea-9766-0242ac130005,40.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e87d8aa3-a0d6-4d02-816f-43c50788ef74,d200bc44-f2f7-4c04-bdc6-4c3b51a1a8af,557a604c-e6a7-11e9-8bc4-0242ac130002,,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ac46bc7c-5840-44b7-8a2c-07d8725a969d,fab6e6c3-677b-4989-b6df-0d9d1ee6d222,55be585c-411d-48dd-be74-5cd78f2723e1,40.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f1ec0eae-0601-4613-89ed-06abe0286d79,c118ad2d-179d-4daf-a660-7590846c143f,55bee51e-01f5-11ea-a389-0242ac130002,11,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4501ffcf-65b2-4508-937e-b4540e55d60d,4d0650df-1b4d-4edb-86f8-8df10eca4d85,55ebd8ba-e343-11e9-8bc4-0242ac130002,56,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1fc9d3f4-f346-443b-a9c3-3eff686016b9,3d0b1724-dfe5-4781-9b36-9ce326662615,55ef0210-dfa6-11e9-81a8-0242ac140006,25,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9cca05f4-0e5f-4273-ae64-b48a2cc0bb63,3de614e2-0bdc-4b64-a60d-2fb0c374b9f0,56588bbe-f0bc-11e9-a3c8-0242ac130002,17,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+33525bd0-80fe-4b9e-ad12-9084bc5d0c55,a84c2b40-aa6c-4902-8976-79370a9125bd,56a5632a-c2df-41f2-8fbb-2d82330d9c76,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dfb672de-472e-4f5e-8d7f-7c71b024a0c6,08e77be3-c5db-4207-a344-acdaeeb5adc1,56fa3190-ea8a-11e9-8bc4-0242ac130002,47,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f910048d-e9a6-46a0-84a1-d969a66254eb,e4342884-f375-4922-8c5d-b0fd97c19a25,574c588e-e7ed-11e9-b125-0242ac130002,25,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+83249e09-c97f-446a-9ae8-e4a5f23e8b4c,9476bfbb-ca27-44ca-9a50-f086147e5e3c,57688e06-ca3c-11e9-b993-0242ac140002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+11b3a4de-7fce-484c-8eb0-23f1626db3f0,8f0194fb-e140-4627-8ef4-91d809488f43,5790999f-7d84-4dc0-b4a9-a65dee5d1481,107.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4f7ceadb-3422-4de8-a260-db60dbc6746a,9ea3ba5a-cdcd-478a-81c4-296e47f149c4,57b1c7cd-c924-4581-b4d1-8deccecb9358,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+37bdd26c-7bcb-484d-ba68-774ec0c7ca36,ff031172-900d-4d38-bb41-550b20aa30a2,580324c0-5212-4b6e-83be-eab695af708f,50.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+337a6ac7-e933-4825-84de-d9e84cf498bc,b971abaa-cc51-4aea-b9f6-9a8de22575ac,58201fa0-0b37-4744-af03-0c6aaac21835,130.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+19c22361-2ecb-45c0-9ba5-c399d5336c64,1b4d34ec-1152-4244-9ac3-925e80b78b49,5864a56c-7d5f-4174-ab70-9b73013c325f,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7ba92a4a-4a2e-4c03-a9cc-24ca5e8533e2,214acf08-c3ae-44a3-8072-860535c11e85,59e912ca-06a7-412a-a9b1-60d5d0fc0a6a,25.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+53e38d41-9ba2-42c2-9155-0408f09a1ada,e4cde933-096d-4afe-ae8a-938fe1faa3d8,5a2b953a-01f9-11ea-8f3c-0242ac130002,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+710774e0-83be-4e67-ba18-60eabbc42bad,619a8816-b427-4084-9a79-d0f64cdc5901,5a3ab8f6-6344-11ea-b4c2-0242ac130006,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f026da21-d819-403f-91f6-12e34cc5963a,c82934da-bf1d-47f6-a71a-ce4f4c13238f,5a9d675d-4ea1-416c-9d12-fe75a690e587,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4c05a4b3-0047-42c0-b941-dff37ca927ae,ec28e759-fa94-4c67-8ec3-a93b564f37b0,5b4fb39f-ba1c-4a7a-9218-98fba1910a5a,62.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+172ade72-5a45-4d34-8043-851b94446e7a,10a6ae9c-5224-4ab9-8fb6-941e8f7fbb55,5bfb6d40-eb4c-11e9-b125-0242ac130002,78,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f5f0ac1a-4ed1-48d7-a969-93872ab2e244,bf0a3e59-e8dd-4e0f-b52c-1f2dcb255c0a,5c063668-e5f6-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f756983d-072a-4864-8ac0-1856ce2683d6,28fd7f3e-3253-43e0-bb50-04cf5802b37a,5c766eac-e5d2-11e9-b125-0242ac130002,86.5,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4e560090-2353-4555-997d-48ce1e2add2b,5151b22f-e5d7-4bcf-9690-397e30470478,5c944401-65d2-49ed-b361-dbf4e3358629,45.0,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7424a23d-68fd-410c-99e6-dc453e37aa2c,d8edc2b4-2b9a-4a89-80ad-3c893653a8eb,5cb98dcd-6658-4b9c-8990-8c2299397aca,60.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+59a6077e-ae4c-4d0f-b194-d0f8f4d8614d,b06007a7-5889-42e2-9af9-9aed4b59f51e,5d44f5b8-70f8-11ea-966a-0242ac130006,0.0,"mā apā (regular fired brick),stone,dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e9a8f16e-212a-47c8-ad9c-f4d810788c64,0e89c247-b68c-4c7a-bcc8-41f0605a0b94,5d9c1eae-e1c7-43bc-905a-a0816724b854,75.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+32a0df4a-30ee-4a70-9e2b-0b31ae827f28,68fc0865-921b-406c-900c-3b2896246fdb,5dfe48f0-eb2d-465c-a5d0-67bb1ae1277a,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ba3adf07-9edc-4bce-aff5-2e358430e9c7,84714555-15b5-4065-95fe-4b0ad2d86684,5e94853e-0756-11ea-b2c1-0242ac130002,23.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4511c0c6-6315-4eb8-80c6-ce852004d6a0,97271860-7a61-491f-a131-aa477ff07b0b,5e9af02d-96f4-42a8-8c91-57d31cd5027b,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4d78e74b-7bd8-4411-b340-14cf179183b0,40a41f1c-7c9d-48c7-a370-7001821323d8,5f0eb57e-e8d0-11e9-8bc4-0242ac130002,,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5f137581-3d35-4675-82b0-03e5748fa391,d8323d54-2de7-4ce9-8492-463cc4b4e6d3,5f10573c-c317-4fef-92ed-b0354eeae8e0,62.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9bc83863-f8b2-4f39-9374-7f1bc3d5bce7,c3bcde50-aa55-4c5d-a7eb-e1a833615b69,5f218d0a-4412-11ea-a19a-0242ac130006,80.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+85f1ab89-e173-40d8-a46b-1c816115150f,7dd2781f-e73b-41ee-aca6-2761a8dd7051,5f27520c-348e-43da-8160-a2e2729a37c7,0.0,"dāci apā (conical veneer brick),stone,mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+500b3ed5-741a-40de-ad31-61c12b70b06e,b2473286-589a-4fc5-8a56-8e44dea1c273,5fa893c6-fbc5-11e9-8649-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bcb7944e-b886-4927-94c3-e047da9e7439,5bf8e1eb-2824-44db-b955-a08f3a7ac272,5fadd6dc-06b1-11ea-8a1c-0242ac130002,30.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0a4d16e1-d0c9-4ec5-ba7b-eb1b081ca8ae,1802e439-99f1-49a1-b635-f6ac772cbf3a,5ffc298d-bf45-4996-a8c8-4023014d9152,67.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+078babae-a113-416a-8219-a9de683b7c3f,647cf25c-d837-4744-aa4f-bd0a73d50f0d,600ba6fa-8f77-11ea-bd59-0242ac130005,46,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f6eb2ac5-45cf-4f41-95a7-a1dc484745b2,2cf0b478-ce52-47c0-bfad-cd6b89a9b29b,60a8a8e0-e4e8-11e9-b125-0242ac130002,23.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+aa9b85f1-004d-4033-867c-0afed34cef56,79ece003-28cd-440c-9860-61d7ba90d472,60aa32b2-ea3f-11e9-8bc4-0242ac130002,60,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a2226582-a516-46bc-928a-c16f9039b606,f0efd356-93d3-4af6-8e3e-960c4aa03ea8,618c600d-e494-4d74-b277-e81f773a21f4,130.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+219ddc6f-07d1-4667-af78-50cc5e1f7334,165b2de8-2d36-4724-b90b-fc80f53045f7,619ad1be-7cb3-4973-a2ce-13e5c7832083,36.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2b96fd09-e3de-4648-a664-0a819aced47c,eed031db-6e8a-4072-bc6d-9911b1ef6957,6206f79c-e5dc-11e9-8bc4-0242ac130002,62,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c8f05b48-03fb-40b5-b9e8-b7e7d833edd0,ea63911d-e22c-4a84-84d4-6b77d2f7c649,62332e5e-8c90-484f-8c98-82e018442939,25.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7d89091c-2ab3-4a06-9b8d-a864ede21a02,5aa3c38d-623b-457c-9c3e-d093b9718cca,62af421e-8c58-49de-856d-89cf1184ae5f,75.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a7c0d740-d242-4bd4-8db9-2dee6c594521,1512a9ff-b7aa-48f6-bdae-ccc25ce01a66,63987fea-cd6d-11e9-92b4-0242ac140002,65,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ecc0a40a-4b7e-46d4-80e5-475e78a48e38,d6c9ed9f-34f7-4967-a572-159aa32ddc19,6399088a-e68a-11e9-b125-0242ac130002,60,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5267b476-1ec7-45f5-99ca-47ab111d52ce,c1620aa7-8fdd-4984-9f31-e54269ce0d76,63cd4a6e-4a3a-4241-86ff-428121b2a15c,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8685738f-39cd-4691-9453-2e2ac6b29682,45ec30ea-d81f-412e-b517-2eaac1132d69,63d66002-8bc5-48b3-af42-cf40b44b38d1,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c241ba48-7aaa-48a5-b767-4bfceefe2ea2,b78c2d1b-8370-429d-b7a1-bfdd1e6a4cea,63ee2cfd-8c43-457b-970c-a837cc8f7f11,57.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7bc52883-93dd-474b-8744-c5b38ace91c6,7007181f-ec69-44c3-8a54-1663d0cc5fa5,6594f9ac-fb26-4e95-8c0e-4957e705df7c,60.0,"laḥ apā (water-struck/molded brick),mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0ce91d5c-e6fe-4c46-b4cf-86a1a6d73eb5,bc6bd1b0-a369-4c8b-8ac7-c09c66437fa9,65ef3af4-9d6a-11ea-82af-0242ac130005,46.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0dd7880f-a5d5-42b4-85e5-f66bf3074c77,1c399e11-eb7c-463b-ae36-dcc26dba3151,6700e6dc-ad31-11ea-8ae7-0242ac130005,55,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+524b5f64-cbe2-4914-adc0-df03965b6b09,e8a16757-8185-48bc-80f7-9a722fabcc04,67282390-14e0-4896-92cb-d79b96080f2e,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3ca5fdbf-fac3-4086-912c-ccfdd3371386,a1cae6de-b7f7-47bd-955c-5b897c80c685,673afbfc-e6f2-11e9-8bc4-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f7665d1e-23f3-4704-a7c7-b4eeec48e611,670bed24-f863-4a43-9463-0cc3c69ae212,678eb152-5957-11ea-8083-0242ac130006,37.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+307be8cb-0e19-4757-8859-8165d8118dcc,9ea2b969-4bd1-4bb7-88b1-f06daeae9205,69370820-1ef5-11ea-b74e-0242ac130002,52,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cf91b693-91dd-4ca4-a5bf-a2b0e2f2356c,b3426a43-3f69-465c-bb9b-58550712947d,69d578b5-0f06-47ad-9080-9fe3e1adb07f,60.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7cab1a23-dd55-49e9-892d-bcf38f4f4d40,07aebbff-1bfe-4669-9a7c-c987608c1033,6a263bd4-6022-48bd-ba52-b730dd67710c,35.0,"stone,mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+80a30552-71c5-400d-8389-8955a005e7a6,c993597f-7477-41c3-84d5-3c4ca48666b0,6a2ca05c-3aaa-11ea-b44d-0242ac130006,82,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2b60dbd3-c472-4822-902e-88ea1f56d5d5,ed99b76b-7b96-4175-a824-67f8f721eabf,6a68a4bf-4153-4db9-9aa4-c5f78331a414,36.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+846b1cc7-68df-417b-a25b-d601584baa7c,a5cca410-dac3-4947-8a24-dfe6dd12bb99,6a68f8a4-ad2d-4c82-97df-70095bf3dd7c,40.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+85b393ff-6317-4987-a2ea-075e26820c23,40e712cb-7d8f-4c44-97e2-7b7fd74bfc1b,6a82831d-1e4f-4570-9030-319e6b8a1480,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b7c9cc02-d5a4-4977-b012-1344760ac9ee,7658c6cf-cbf8-45f4-9c8c-24a1eea851b6,6b267ae4-4c53-4516-a1d0-5fc7366596c4,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b148693d-aab9-4bcd-b28a-6d0116e002c4,23ebd0e7-7229-4ac6-b347-b64b2e361d49,6bb91e99-b953-4be7-855b-70a870f1c1b4,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3a71be4d-e6ed-43ac-85a8-b7438782ec16,e5ee7a7f-3bd9-4308-80b2-061c11a0b70b,6c19dd43-3e02-4f62-8636-0b3e5971ef4d,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2304ae83-8880-40d2-993d-490f4bad1f59,5a2424db-e7b8-4345-bc6e-fffdd0c2cb9b,6cdaf736-d3f8-4b5f-9b6d-384f21c8d902,55.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+64edbfbe-6af9-4527-a6fa-2b2dcae78651,a695d729-5b03-4638-b101-713f9e87920f,6cef8522-e33c-11e9-b125-0242ac130002,40,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+89542104-64e2-4bb7-aa02-4c2b78042f7a,5c6ae0be-4ba1-4908-82eb-5acd440e8248,6d478768-e8f5-11e9-b125-0242ac130002,56,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6564a989-273e-4689-a015-5ea7189e3dec,2d2cb308-633d-4508-87d1-093602d8d9fb,6da9c621-521e-41d0-97b4-a3a8c2a9c960,90.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e6f90788-ab44-4c7c-8487-0559cd8413a5,e854d717-f14d-439f-8fb7-63c28dbf66fd,6e03bbf6-0522-11ea-8f3c-0242ac130002,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4fae7df3-22cd-41c6-90e1-95ef075f6d7d,ab5acc13-4fe1-4ca9-9385-ac32992672e5,6fac8c1c-e768-11e9-8bc4-0242ac130002,,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8a546027-dec3-48ea-a7e7-ba7b3ee701ae,d870d623-c70c-4d12-935a-b2980e7aa1c1,711b19a4-ec10-11e9-b125-0242ac130002,75,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d56824a9-9a72-4bb9-ac1f-0c5b6cb1b101,ae88a563-c82e-4a64-a978-5b35537cd4a4,7171bc5b-58ee-4d5d-9808-c118c20022de,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+49546bab-05de-4c11-9536-eb4cd2af24ba,bddb6519-28d5-4e9f-95a9-ec3f678dac2f,7195ddad-7b38-423b-b1a2-479a4ad0292c,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7baac4f2-adfb-4fac-b413-9e29a7730b29,2d96f6b0-221a-4226-a614-c4d9735c6349,7212764c-e691-11e9-8bc4-0242ac130002,50,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8ee54fe0-5ee4-42c8-9b61-9bfc02ecee8a,fbd70f75-5d23-45fd-b4cf-6fc0fda87822,7286700f-4313-42ba-be54-d79933e086a4,0,"dāci apā (conical veneer brick),desi apā (modern brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7a2950f9-bb10-401d-aa01-5f4a4aea9df8,f3225d32-8aac-4afe-be8a-afd148c66783,72b92b8f-e331-4878-85d4-5aa407f60047,21.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bf792ade-1378-4cdf-b101-76382e9903e1,56528214-bd93-460a-8f39-51abcc10c2df,731bd8c6-5877-4951-bf17-efc7b7c68933,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f7ec71c2-9158-43e3-889f-aceed1588c62,03e661f0-7161-4747-a734-8033faf7a661,737cb161-8db7-4e7d-a315-4f6fdf29d047,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3b390ae5-d1d7-4c85-bbc8-8a62025cdad9,afdccbec-aa72-4007-9856-501633f91e08,73f86971-d72b-42bc-8776-14acf48bfaca,55.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+562704ac-0e84-430f-9950-dc47efbdb0ef,7b67dfd3-5091-423a-8af3-fff47f9ec3bf,74ae042c-e6a8-11e9-b125-0242ac130002,86.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+563029aa-251a-4c5c-bc46-409a8531b31d,d284a463-f8a6-4f29-a437-101693a67480,75171568-d049-4c63-9fce-ddf40dc4e157,55.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8abcf043-f1e2-48a7-b841-812de0e8dfd2,ae884482-40ad-4d06-91a1-1bb14b88c9b6,7559d8ea-32ef-11ea-a67f-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+efd8738f-5486-4182-8a74-596b8cbf8334,c07d6b10-25ea-45eb-afc1-ff99947c6582,75d880e6-e74f-11e9-8bc4-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+06296869-2d32-47ce-b755-a09ea1e11b1c,2dd4955d-633a-472d-8cc4-bd2f344b9fd4,7605825a-b679-4eb0-a1c0-8365e6493bfa,70.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c6268779-3359-45de-a8bb-149dbb5dae4b,acb50e06-ed68-4eed-a99c-1a33801db514,76ab9a02-0244-11ea-8f3c-0242ac130002,0.0,"stone,dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+06bbafb7-147e-4ba9-b68b-9ddd6a0e322e,8aaa42e5-e72a-4cd4-94a1-c8f082c5478d,776a4b78-3709-406d-bdb5-7f65590d125d,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d33bea59-9b18-47fb-994c-8cfc698781cc,af286648-7f1e-4ccc-8670-f20d2503decb,77e6fd7a-5e11-11ea-b4c2-0242ac130006,45.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+332d2773-bca7-4f74-b685-163e1d6736a5,0070c338-5048-49fb-8b21-2da67f0f5539,781d9148-efea-47f6-bfee-3aa004bf0e43,70.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+eca0eaa9-8bfa-428b-93e6-646383a6866c,416c458f-da61-4b79-b346-0b710ff1433c,781f49c2-723f-11ea-b99f-0242ac130006,41,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bfa06de0-f14f-448c-be56-770d4397b827,b964647a-b0d3-40ff-8e76-e67657a00c9e,78211803-598c-46df-834e-4d97356acd0c,65.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f991d61b-7de7-467a-92d2-8d27d3f37152,e06ce621-45b6-4368-b0e6-ecd52754e760,786375ae-ec2d-11e9-8bc4-0242ac130002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e74b3997-2e96-4099-aac0-9a1cf4870268,aa7c1aaa-81fb-48f6-a0f3-a2264c4a29b7,786fe3c9-b65a-4bee-9432-867ae7d7be39,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+aaa91966-f0fb-4060-af46-cf9fc01ebd65,ddb0c6eb-6122-42c4-a0fd-4d8365fb8810,788cd320-e6a8-11e9-8bc4-0242ac130002,65,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+24f85524-fc0d-4da8-b4ea-ac0e950f4062,8a460a22-5d04-4bc0-b9da-8dc971c86ea6,7a98de01-7e10-4dff-a67f-30e3687f11a7,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+88765892-2c9d-4a6c-8062-1f874725cb67,f2576f0a-537c-419e-86be-87da10a29699,7eb10e0c-df75-4816-b1d3-5a541d6c7d19,24.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+16526e3e-7477-4073-8248-4d3f5c851cfa,3ec6d5a5-fe75-46bd-be97-d645344acc75,7ebfcc36-6e7b-4afe-b4ca-a6b4ec2729da,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+deb349b5-ec1a-47d7-b25b-8fe4e0ff0a8d,4c23ee15-eebd-43c8-a359-346f49b62947,7ee44ac8-f17a-11e9-8649-0242ac130002,60,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+504bf607-7707-46f7-93bf-84926fc5c2ef,a4908bbf-8f1e-42a0-ae00-f5d70f45d108,7f398f5a-a97b-4bb8-9261-b8a0cd448ae7,52.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d578f03c-c6a7-4bd5-b8aa-21e2c193dfe9,cfa3f3ac-8838-4797-b372-a4a9ff4842db,809bbb06-e6af-11e9-b125-0242ac130002,56,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6bbbd569-12ab-4b22-b4ed-c418686e4320,9410c396-b876-41cb-b957-77b8f9eac2c7,81196e13-6df7-43aa-8a21-8f6200b14b65,62.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+69e1ebd5-7de3-4cc9-af8f-35de7075c58f,f0b514ba-0532-44d7-a6df-bb1abc1bb72f,81e0d744-ea9c-11e9-b125-0242ac130002,34,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+90d79dce-252d-4468-ac1a-51c6fe5710a1,137b9ba9-0a36-4796-a25b-00b58fdb2fd5,81f57520-f0b7-11e9-a3c8-0242ac130002,36,"kaccī apā (unbaked, sun-dried brick),mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+41b46c4f-e7bd-48b9-a9e4-f2c29ceacc66,6b28e308-b537-4bff-9046-b1b7ef6b756f,82776660-bee0-4f35-bb18-a88f7276afeb,100.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1d219131-27ef-4b8e-a940-d01f1b8d1915,4972fcb9-a940-4b13-892c-028fe48de555,828826c8-56cd-11ea-8083-0242ac130006,20,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+05b53c6c-a377-4c60-a15c-4bdd6298d77f,725c58a1-6243-43ae-9c0e-3a0717e41894,8319446f-2ea3-4d3b-8848-80f325a69132,15.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d5be0220-8a3d-4d46-8537-ad2f8e696523,3eac8dac-2405-4657-9e52-26a818f9e59e,83b26802-2953-4afc-baf7-e9ea63fd5fd6,,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bf6a4c3b-cb3d-47b0-9a64-68716dd3a98c,f993ba00-4708-482b-a289-dc8edf3af14b,83d25607-b6cf-4031-bb2a-36e1532ced6a,25.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8bb65529-4e28-4749-a230-8435819b6a30,217f98d5-4fb5-44c0-8147-d42ac1360f69,83e736d7-89d3-4b2f-93da-fa2dc6744480,60.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+79dcd8c3-ba6e-42c9-bba2-e627f3019f33,05785ed6-6544-419c-b84b-8f8780301438,85784d90-e904-11e9-8bc4-0242ac130002,,"mā apā (regular fired brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f375a9cb-e6eb-42a9-aa51-ec8878d214bb,0b83eeaa-b089-471b-85fc-679651c5a3da,85caf911-91c6-4848-84fa-0e09aef3e05d,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d10154c9-e123-476c-bb00-c4dba5b01e73,d71e07e4-2d8e-4fc2-9f63-2a573d279bd2,8657bd6a-9d6b-11ea-9766-0242ac130005,38.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+75d3e6be-7a7d-4763-a2e6-a21b2afb2aee,390f213b-ecca-4b9f-a2c6-2c29eadbccb6,8668778f-085d-4d1c-bf8a-ed3e0e5c96e3,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+34fc67b4-07c5-4c88-9cd2-c19243877953,5761d36c-a16b-4231-a8a0-fea6462c4bd6,86c994be-020a-11ea-a389-0242ac130002,45,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b678c8ec-7b69-46ed-a92e-478289472856,e2d5e475-7788-48d5-a4db-491cd76e79ab,870f3118-e67b-11e9-8bc4-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+04db3e0e-cd10-4bd6-b4c8-ad1051a3d2de,2d618430-3339-4e33-9779-eb181ae58b66,8720230c-b399-41b7-a0db-08f7116f4612,30,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+efb16eea-3f6a-4564-add8-d36b914f5d77,f6857048-1d93-4a19-b771-3454cf278ce1,872e0e8c-f0ba-11e9-a3c8-0242ac130002,56,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6c8249ea-c038-4483-91c1-bc9c37cad6ba,ae99d5d9-b5e7-471f-aa17-a6bfaaf9f6cf,87486c5c-cf5a-44bc-937b-8ccff40fd44b,,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8f39029c-d0ae-426b-a557-0a96427d4fb1,f52e7842-58ca-4b31-ab5a-e4c56b7a92d6,8781be4e-af8f-11ea-9766-0242ac130005,64.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+67ccce1a-464d-4b59-af32-f5f58858d9e5,66a8e3e0-234e-40bf-a038-79de49394df5,87c885ca-8c0a-4bad-9c69-682de1e22b2e,205.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+65e590ad-3a4c-4936-b422-bf49ae7e3f0c,fc9d981f-2d31-49dd-a0b5-7e7199ecf223,87e25c28-82d3-4774-bfb4-808e6eb07ace,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+21a403a9-85cf-46dd-99e9-add4324ea673,698ca5ef-8677-42e1-a79f-3bf11aa6a2d9,88628b43-2a88-45c3-8a99-07f0d5b84cec,60.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e7a13e2b-057d-4141-b8b0-3714820c1d72,4bb3632e-0deb-42e8-ab1e-46a20b9beaa6,88835980-3eff-48f9-8655-81f58fa018c2,53.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3e92e8be-b594-4144-8152-38945b15b6c9,59538bf5-a2cb-43e9-ac2a-8a5d957f0091,88b72ab0-e6b3-11e9-8bc4-0242ac130002,80.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f7c6cdec-b1c2-46bc-aa64-ba21054ecbfb,d83f3d6b-6e17-4dc4-b811-7929fd6aed6e,8ad6f527-a10b-4452-95dc-9d3ed9f9912d,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c249288e-67aa-4ba4-af18-9bb2fcfb9c0d,dbab7290-4b0e-402c-bf51-88dc1721cfc1,8bd0dd8f-8bee-4b91-a977-d2b40db4a23c,52.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+36ca35ee-7c37-44e0-b407-3b10b9b5a24a,0aea9deb-88ed-4106-b272-00faf483af51,8bf6cc7e-e8fe-11e9-8bc4-0242ac130002,35,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+007ca5ba-4444-42bd-9f9e-244a411c5e35,6c221773-1a78-469d-9258-97e6af3bef42,8c5e73b9-f669-4839-b375-093e33198b93,35.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+598cf1c7-ed94-461f-a1b2-b58473dca01c,8590a75b-2301-4525-9cf9-b1c69069093c,8d7016d6-5470-11ea-b4c2-0242ac130006,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+84ae1cd7-e9ef-482a-8402-595f16265c9a,f7edf87c-28e8-49d1-b29d-c5e2f3e6d7c6,8e375f65-fefc-48a6-af75-a116aefdf746,28.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d9f48989-4a00-4f5e-bdc8-1dc07ec99b5f,ecbd0700-8b74-4cf8-8581-c6284659fe31,8e38f1ef-d6ec-4d1f-ae8f-e94e5d425013,36.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8b29cca5-6b31-4f85-bc06-3e81dbb8e55b,7b77cb36-ad36-424c-8ef7-777c10432465,8eca193e-f410-11e9-8649-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ec3a9474-a6d3-47eb-881e-728f1985fa7a,240059ae-385a-43f7-9d91-9d4ef8e0268d,8eeabc38-6103-11ea-8083-0242ac130006,97,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+881e395f-4b3a-4601-afb2-fb88f09a280d,71f167ab-b98b-4967-8e31-c60d87d06e22,8ef7a2bb-be68-438f-9902-2914c6ebc9f1,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+71d8821f-dbab-4125-b112-ca725a5a68bc,6b6ae07f-6052-4ba0-91d7-566f32e25209,8f1db6ee-e77b-11e9-8bc4-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3de4241b-6fe3-4d57-a2d1-a8436c4b6e7e,88d613d9-d3e6-4724-9709-f8524583946f,8f55831e-9d6d-11ea-9766-0242ac130005,26.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0c17e316-b588-4010-bda9-efd4c59470a4,08d355d4-dd37-4951-a605-34b241d14838,8f604b7b-bd43-493f-87e8-e36d69990ad9,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ab09e4ec-3496-451c-b467-4e5bb1785dd5,a19daee0-d556-4834-b769-5d3829a3c19d,8f639858-8eec-11ea-8e56-0242ac130005,62,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b6d23d8f-bb2e-44d3-a561-0575a7c16cc4,a3370b17-d028-4d67-b952-50554e1a93fc,8f7a0db3-8133-4eb5-97b0-8b0c8703aa82,62.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+24675f53-9584-463a-bde2-c263b13f63a4,cc5e1795-0189-415a-a0e8-dd8bc11a2b34,8fa97d24-02ff-11ea-a389-0242ac130002,23,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a0a5f01b-805d-457f-92e0-62c3af15bc97,b24238c4-3fde-400a-b5a2-0476bac6a30e,8fe3c368-1cbc-11ea-b74e-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+244cbc4f-10af-4050-9313-150f4c09c95f,1dc70a7d-6e05-4c66-8cab-b2df1aead7b5,8ffce5d6-df78-11e9-81a8-0242ac140006,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ea96dd26-7289-4a11-8117-563eef5ba71f,25a9670d-c57e-42e0-83e8-909a07690069,900a45b8-7fde-496b-b6c8-2bb60128983a,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5fecff32-af86-4fa3-bac9-a19de01a34d7,440ab1ac-cd91-4a35-b2b0-d10a122f814d,906628ca-19ff-4a2b-bc04-db34fdeec3f8,36.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+aa43b85a-8a56-41bb-bc65-d902159f1abd,1face600-7596-4561-9d5e-78cde61ddb53,90a5b5ca-e613-11e9-b125-0242ac130002,30,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b9413d21-90cf-4a40-a702-f61b5abe265d,a1eea152-0a2f-453f-aabc-7cbe3709d3d4,90aa98a2-539a-11ea-b4c2-0242ac130006,35.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c6de520f-d2a4-4ec5-a376-eb08b08b5851,66a0c1e1-1929-45af-bff2-d183c33a8fc5,90dafade-e8d7-11e9-b125-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4d624f56-415b-4974-96c2-7eff198c4282,aa4ae692-8b5f-4401-a05c-52486681855f,922539d2-e746-11e9-8bc4-0242ac130002,23.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0696bb2f-7a37-4953-8335-e73dce7c0133,fe52264a-c359-40d6-aa1f-5bc9f0d6c833,92ec797a-e91c-11e9-b125-0242ac130002,63,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a0ff66e6-37f9-4e6c-b1cf-b6b35ffa9a40,475d3c73-131e-4b96-ba01-30488b780b42,930f4862-eb68-11e9-8bc4-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e4874a33-e649-4aac-9259-79d755250502,cfed8726-6ebf-401e-9241-59f7e569e2ce,938935b2-b933-41bd-8fcb-d65d713daaf7,62.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6221cc2c-7804-4d11-b9e4-c00f74695e81,8c10a3f2-1e38-4b77-9753-50725cac38da,939ac030-e812-11e9-b125-0242ac130002,40,"mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4be52ca8-51ca-40f0-9271-417984d96b75,3f248a49-1838-4230-96b1-c21a189cbd00,93b01588-d2f1-11e9-8411-0242ac140006,65,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c28ab4d6-3f93-4dbd-94ff-353f86e81c52,f9a9fe9b-294e-4a1d-8da4-5fda3d689477,94153c04-e432-11e9-b125-0242ac130002,,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+acc9a8c0-dbfb-47c9-a518-e331a17dbecf,28f0a018-9e46-4e34-b948-4d62f49cb0ad,949507c0-48a2-41d0-a136-eced941d72c3,68.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+09087af3-5833-4451-8014-286e2bf3c0f6,f188ff8c-59bc-41da-9399-d95f2fa8362f,94adf614-f3d8-11e9-a3c8-0242ac130002,52,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9578725a-be6a-42b2-aa50-dbb27e4e7954,07d70daa-6737-42d6-b799-8833a05cdfa9,95211cfa-694d-4f3b-8f94-fe9191041187,28.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2937aaa5-86bb-40f9-88a9-8e7f59f74fd0,1db46215-4fb1-4907-976b-4176337eced1,95846732-e5e4-11e9-b125-0242ac130002,60,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d1588df4-72ea-4eed-bbc4-195062aedf8f,ae7461a4-ab3a-41fe-8576-7aa339aa910f,958fbc2c-e837-11e9-8bc4-0242ac130002,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c413eb61-b661-44aa-aad6-5047048dbf46,a0df4de1-34d7-4b31-990d-9d216e9c370d,95b952e2-e8c5-11e9-8bc4-0242ac130002,100,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f9673949-c103-48f3-be67-bcfb27c1ac2d,c567e405-1b31-414d-bb04-a74fe3f910da,95de5b2e-4292-11ea-b44d-0242ac130006,138.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+041fdbdf-5bd3-48e0-9af8-5ee7a1a00ee9,cf335fbb-2c65-41ab-97c3-548dd1fba4ff,96d763ae-020a-11ea-a389-0242ac130002,48,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ee03f5de-2d52-41bb-8632-7a57947280ed,f6105b04-a1cc-4a33-aa88-b13fcdf10713,97945f3f-64f5-4560-b611-1bc997a00710,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f39a3e17-fbe9-461f-98e1-1ecb51f66637,6f6b5c7d-5743-4460-8dfc-361fa96dbefc,97c8d066-f0e6-11e9-a3c8-0242ac130002,56,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+95dda47f-5a7f-4819-b9be-d38c68cac64a,45c50613-c284-4440-a5cd-2741b1ecb4e4,97f7c7ff-da96-44f3-9841-9e708675d5b4,75.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9c0da38f-4521-440e-a6f5-fb9b880a2546,11e290a7-4f26-49a2-88b7-160721ed9c14,984b11da-5419-43a3-ad9c-7561a204970f,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c1f2bb2a-3b92-4392-8136-44ed6de299ae,d3358533-fd9b-4566-9194-6a9ba0f26809,9884d7b8-e92d-11e9-8bc4-0242ac130002,37,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f0d12b94-df8d-4be5-8fd2-87e6fc03622d,15c6a57e-0450-415f-85be-6a85bd7356f4,989f4dde-8eee-11ea-8e56-0242ac130005,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5e882be0-6c3e-44b5-adff-9bf95fac03cb,96381655-8482-4e98-9735-2459ef38d499,98b92c2f-f4d6-439b-8f42-b34bab291ad4,60.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+11ed8a65-b57b-4189-87ec-f8036138ec32,b2bfd73c-6412-4866-ba87-e124ec405487,98c7b75a-e729-11e9-8bc4-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e7367130-e6ee-42bd-8d95-46970dbbf0a3,d8de215d-856a-432b-a96d-365c73a5cf61,990ceb20-1c32-11ea-b9b1-0242ac130002,51,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bbc4048e-e171-4ec3-a4b3-54513192cb4c,97fd3750-9422-4b3b-ac8f-6b1071c6d298,99462054-e675-11e9-8bc4-0242ac130002,45.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0d758c9f-c453-44ef-9aa3-0633d26b33b2,f8ea4f40-d6ec-44df-9c58-673730e9b21a,99847ffe-f320-11e9-8649-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4eb8224c-896d-4445-b0ec-e612fa2fa157,fb2c3f29-976b-468c-a120-021f1927d1e4,99a444d4-6d05-42b3-8d29-d17839072d01,40.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a2de90e1-ea44-433c-b24c-429b628fdb0e,770036e7-ed44-4613-8de8-635a5fbd69e1,9c4ca4e2-c676-4da1-9a0c-f1abf393123e,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f8f7fefd-4e44-45ce-a7ff-bc3f9270390a,adddfb72-8264-4c59-b45d-26c79719e051,9d4436ef-a0b8-44e1-9090-2ebc3e2a8bf0,30,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+15bdaf9e-509d-4ea1-a3ae-05afd7f85107,a4baab5d-b463-4a49-9eec-08474a258f99,9d5039d0-e979-11e9-8bc4-0242ac130002,60,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+90374460-751d-4b99-b5ab-d0740c0a4354,0a8bcfa7-353e-4b2a-8014-cd8336e8c53f,9d50c831-722c-47b1-841d-464f04149299,25.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3b819034-19a1-45f4-a7fc-b4e21e9403df,a09ea03a-8e8f-47f8-b510-f9ef8c7fd0cb,9df40600-ef45-4e96-a503-e51e961d4182,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ed5b5413-ce57-4eac-8c94-5bd8c8926232,e90abc5c-11c3-4a2e-a7e6-674fa0dd123b,9e929afa-0e37-4e57-9228-d7d244a486bc,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+21f01150-a600-4a13-bfed-08a15a307042,155ca0d5-6314-4bf4-b927-ad3882b36f2f,9f08a9e4-f561-11e9-a3c8-0242ac130002,60,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+39fc6a21-3480-4ffa-92dd-9973e9ec53ca,2f46382d-43e3-4bab-8cc9-d6e25d3e4f1c,9f7d86ba-e6c5-11e9-b125-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e4e93a25-f7ef-4604-9783-1beea7e5adb2,eb6ed7c1-66ec-4105-b174-5431bee9221a,9fce2e86-16a8-11ea-b9b1-0242ac130002,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d9776b3c-3eb6-401f-ab66-e732aa9ad3a8,2a444fa9-4668-451a-ab57-7db408e5343f,9ff7fad8-e68b-11e9-8bc4-0242ac130002,56,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b2ffa88a-054e-40b8-b00d-bda45bd0bc1e,d30509d5-05a4-483c-a0e7-d145ca69d4f4,a0067903-e67a-4795-97b3-1e943372ca47,25.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+89d3fc6c-c49c-4b50-9ff2-71f6be4e2a98,95046f06-e9c2-4e84-9212-21c24fd48a82,a03c60ca-ebe9-11e9-b125-0242ac130002,,"mā apā (regular fired brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e86a7af4-d134-4e8a-8f58-ff1787ec42c0,f2a4b9b4-d9be-43a8-baeb-96f1c9b3eb7c,a0771bce-eb36-11e9-8bc4-0242ac130002,78,"dāci apā (conical veneer brick),mā apā (regular fired brick),laḥ apā (water-struck/molded brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1fcd7b23-7fb2-49b4-a3ec-030317815c7f,2739e102-a9ca-4b4b-a4fd-7f1de28c134a,a07b81ab-63f4-42de-bc49-adcfcbf04639,0.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b46cdd63-f09d-4774-97a6-d6a7e8dc6c88,6e04fe9f-1608-466d-81a3-5ebc96a83ba5,a0a959a5-3d62-4bf3-bca7-baf976e2cc2f,23.0,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bff54b0f-c9eb-41bb-ab7d-d5d2033cedeb,78a79807-8fc3-4fad-b9ba-7fe571e824a6,a12441fe-e7f9-11e9-b125-0242ac130002,45,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b66e7a2c-9e4c-42d8-8176-1e8c1dd78173,d11d21bf-a0ab-4dd0-98f8-91086fa4bc6a,a1557804-f13d-4f7e-ada1-29305e9296f9,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ba12e942-5e85-4393-884c-52d0df9b9495,c743b6ed-e28b-48de-8b04-618197eea4fe,a16942b4-e65e-11e9-8bc4-0242ac130002,56,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+757f4f2f-ec86-4df9-93b2-e64e55ca4f21,42c64385-c7b8-4ff8-bed3-a7e6cdfa0281,a1c1839d-cf8f-4018-b603-379f40d87ee8,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cc35c080-cf49-4371-8c45-532d6eecb299,1634fd47-59d7-4549-99a0-9bc0c25cdcc2,a1c7421f-fcb4-4730-939f-f15fc0875903,100.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+63e9e391-fcff-4658-be19-9b8e91c57e63,feed6090-2628-499f-ad5c-780db2dd62a4,a2b60b1a-1760-11ea-b9b1-0242ac130002,23,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+695d0b0d-1012-432c-8f0b-fdf2211aaeab,6ae4776f-6872-4d6c-8e6e-7d401b5dd384,a3bae3af-9264-4671-9d80-011fa72505d9,43.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6350deb4-107f-43ad-8c3b-f67a10f54e88,c4299386-f3b3-4850-9fba-c90902afa197,a423a365-f6bf-4745-9a4a-f8747e978f73,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+983fb329-188c-4837-81ac-3bd9be5384c8,7f0f6145-01b1-48a2-8c2f-05a47313bd7a,a45fa664-3093-49ce-994b-1ab74ee2ba95,78.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a5755353-d6b9-4a04-bec0-f3e0545c093f,beccd47f-5cec-466e-9b8b-e2916c9895e4,a4df4e50-f6f0-11e9-a3c8-0242ac130002,45,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+634b5e56-41b9-4ce1-80af-632b277319da,5b973418-059a-4c11-9769-99600731e19c,a51a820a-e916-11e9-b125-0242ac130002,44,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5c67cd2f-1fb3-4f11-934b-4d26b0b79a5b,26b96743-d2af-450f-899e-ffe05ab41dab,a5df6af2-eb05-11e9-b125-0242ac130002,50,"desi apā (modern brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ab520870-c854-4dab-b184-93da72489860,5d7d9123-9d41-4dd9-9cc0-5e09b38e2233,a6a95118-e723-11e9-8bc4-0242ac130002,50,laḥ apā (water-struck/molded brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a1392c3e-b2d2-40d4-a021-a34adef797f1,cd36c9f3-364c-4309-aa9c-58d686ba7cf9,a79cdd22-e806-11e9-b125-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a106cb37-6177-4390-8733-b99f4fa48aeb,ec4cb144-88a8-4e3c-92c1-677905338f12,a7d6372d-28cc-4130-b01d-060b1a6800e1,61.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a85ec004-3be7-497a-9272-7f828dc7473d,7dc1f4cb-052a-4ccb-92cd-bd08b7555900,a867501c-b232-4830-aa77-ee21f742ba92,45,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+44a1c78f-646e-4c79-943a-8b9cb0701e70,18c0c60b-53b7-46e4-a406-91d851afb807,a89893f8-eb06-11e9-8bc4-0242ac130002,45,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+25ddad85-b630-4316-87c1-16f8f58ec688,011e73fc-2290-486d-b2d1-e5081fd8d8f4,a8bb767e-f54d-11e9-8649-0242ac130002,55,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+08772139-5e9c-44ad-a43b-8719a9b70d5c,d1d943d8-fc7a-4824-9b19-97dfebd15c3c,a910d68c-e9bd-11e9-8bc4-0242ac130002,66,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3c6ebddd-e6d6-4339-a5fa-809dea92adca,9f3c0579-2ba0-4f57-bb1b-2590095e30d0,a91155c6-e751-11e9-8bc4-0242ac130002,40,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+57cfb0a2-f63e-47da-b56a-27304c82b3cb,b5a24f81-648f-4624-b16d-e04458eb136f,a919257e-3389-11ea-b242-0242ac130002,50,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2ca95670-2653-4ff2-b778-ae169599b3e3,904d51eb-b97f-42b0-afe4-0c462022e7d5,aa4c7ab7-28db-4857-adc4-00c80287b220,65.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+fc073280-aa7f-4873-b944-53c3010d94d1,2dde002f-5381-40ef-811a-7b5d60af459b,abf85117-e75e-4438-82da-aa6b6e15d0f3,53.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5d456e42-8769-42fd-b454-c5cfbd54f2b5,373a6345-b4ce-4184-b201-c96f0f9d8b6e,ac2862e2-1666-11ea-bc0e-0242ac130002,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1de91436-7d1b-4f46-b6a4-a61955cbd72c,ca349461-e148-481d-9e5f-62c27ee06f4d,ac64e224-ea6c-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c16dc048-5f7c-4334-861f-e0c4016c5c95,b2990001-671d-4b89-be1c-8aa5b3b1d227,adc2f4ee-e99a-11e9-b125-0242ac130002,,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7673d346-8715-4e73-86e7-9f8ef3216541,0488dba5-77c9-42ab-bc0d-21557104d09f,adfd2472-e808-11e9-8bc4-0242ac130002,58,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+36e67789-9a0c-41bd-b07a-be9b162d3109,dbeaba89-dc6c-40f2-b82d-631d0f710876,ae58c406-0473-4bad-86cc-722a48513358,48.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+de4e0b82-08bb-40e2-9c52-01d6e4151115,72151d3e-8c8f-4c6c-bb06-23d76826eda8,aedf5947-88c8-45f9-8226-c260ec8e73ec,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+096dbbe6-d03e-403a-8942-e3e356c47e33,8de042af-7488-4ba2-a477-7cefbbbb2c14,aefd4c30-f410-11e9-a3c8-0242ac130002,55,"kaccī apā (unbaked, sun-dried brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5be6edab-7f80-4f57-b3dc-6278e4aa2576,54a80ad9-b58d-4898-9898-c17f01671c2b,afda32ed-6743-46ce-9ba6-bf127276619c,30.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ebbeef35-ca6c-474f-a89e-3cba18603761,e889260f-d37f-4bcd-9bfe-8c07fdcf4954,b01f2744-ea8f-11e9-8bc4-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ba28a64c-3172-4bd1-a93e-034b8b82b6d4,64737a27-8706-4f6a-b010-5b4e491e7af5,b07cb7d9-5bd4-4436-bb64-6c83b8a3eda6,20,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+091422c2-832a-4785-a3e2-aa26b3d6c697,4a03ec6b-3995-4c10-9265-b82cfaa94e91,b088faf0-5abf-4b86-be5c-8386de2d9fda,35.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+03eb523c-5399-4c2c-a63c-e797b3562242,69dbda27-6ea4-4bdd-938e-1d8075a649eb,b0c83c96-e4ed-11e9-8bc4-0242ac130002,30,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c96c4ca1-f336-419c-b6e4-03cf15ae116e,27e2c2f5-4594-4e4c-933d-a4f2b8254f34,b0d6e090-8be2-4dac-91c6-9931976a73d8,55.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9f9e5a8c-808f-47f2-8181-9c9a52fcb6f3,69a82b9b-dcad-42f5-b1a5-89c3dc3b27c1,b1226710-e61f-11e9-8bc4-0242ac130002,55,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a934ae49-f03e-46a7-9d1f-f130d8a04169,3f86ef38-054b-4647-9c2e-5ba05e34e2ff,b158dddc-a46e-11ea-9766-0242ac130005,446.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d810af32-ef84-468e-a3c6-973f1fa2346d,47c1c6e2-0ade-42ea-8c4d-2441cd74ebae,b171c89c-f3de-11e9-8649-0242ac130002,65,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+90418d2c-8654-468b-94d4-6664b440f38c,6a66f87b-7de1-4156-a872-4a164da22337,b19203da-3b84-11ea-a19a-0242ac130006,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3c0963c1-9893-45b0-9dcb-610fead621ca,6a14fb3a-02e8-40a1-b0d8-6c31deedb597,b1a676be-eb4b-11e9-8bc4-0242ac130002,35,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+953e3ed3-fe36-4655-a145-77ae524b9ab0,011da504-d5de-444f-bfa9-29140e6a2025,b21b09ef-1998-4f1f-8e8b-ffe6b99f9116,37.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7c054d2e-9440-4247-95d0-68700c937e88,efbf0033-c0ad-457c-8476-7a4943d59dda,b23905f8-e7f2-11e9-8bc4-0242ac130002,0.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4cdf0c5f-0a2e-4bd6-904b-50a2f9b99ff3,9f51baa7-e874-45b2-8b9a-5f3e8f127a23,b2fd35c0-aa7b-40d1-98e3-9d268cbd6e90,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e693ce73-2621-49ec-9cea-22d267f053bd,71d82f1a-4546-4a99-a397-9dc5bdf94c09,b3247856-e619-11e9-b125-0242ac130002,45,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ec1c309a-a275-4b84-8e85-1819ff11009a,f909c3a6-a0ca-464d-bf4e-dafd55598312,b345df3c-e71d-11e9-b125-0242ac130002,52,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2265f75d-8000-4188-881e-9b1e76cebd20,e206fe9f-0842-4ab4-8ba5-ce548a5d613e,b53e45b8-ebf5-11e9-b125-0242ac130002,56,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c993b991-f970-4c50-ae10-a5277ee3c1ab,25998f50-288b-4780-9816-e7eb1d974dbd,b573cb9c-9644-4567-841d-83fc0c61403b,45.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+59683a30-8452-468f-b57d-93ff9588311e,c6928f67-9ce2-44c7-87e9-5ebdf66f823c,b5f8d23a-166a-11ea-a10c-0242ac130002,60,"desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3c0a3ee0-6a69-45f1-9d96-722028d0ecc9,ef3136a4-76d0-48fa-9665-89c84ef3a9b4,b66fa304-e68d-11e9-b125-0242ac130002,,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+029a5559-9cf1-4774-b434-2864d2439ce1,42bf5919-a25f-4f60-88ef-9a8904713562,b690f84e-94ec-4f89-b376-e7e3fbd55ddd,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+da80c42c-c347-43bd-ba52-4d64d8fab844,1989eefa-e695-48d6-93b8-4a2a35751d09,b6c2586a-e77d-11e9-8bc4-0242ac130002,40,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a622ce92-b661-4608-b5ea-a3f63620440e,0c361e03-a080-42f1-83ab-2a5b3af25648,b6c6ae2c-b5f6-11ea-9e0d-0242ac130005,62.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+accb0da8-d3e0-4735-bfb6-d6bf5ef93447,ed326a9b-801f-4329-9c26-9d56d8f00f7c,b717f92c-5e11-11ea-8083-0242ac130006,46.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+98349903-8fc6-4943-95b3-e4c504df35b9,10359cff-509e-444e-817a-c2cca9539669,b7910d9c-e915-11e9-b125-0242ac130002,23,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+afe3bb12-0bff-4d82-98c7-aa1237422b60,44398d96-9dbd-4ea6-b1e8-d41cf11b970b,b7adbd29-8528-4609-9ec5-fb8db9579d4d,40.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d70432ed-6f08-4927-aed2-9b5c7f9651c4,cc392c01-2ffa-4471-a7e1-527ffd34307a,b838d133-9b23-4208-a191-91b883182755,18.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+540d9284-4f62-4867-98d7-570b0cd0265f,39ca1082-a80f-458a-abd6-00f464fecfc1,b83ff19b-0e10-4281-8bbc-92cff905383f,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b47b4c4b-728b-4d69-b016-cc199c559595,51c6f336-d431-4605-8d7d-50a954492a09,b90d17aa-ebff-11e9-8bc4-0242ac130002,70,"stone,mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3da1c1e6-86e9-4630-a9ce-6bc52ec017a2,2a36ea42-1ed9-4f58-8f71-a2d43558e75f,b92b7a0f-0268-43e8-bbe2-d83d39d6e54b,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2a00c032-1951-4de1-9389-113d73c0e217,52333795-d9e9-4de5-87ce-356d07b76680,b9ae5311-886f-4c4e-a207-1d16593c3d1b,45.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+175c4694-1b95-4442-9ac7-9a17606bf7fa,d710a514-91d7-4844-be82-b62dc258e46c,b9e834fe-e680-11e9-b125-0242ac130002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+582d4942-0f48-442b-a19e-f3ff6324931c,5f99375e-e52c-4486-b5a1-18c3da647955,b9e8a7f4-65d8-11ea-b4c2-0242ac130006,100,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a74a9ff0-ca24-4e23-93c9-1cfe3848b5ac,b9a0cf28-a457-4530-9751-82410ca0c7da,b9ea1eba-e8c2-11e9-b125-0242ac130002,42,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6f1b5517-c965-4aaa-b52e-388d9b14a98f,f4e779dd-a4d2-4e09-b9f7-a31b46acc5b9,ba289280-9a88-11ea-82af-0242ac130005,38,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+90de8349-27fc-44c3-9404-535a9dbd64cb,248da8fa-cff2-4381-9ee7-d87b8a23e35a,ba391e8f-b8ce-4cdb-9e24-8c254e2b24c6,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+56a97e1a-e716-4746-b2cf-6691d327d789,40dd9a7f-958c-46d9-a65d-a3fdc09d420e,baf9c7ea-0782-11ea-b2c1-0242ac130002,35,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d850e307-39d9-4b8c-acea-56660dee4e20,941fe588-7dc6-41a8-bbd0-2553765a5a83,bb58b263-f53c-45f6-9e1c-d9a3e5a68856,65.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6194437c-c8df-41aa-bc52-6d19ee9d1cc5,d4a4aaa2-47e3-4f24-886e-da600b07d4a2,bb6b3f3e-e832-11e9-8bc4-0242ac130002,23.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9d6ad401-0fd2-441c-afa5-5a8b853cdc5d,591c306b-d949-46df-a51f-d8cd0ffa4273,bb7c0f44-35d0-11ea-a67f-0242ac130002,45,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4f01ed42-fd07-4062-b834-e0bc747283be,74371093-0788-4099-90f8-4418077f1b34,bbb0b3d2-e681-11e9-8bc4-0242ac130002,40,"dāci apā (conical veneer brick),mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a57b76be-c7d9-45b5-a740-f81bb0742999,1ff593ae-cee6-44a0-bb15-8a5f4e7f877d,bbe0fc5e-d632-11e9-a1bd-0242ac140006,60,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0adccd29-d322-44e9-8518-3e0ebad189b5,4f9f4e96-7267-40ae-b9b2-5a8fba398629,bbf0265a-2f5e-46cf-a7b1-321c77b3d84b,20.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1428bce5-15b2-4ee9-8b04-34d296193476,b6fe33f4-605d-4aef-a683-1b40f20c5885,bc3c1b44-e60d-11e9-8bc4-0242ac130002,36,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b55f19d8-48b3-46ca-b1db-748e0dd7ba9a,9c98ad55-bfa1-4b1d-a9da-2cba7949126a,bc7fbe06-eec3-4f9d-8bf0-e72186e51e0b,40.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d8a8a505-a433-40a0-ac93-286b075080ff,001e4d21-4c97-4830-9327-a1311292f873,bd721439-4d10-41da-b917-532f375c7d40,55.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b609a008-7b32-429d-83a6-fe7134f707fa,b855c126-41d6-41a1-99bd-7b82187035e2,bdca6826-e8d3-11e9-b125-0242ac130002,105,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+eaa5806e-d46a-478e-b1a8-366dabfb58cc,1cab435f-343f-4fa2-9d1d-8bd2abc421aa,bdd6cf60-bf76-4b4c-b840-05df41a35429,50.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c2f06636-174c-4e8c-b3c5-a6d7445a895a,d66fa87b-4abb-4e50-9574-903da9bb71ca,bde08b8a-e5ed-11e9-b125-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9a857a3a-f809-4f26-9f88-2a1008cfd98d,a9ea8738-d32c-4b1b-80b0-bfafafbe6385,be9d31f0-2cb2-40d0-8af9-3df0fcbb0040,72.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d6d0c788-bf35-4537-87a0-a8fa85b44660,645b4a4a-e742-4968-8dca-c316ba039f4e,c0655dd4-e671-11e9-8bc4-0242ac130002,27,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c4278d3a-92c7-4051-b36e-41ca62310035,81880de6-865a-4a47-b97a-428dad271505,c07ed9a8-8a2b-4453-9478-803722743140,57.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9eece622-3a58-4457-814d-e759ab1c9f6a,79c4d11f-30a6-4f8a-bdb1-1fbd71f7765b,c0e068c4-3861-4dda-b854-bf9090b1943b,35.0,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+80eaf227-fa12-4636-96ce-13670521b4ad,450cf1b1-4a38-4cab-be49-2422e309f30e,c14d067e-43e0-40e2-9285-b46e67f7512e,38.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4305971f-8261-441b-b846-013e89928ae5,5cf9a95a-bc3f-427b-b03b-5caa534aad55,c1999448-f401-11e9-8649-0242ac130002,50,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d37eaa1a-9ef7-4ba9-8c0a-430ae0c4c326,f5cbae28-6bc0-4a20-a8c0-b4d39f74d5f8,c1c37f40-b4fa-4cc7-89ab-ab47dd29262e,23.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+29cadbaa-f183-4123-9305-2dca01068a82,8f5e8825-99d2-4857-a2b8-aed07c27141c,c232bdac-f1a0-11e9-8649-0242ac130002,60,"kaccī apā (unbaked, sun-dried brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f05b7fb7-e8f0-4457-8166-a2cf3cb8b942,66a9b61e-d35b-43f6-8d7e-c6499c15af33,c264266c-a68e-4301-a3d2-4dec489ccb0f,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+776e2192-4693-4eaf-be8d-84ae203e04c5,b23286a3-2dc2-4f69-8d6a-4dcb3de0c99e,c424b153-f094-485f-9869-38b571398549,15.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a2367262-1b97-4abf-93eb-ab13a1b0a4cf,ade9cbe0-dd91-4e85-b395-1448bf256c61,c473d060-68b2-4ac2-9625-d83b71151062,30.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+23b20a4b-adc3-423f-906f-2ffe9202fb43,86862a68-93ac-4dc2-a9ea-557fd098b494,c50fc4bd-3c46-48be-87b7-d9a01da0a631,35.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0fcc0b13-ed3d-4782-bf47-c4974e590f83,f161dcc7-bd00-4eee-b491-3eb121c11e5f,c566021c-f3ef-11e9-8649-0242ac130002,,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e97ef7fb-792f-4d35-b6a7-15d31d28f601,51dc62c1-ca6a-4248-9f52-220c5ea12057,c5b0b399-6128-4f61-8c17-3299d977626a,45.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e9898374-4d77-4d71-93a3-0d807780428f,7f9e00de-c28a-4747-bbb3-3b13c7319a1e,c6c9638b-35f0-4420-be0b-f53c95df6449,54.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+feea1534-a508-4031-930a-a1ceb0933a21,4cbdd641-9c76-40cf-a056-4dd6fbe6b101,c71c03f4-1149-454a-8e88-3e1a9e8d9ec5,70.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f18b3e38-c141-43e9-88fd-9cce30fd26d1,28c2d78c-d583-479a-94c2-6050fe71ea6a,c72a8936-6822-11ea-8083-0242ac130006,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6a0d80bd-4689-44f5-a478-e754b6241f2a,172867d0-5694-4d95-92cf-cc8ed2943289,c79cc000-e8f2-11e9-8bc4-0242ac130002,80,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ca48c61c-2f41-423f-92f8-ffcb2e76b7e3,9b0622be-3e1e-44b2-ae89-2f80b8c2ab86,c7d1edc3-a3ae-4dea-a8f7-a1642645fd06,60.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+99d2e6ae-5606-403c-911f-926f79be30a5,ff5d9ddb-d0be-487a-a7a1-73bc63659fe6,c82a4429-3f99-488c-9126-08e90a83a573,30.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4404a98a-d386-45d0-aa15-884e0c64265b,6ef18dff-98f2-4f58-b0a8-b46959c3601c,c8834722-30f6-11ea-a67f-0242ac130002,50,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+836d4271-7888-4c9e-82d4-ce4cbe09c008,5705f609-3ce3-4c35-af23-46fb86c814e2,c8b1d0f0-4fa7-47f0-b318-f57249bab295,98.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b61395a8-b142-4d64-8585-71c68f9ee23f,8773a47d-f9f1-407a-837d-35b3b63f004f,c9073acf-a4d3-42a6-b3e0-64bba8d596e3,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ec194f02-eed1-4e94-8164-7b8358e56a30,d1e13f02-d2e1-429e-8f01-0ea61621c627,c955a75b-f223-473f-a256-82f8a1d068f5,60.0,"laḥ apā (water-struck/molded brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+573b154e-9a36-455b-a18c-20dc6ec059a2,a6163077-9ac2-412d-bcc0-98eb7abc5a85,c98dc194-e676-11e9-8bc4-0242ac130002,52,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0dbb01d0-eb34-44c3-a962-71d77a7f2d7a,3ac943bc-91d9-4c2e-a727-0ac1a334d2d8,c9bc2916-eb40-11e9-8bc4-0242ac130002,66,"stone,mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b3a7ffe5-b150-415a-b88b-b58616d49dcc,21d5d22f-7045-43c0-8cd0-4810f71f0026,c9fb4246-b740-47fb-b2a3-c5776039167f,12.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5951624b-3708-4778-8394-124e065a8909,7faf6fa3-71cf-409c-b7fb-687edec14b0b,ca03a00c-e96a-4eef-bd2e-13f7942459a5,25.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e30d6b81-b229-47a8-9c9b-5e94fdf8451a,1fabdb31-eda3-4ed1-b5cf-3d8415cae66e,ca193ec5-9ef4-48dd-b4ba-3158b6996350,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9aec8782-49c9-4d06-85c6-975e615c3fbf,e7d0cb63-f808-4162-8c35-b4ce3968c8cc,ca61f6c0-e681-11e9-8bc4-0242ac130002,50,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+45eebfc2-8d49-4d2e-9880-b3b612650876,74ac2efc-cabd-4383-b181-0a69d08c292c,ca7dd19e-f7af-11e9-8649-0242ac130002,56,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f98277ac-f00c-4528-966d-6941fe48b41e,2daecb0f-00c1-4463-b7fa-75147a02eec2,cb03ff18-e75a-11e9-8bc4-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f8008425-4251-4294-84a8-3f4275faeb20,f97edd0f-c5b1-4680-a809-58c8a13f430c,cb1604cc-eb5d-11e9-b125-0242ac130002,25,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2ef285fe-83e2-4159-80cb-af8ca71a1691,724fa1f4-678f-4f43-80b0-5eccfed6c502,cb193cf8-529c-4656-9468-05af05cdcdc5,0.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c8ba1e0d-2877-4b46-92a0-9a46b8cc2a27,2d0d616d-5ac5-449e-9451-01ef14580f1d,cb4026bb-ffb1-473c-be38-7256bd1f8700,150.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0132effd-92d5-4f89-8794-c098bf864a81,c07bebf9-3dc4-4365-a976-b3f4ab117d1b,cbae4fa5-4717-4c6c-9b34-eb8d696a09ba,60.0,"dāci apā (conical veneer brick),mā apā (regular fired brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c9b23398-9c90-4bcd-866a-9168ceaf001f,0023d9d7-ba49-429f-9907-70e411eb094d,cbbbc576-3b42-11ea-b44d-0242ac130006,35,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+87fa7e7e-97d0-4f3b-afac-9633b90c9abf,62dee9f7-0570-4bd9-877e-c86e9faeab84,cc076a1e-4e0a-11ea-8083-0242ac130006,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a59f3407-7da2-48b6-b33c-de16c7df946f,b480ec55-16a7-4e8b-91ad-8488da9b99fb,ccb98862-3d06-11ea-a19a-0242ac130006,55,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2e05c2fb-4b00-4b76-bd9e-0883c56fbc32,c965f393-3f79-4ef8-a72b-0597298920b7,ccd765bc-e900-11e9-b125-0242ac130002,40,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f9bdd82e-d558-4daa-9ea3-875e92412137,08fa93b9-a0f0-49ce-8835-91fced70f731,ccfc9e0a-70ea-11ea-966a-0242ac130006,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e0844fe4-47c9-423b-ab2f-0e99a5ed5048,5a20045f-0b06-4380-806c-67c58356c2c3,cd358e72-4b24-4377-9061-27b9e408dbb5,56.0,"desi apā (modern brick),mā apā (regular fired brick),laḥ apā (water-struck/molded brick),kaccī apā (unbaked, sun-dried brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5b941797-a32b-4c4a-b5ec-f7dc5ce2d9a1,6e393627-15ba-488c-82d7-34432d1bbe47,cdc824f7-fbb4-4aa3-b164-441876d29ed8,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ed6c04fb-fef3-4c2b-82a6-5b53628ad63a,69f896af-2221-49c1-9aa8-0786d9ae52d5,cdeafb74-f3cf-11e9-a3c8-0242ac130002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+647c2f9d-1acc-4fa9-8cf8-dbb2a6875070,12d6d669-eecb-44bf-96bc-4c5142c77dcb,ce814212-e698-11e9-8bc4-0242ac130002,130,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+6906c86e-2fc9-4ea3-9fa5-baaec78c9f38,dcf2724e-49e2-4df2-a475-1e9567dc7952,ce9b3552-e916-11e9-b125-0242ac130002,98,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+91ac002e-b75a-4d12-9b06-4f8335eecd61,6c86544e-4914-404f-ba0c-ef4dd55004a4,ced28492-e666-11e9-b125-0242ac130002,50.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+08f3087b-522d-4f22-811e-afd675439209,85e581ed-ae29-46ad-bdf9-7483dac47ff6,cf2cf2a2-fbb9-11e9-a3c8-0242ac130002,27,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2441e7c6-27ff-487b-970e-eabb33d6688d,f9885e0e-57d1-4c50-b403-3ce133b55686,cf39fef8-b9bb-4b7d-a27d-48b4b3750d7a,50.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dba13c70-c1d4-4c88-bba5-ec055c89e2e1,949b85a9-ebf4-4c2b-abcc-1d061eed54f7,cfc0099e-f15d-4c3e-8d8f-e048222f7956,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+fb26aec6-e3c8-467d-a528-352cd36f4eb9,3ab2261f-0d78-4740-882a-03795d6c761b,cfcdabd6-e80c-11e9-b125-0242ac130002,45,"kaccī apā (unbaked, sun-dried brick),laḥ apā (water-struck/molded brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0e2b78a5-1a42-4eff-93be-7c593a0430f8,da22ad04-5869-49a3-bd97-ec47b1ed2b8b,d024e070-e7f5-11e9-b125-0242ac130002,50,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+156bc577-f9f8-4a7c-9d5d-93b35c59d311,24c78568-3bd8-43c6-bc75-a825ae90baf8,d05bfad4-e696-11e9-b125-0242ac130002,45,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e0d0890b-e11f-4715-ad03-0da3871547ce,47d30983-6b2c-4251-b69c-d0ea13061746,d134c8da-df36-486b-9582-93e5f2cf9146,51.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4a26a2a6-2d92-426d-a1cf-27122d257ec2,819d7e1e-6a7d-4a46-9e39-71f8500eebf1,d13be190-1750-11ea-ac74-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+669d89ba-49ab-487c-847d-c40953f77491,2b859aba-ecbd-4a05-8b97-290cadf4adbf,d188f409-0b23-4616-93a8-6ba1fa524630,,"stone,mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dc10af12-bd90-489c-a430-c47469c022e0,bba63555-7f87-4cb2-a725-928382f8133e,d2578f40-cfce-4450-a8c1-3092c08ef487,60.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+881bebc5-8d92-45a6-b2ec-92ceda790451,dd777b55-3e7a-4767-8b98-c61d1b7742f6,d292d972-7a85-4e3e-8af6-75db779adaab,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+50c1125a-2d7c-46ee-98e5-d293187974c0,17ffdb71-37b2-4ec0-927a-d636a73855a2,d2d6cf8f-9c71-417f-b82c-89f487f13a74,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+aaceb80c-90a0-41ea-a481-4e747cb0759f,a420bb65-fd74-4eb7-b463-d297071bc434,d3c6eaf6-e76f-11e9-8bc4-0242ac130002,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d104de89-f65c-4534-b0b6-0c74e28fd4ab,a94afbec-d58c-4197-a5d4-931f189d100a,d3ebfce1-622b-4c10-b7a4-e827e24358be,72.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2efa6bbf-ac64-41f5-a29c-16f696b1090b,a6b6182a-eace-4dc1-b264-faf594d17299,d46efa17-704b-4706-be58-fe535e26bbfc,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d3fdac3f-94ee-4df2-ab82-20ce913b56ca,d70ab159-0c7a-43d8-be85-86670f8ab8a4,d5354d0a-fb98-11e9-a3c8-0242ac130002,75,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9f788aa8-2adf-4ff6-b62b-38476248d6af,c114332b-4bf7-4d87-8b04-8a598fafae9d,d5d76955-24df-4827-9df5-d9f9679da6b5,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3c2206a9-a6f6-4344-890a-483a5dcb9c2d,2af700f8-aa8a-4aee-bdbf-3ae174e44cab,d62e32fe-b78c-43af-817c-edb16e6d7ae8,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+69323dde-3857-4849-b94d-0c2a2d8da3a9,fe9b8239-aaa4-457f-a2d6-725e85b88c5a,d642cefe-408c-4943-9405-b0aebe0d82a1,36.0,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7b7a4514-691a-4ca7-99e5-c08148c52d97,f17e2260-c35b-4f5e-ab6b-4b212298ba1c,d691fdfc-ba4f-4035-b3cf-82e6a6b14169,140.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+37e42a88-aacc-46d9-b835-0e878d1e9a4b,960bfcb9-88aa-460f-9ba0-d88028318c85,d7c4e686-d20c-4141-9a25-dfc5d3ccab45,42.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7400aadf-03c6-49ce-85f3-09109b6fb39e,a54db36b-c5d7-4329-a8b6-a58387938138,d7d38dd2-f338-11e9-8649-0242ac130002,50,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ccd6a740-25fd-4355-99a0-ccd2077f2121,ab0c5f8a-2a5b-4a94-b796-7b13f97254a3,d966be8e-e82b-11e9-8bc4-0242ac130002,23,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+566e1f1f-1834-4e4f-957f-874b56662548,29246d40-3f99-4205-b62b-deca5b5ad355,da572af6-f404-11e9-a3c8-0242ac130002,42.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+24697212-f80d-4054-a82f-92474c13d31c,a9bc0ea9-c339-4335-aca3-237e017b649a,dacad8ea-e7e1-11e9-b125-0242ac130002,70,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f5091ea0-ed7c-40cd-bf19-3aafb1ec63a3,b45f9f8c-7ad3-4aa2-b3e4-74350f21819c,dad90976-01e3-11ea-8f3c-0242ac130002,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+82f89b8e-359b-4f78-991c-3d6e22091b0c,7db8dc7c-0917-4cc8-a402-be69f030cbf2,db4d5da7-cd79-4f96-b624-d28bdef73274,40.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d55de51f-751f-4d8f-b729-ea386294b15d,e061b4f4-1b2e-4760-945b-15f17c997515,dbee183c-e72c-11e9-b125-0242ac130002,86,"dāci apā (conical veneer brick),mā apā (regular fired brick),stone",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a02443eb-6445-4eeb-b136-36fb560acd67,649d560f-f671-4a23-999f-3783617956d7,dc5306f4-f571-11e9-8649-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3e98d3c4-c37a-456d-82dd-c54910a3e99e,4ab3f979-cdeb-4840-9f9e-791e8cbc3775,dc691a70-2258-11ea-b9b1-0242ac130002,23,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e17bfce2-ef4b-41ec-9d8a-35734f3e2e35,3c7e59cf-7e14-4267-bc31-5505b75aaee7,dcfad1e4-d632-11e9-a1bd-0242ac140006,100,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+eb79d030-934e-4b15-878e-6ae867216e4a,e1b1dcf7-da7c-4bf0-94eb-896aedcd38af,dd8ad654-e91a-11e9-b125-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d8a2dc21-227b-4db4-add7-fb9195b0ae3a,95c80846-f132-4030-91a9-9d6fe56895b8,de276e42-6b9c-11ea-b4c2-0242ac130006,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3be987a1-4240-482a-a933-c61e995b7acc,2e428a6e-7bff-492c-b04e-719d0539de1a,df0f0bae-e699-11e9-8bc4-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b3e7307c-2962-478f-b3da-b6ddb332d92c,a08a2d1e-3acd-44cd-a610-9ba6ecf3464a,dfb6f035-9e37-4acc-a608-0d3b85d66491,30.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+7a24a654-f786-4ee6-81ec-3fbe8582b36c,7d0f92bf-f21a-44d3-bfcf-63432deda794,e0659b0d-4f7f-4f56-a3ff-09b266dc3518,35.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+392581e6-91cf-4cbd-a890-09011198bb46,9f32640c-0297-453c-aae7-c5e800f8611f,e20b2c0e-e741-11e9-8bc4-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+de8ea43d-8ebb-49c4-8222-63b3f7219072,bdd48863-0b50-4913-be4a-0f2e2e17d163,e2371888-e6b9-11e9-b125-0242ac130002,45,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bab4d42e-250b-4cbc-8133-a7689bfcadda,0aad5f1a-56e2-4798-bbe0-55ec4cb07cd2,e24051bb-caf5-4479-b3e7-e8252a550661,51.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d6e3cb99-fa4b-4ae7-8461-7b4a3d4348c9,6124c8da-60c6-4998-8704-6f6f9e2de95a,e273afc4-5fc1-11ea-b4c2-0242ac130006,40,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3db58c3f-5866-4c14-ae8a-ee3d4c0ec73f,65c3fec9-a2e5-4487-b26f-7f2816eace11,e275f09c-d920-492e-a565-dacb55ddc4ae,35.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5c2d5516-2557-4dff-aa2c-36395151709e,ec0046b7-ead0-47a3-9228-202af36f1bcb,e2e7bd8e-e81a-11e9-b125-0242ac130002,45,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9f7c902a-1045-424b-b839-fa5f701aff19,54e4dc69-7313-4b7e-b8f2-f62535a51069,e3074532-e806-11e9-8bc4-0242ac130002,60.0,"kaccī apā (unbaked, sun-dried brick),desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d359ea5c-2f0e-4644-b11b-1cc4935c7d87,41154530-d4de-4675-b4c5-5e2d8b08cb96,e333b4f4-6caf-11ea-b4c2-0242ac130006,41.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f608a969-8e7f-4331-b3d8-6d02126901a2,51fe2733-5f41-4546-90c8-7286b3c68714,e36d8152-e695-11e9-b125-0242ac130002,50.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bdc93f90-1a9b-4b07-bd5b-b128172b1fcf,ff763918-4133-448c-b624-bce2f0eb4dc5,e4596c18-3c68-424b-ad72-eecd068f1ee9,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5d4688aa-0f61-4957-a7ef-8c7f930499a4,3ef1abc8-c096-49fa-a646-044be08526d0,e499ec9a-e66e-11e9-8bc4-0242ac130002,37,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5452f1f8-45d3-406a-b4e0-7c90a9a093cb,775228fc-5c20-4eaf-8c47-f8cb115abaca,e4d19336-e8d3-11e9-b125-0242ac130002,45.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+2511a313-b14a-4aa0-94d3-b1007bee8e1e,4c82e5ff-1bbf-40d0-b96c-dc23039cd45e,e4dcd814-3927-11ea-a19a-0242ac130006,50,"desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+cdb8b6c5-7350-4da5-9247-dd9769f2e5c9,87b3d726-a980-4444-8d34-57fee20443dc,e4fe41d3-ce80-44ea-a77d-df8e00c5ea57,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+69b36381-ee99-4465-97c9-42c4f801aa7c,989e1804-3e7d-4fd7-9057-b627bd32eb9e,e5618dda-e5f2-11e9-b125-0242ac130002,50,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b7f4554d-92d9-426e-a577-79799de2c26d,c6afe72f-daec-4c47-80e5-7124b6d3c9a3,e57655fd-5077-44a7-96f2-23039e15b134,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1f4f9651-6e8f-4d3b-8945-0e62168034bd,45402ae4-826b-4397-955c-340921362578,e5d8a76a-e671-11e9-b125-0242ac130002,40,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+bece5b70-bad6-4691-939f-48ad13cf693f,d4aa0e30-d355-431a-b078-a9c92e7dfc20,e610f418-4d5e-11ea-8083-0242ac130006,45,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+1f29002a-819d-4d46-aab3-953ab4686391,1db05d7a-422a-46f0-b4a6-6722d5ce99aa,e67206a4-e913-11e9-8bc4-0242ac130002,38,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a40ff621-a7e1-40f3-861e-83e58632eb03,346ef23c-fddb-4077-8e1c-b7c9e6396a08,e6bb5368-4296-11ea-a19a-0242ac130006,0.0,,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+97c67bb2-c0be-4eb6-bd8a-2a32c12391ac,b6dad47f-ec10-40f5-8e49-218e92392459,e6c73144-fadc-11e9-8649-0242ac130002,47,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5098b369-96dd-4eda-8542-b6a4fd7cfda7,625d25c0-b666-4e81-880f-d32cf11bd8ea,e6f72884-e774-11e9-b125-0242ac130002,42.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+814c3aa8-29a3-4a95-8da5-10de8db90487,32d4bcf3-6d8f-454a-a6d3-130eb5b27438,e7151050-eb4e-11e9-b125-0242ac130002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9b6dcf74-5e99-4b27-8c9c-a230d3a58742,93b72f6e-8b09-410d-a3f0-8166b0b743e3,e73522eb-0ce8-4bca-99a2-add0f09eb964,35.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b9c877c2-0c92-40f1-8984-6d379f91868e,8ad3c6d9-a21d-4cff-aad3-f54b6d1ecbe6,e73fb90e-4a7e-4ec5-b889-774943bba723,45.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+db4cf81b-405f-4921-897a-e8ec19dd62c0,f405f437-d782-4f0f-b2b6-3efbed9e022e,e78429eb-76fd-429a-869b-d06884f69467,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0770125b-91ce-47f5-a618-06e9696c534a,18f1fb8b-d89c-4e39-8d14-73b541dab735,e7ad4210-ca99-11e9-b993-0242ac140002,45,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+58c446cc-b739-4ef5-9ec6-0f9392fad808,5f3e21c4-aed6-45ee-9484-38b807a96ea2,e82b6796-485c-4df1-8a87-31fb7b52abb4,62.0,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d65cf7df-84eb-4455-8169-8c95759a71ed,8f2c5035-17d3-4498-8edc-2a61939e72df,e862d312-eb57-11e9-8bc4-0242ac130002,50,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+275e4e38-5e7c-4ccc-9b82-4506cacb05d2,2a08d000-30e3-43ae-81d0-f8738c37d4b7,e95e1763-b6b3-4c0a-a4e1-53b38bc7b043,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+065a8415-de57-4e5e-92bb-9495babd6676,071f6fc2-56d3-43d2-8634-7df5b7fecc35,e991cf24-3051-11ea-a67f-0242ac130002,60.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+f8ab57e2-ecf0-4ff8-866c-205a601ff420,4bb572bc-f8d7-47c0-8819-e89337ee2ca0,eb386850-e4f3-11e9-b125-0242ac130002,40,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a66f4289-ea87-46d7-b2ca-e5d696568a96,8f17f9b7-5d2b-4c6d-bdbd-7ea82e969a0a,eb54e4f6-e4e6-11e9-b125-0242ac130002,35,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8379baf6-c493-47b3-9b19-17b244974553,28e660b2-b5f8-4303-86b8-546cc43f1738,ec53aef0-70f0-11ea-b99f-0242ac130006,70.0,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+60088f9f-4361-4643-9836-678581529136,c54004ae-833b-4819-8c51-5d46f501a645,ec58b581-a7d0-4a3c-a45d-a7a83107b3d1,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a8c46a04-036e-4c50-93ae-bb5c821da589,b1ac54ab-9a49-4cdb-9624-15a1645e7340,ec8d43e6-bcd6-4904-b80e-436fcc0bfcea,45.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+31911218-8a02-4a28-8c39-d03634526e18,1df6099e-cb3e-49a7-b01b-d216431612eb,ecd19c3d-9488-4859-83b4-482e26daa713,25.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+5c69a7bc-eae9-482c-bd94-2b3e87238922,85ad57c4-c59b-4da8-8faa-b7136584b846,ece92710-65d8-47be-b6bf-126099f3d742,35.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c00a9497-2ec5-4586-a3cc-90d59e7c1596,9d256ca0-b718-4813-bcdf-c11d0d172930,ee6be98a-0ace-4c06-bb8c-a47c941fced7,72.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+318bb1f7-4cba-4213-9c77-c51693e02602,9b038a52-4ecd-4ed5-ba96-7cf0f8be5c65,eed34321-7e6d-44a6-840f-68589d631b8b,35.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c1dcaf55-6765-4a25-a7e2-63080ebb58ee,c871b95e-6fbe-4af1-84b3-2eb6ec73e1cf,ef590bc6-cbf6-4903-a8ad-37a529030f6f,0,"stone,desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+33a2effd-aa61-40cb-9026-f828c1afe4d9,981014ca-0cc1-482d-98c3-d2525cf15949,ef7069e0-9e23-4cb6-8af4-b5220d7197b0,70.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+56a7a533-243a-495f-ae1b-8fbd03e68ea3,60aafdce-d960-40be-ae4e-f87841713490,effa4b2e-069a-11ea-8a1c-0242ac130002,32,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8c7e2f3d-6fed-4684-baae-87f04c2bc98a,6c5dfe27-7c5a-40e5-b49c-241753de7d67,f0ef1474-eb56-11e9-b125-0242ac130002,76,"mā apā (regular fired brick),laḥ apā (water-struck/molded brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b709f53a-ed67-4a5d-a167-34f0aad98027,9687316e-8a47-491d-953b-aaf8f5cdd5e9,f12a1f58-ca48-11e9-b993-0242ac140002,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0988ae5c-b5a4-4bd2-99b4-94364967cb8e,11d456c1-41d2-401f-ac16-d7f12801e697,f17e763a-e815-11e9-b125-0242ac130002,,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+67c53b7a-7db1-46f5-bcd3-82c25c47a163,fdc66c5f-7ce3-4244-9178-9bfddfc4e347,f1dcfeda-d07d-11e9-8411-0242ac140006,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0365873d-3c62-43bb-91ee-6dc295cbaedf,678b5627-301d-475e-892d-22de7ff8fb1f,f1f7e39a-cb04-11e9-b993-0242ac140002,,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+321652b3-feaa-493f-880b-31bfda418e33,a7584aff-e5a0-4a14-8636-c5bdcd21caf1,f2154aee-e656-11e9-b125-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+06095d4e-35c8-4509-8bf6-7bf475477c17,c8148f16-dd3c-479c-978f-9b0e5b29b061,f26daa2c-d0cf-44c1-beb6-93d190d93e10,45.0,desi apā (modern brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4c33eef9-5621-4ffd-9300-afe4c9eab1a6,174f51a1-1235-427f-a592-cfdd4b830273,f2e86f2f-a0eb-4fe8-b090-0677d63bdc5f,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+48aca682-316a-42ce-b67d-8d15a4630f20,82361dab-aaa5-4a8e-85dc-c1b4b7e15697,f360c428-f18c-11e9-8649-0242ac130002,55,"dāci apā (conical veneer brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+a607d806-6069-424c-a8d2-bac0035c57da,dfb9c70c-55a5-4295-a7bc-bb20acd7b2c2,f3be59cc-e6a0-11e9-8bc4-0242ac130002,48,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+362dba93-dcf1-47f4-a4ac-c2d0fc3dea11,59b68e1d-fe3a-4bba-9166-379f7b3e78ce,f3e7c4ba-cad8-4f46-97ab-af7388f9a744,70.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+dc78a8ad-80a8-4a5f-9f4d-9fb472665dda,c4ad0f6e-31ee-4c6a-9a46-2787deedd8ef,f5665e6f-bda0-4b92-8c79-f5f68e11c896,62.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+0fbb4e2e-8015-4055-a5f2-7a644c84f988,85daa399-de3f-4d2c-8d4e-291419820c1f,f6968910-e8f0-11e9-b125-0242ac130002,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ac21c398-680f-4261-be66-323092204be0,adc8fec8-a6df-49b9-b36a-b6b23f3373f5,f7773bd2-1f14-4d59-890c-52b8d6bee5ae,45.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4c21932e-18b9-49da-a919-64189d7717a3,6025ff3c-ed55-41c6-97b8-8b2427346522,f7f45a9a-350f-49bb-ae23-647492f2c434,315.0,"kaccī apā (unbaked, sun-dried brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ba420c47-63c3-441c-b9a9-144233244c72,7cc7e9fa-7e93-4619-926b-262eea97ef2b,f8366c56-539c-11ea-b4c2-0242ac130006,45,"mā apā (regular fired brick),desi apā (modern brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9d14e493-96b4-4a3c-844a-78002a96c2cc,65384de0-8dc9-49d3-a114-dd33c6bfd80c,f8a2590f-ed13-4cab-b2e4-b8049f306f3e,24.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8bf18467-ffbe-451f-9968-7c0ab070d437,37589296-0daa-47b0-9a40-91fe3864a2eb,f96c7cf2-e923-11e9-b125-0242ac130002,50,"stone,mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+b6bfe557-a129-4e4a-b4b1-b4718665b6aa,4735de74-38cf-4a9f-a655-c38563744b12,f99b4e0e-6215-11ea-b4c2-0242ac130006,50,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+d239bd39-9bea-4c2c-b681-675d9a5efbc0,e6e32320-1177-4cf7-b43b-039f7486a2ec,f99c8d9c-baae-49b1-87f7-95f8e9003d90,17.0,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+823c94c9-6836-481b-a335-aea99b05faec,dd9d1076-1db8-4a65-86a5-e4fc884dbfd3,f9cdfd48-e837-11e9-b125-0242ac130002,23,"desi apā (modern brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+04255e2b-6ffd-4eb2-b683-9d4951eff94e,18e16eba-7a30-401f-9d12-e5e3bc0abd92,fb356352-3c14-11ea-a19a-0242ac130006,45,"mā apā (regular fired brick),dāci apā (conical veneer brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+8b4d3c0e-2178-49fa-94f6-3694bd55c4d1,adb5fd22-407f-46d5-b861-b4ff8dbe94f9,fbe267a8-f346-11e9-8649-0242ac130002,35,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+e1f68b40-8efd-43df-8a16-82c649c9092f,51ab46a6-912f-4a00-838b-9befb1873c61,fc1db1e6-4fae-4899-816a-e3c4d3da77d4,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+ba9408b3-b758-44dd-a6c0-0b0f20452b30,45146d2f-ca27-42be-9aeb-6a3e590133b7,fcae3dbe-e8ac-11e9-b125-0242ac130002,60,"dāci apā (conical veneer brick),mā apā (regular fired brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+c7f2ab50-35bf-4b13-ab8a-766694df4c15,2ee18c90-12be-4e65-9566-3c678e3850c0,fdb33072-2257-11ea-b82d-0242ac130002,,stone,0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9a6a07d9-4647-475a-811e-7c1416291da2,d082d8fd-d87d-4e27-9f33-92ac8d1d1ec8,fe209a6f-0543-4c9d-96d6-d5bbb307c227,40.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+4d715eb3-e009-42ce-9e75-b65e1b7e7fed,1602c8a2-1f98-4351-8fc7-a87d4044d3f9,fe6ac976-a5a9-433d-96fa-23480b8ce6ba,90.0,"kaccī apā (unbaked, sun-dried brick)",0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+3d220a53-a60d-4b13-850d-6ef50e365c73,8b0267ef-3ee0-49e0-b20d-d4ae89f43384,fe81f05f-963f-4b0b-a5cd-e29d4c7920a8,55.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+369364ca-801d-4ae6-9371-f41e599d033e,bc7e5d06-4430-4e0d-8bcb-98ecee4dd8c7,ff0d1c8e-ec6c-4946-b5b6-144827f3bdbc,59.0,dāci apā (conical veneer brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
+9cc0730b-5a47-407c-b2f9-8af93ef8958b,663c6bad-430d-4baf-bc51-657d7b1ac1b8,ff7398f9-1bb2-4e4e-ba9b-c985565f74a7,40.0,mā apā (regular fired brick),0,,32f24cba-9eea-11e9-8cbd-0242ac120006
