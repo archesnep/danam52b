@@ -34,7 +34,7 @@
 
 <body data-spy="scroll" data-target="#navSecondary" data-offset="172">
     <div class="body">
-        {% include "partials/danam_navbar.htm" %}
+        {% include "partials/danam_navbar.htm" with extra_links='partials/monument-link.htm' %}
 
         <div class="container py-1 text-justify">
             <h2><strong>Anthropology of Inscriptions:</strong> Memory and Cultural Heritage in the Public Sphere
@@ -43,20 +43,16 @@
                 <div class="col">
                     <div class="lightbox float-left mr-4"
                         data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}, 'mainClass': 'mfp-with-zoom', 'zoom': {'enabled': true, 'duration': 300}}">
-                        <a title="Kumārī Pāṭī, inscription from 605 CE, view from SE;
-                        photo by Matthias Arnold; 2019-10-13"
-                            class="img-thumbnail d-inline-block img-thumbnail-hover-icon mb-1 mr-1"
-                            href="{% static 'img/K_D_Inscription2.webp' %}">
-                            <figure class="figure">
-                                <img loading=lazy class="figure-img img-fluid"
-                                    src="{% static 'img/K_D_Inscription2.webp' %}" alt="NHDP Inscriptions Project"
-                                    width="auto" height="400">
-                                <figcaption class="figure-caption">An inscription on a silver kalaśa from VS 1990 (1933
-                                    CE) in which the spirit of Buṅgadyaḥ is transferred when his statue is taken out for
-                                    Nhava from the temple in Ta Bahāḥ (photo by Monalisa Maharjan, 2021-04-28)
-                                </figcaption>
-                            </figure>
-                        </a>
+
+                        <figure class="figure">
+                            <img loading=lazy class="figure-img img-fluid"
+                                src="{% static 'img/K_D_Inscription2.webp' %}" alt="NHDP Inscriptions Project"
+                                width="auto" height="400">
+                            <figcaption class="figure-caption">An inscription on a silver kalaśa from VS 1990 (1933
+                                CE) in which the spirit of Buṅgadyaḥ is transferred when his statue is taken out for
+                                Nhava from the temple in Ta Bahāḥ (photo by Monalisa Maharjan, 2021-04-28)
+                            </figcaption>
+                        </figure>
                     </div>
                     <p>
                         Up to the present day, inscriptions are omnipresent in Nepal’s religious and public life.
@@ -109,7 +105,6 @@
                 Asian and Transcultural Studies (CATS), on page 77.
             </p>
         </div>
-        {% include 'partials/footer.htm' %}
         {% include 'partials/javascript.htm' %}
 </body>
 

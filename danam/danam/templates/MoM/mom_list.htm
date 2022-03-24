@@ -1,0 +1,31 @@
+{% extends 'MoM/base.htm' %}
+{% load static %}
+{% load i18n %}
+
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        {% for monument in monument_list %}
+        <div class="col-sm-6 col-lg-4 pr-2 pl-2">
+            <a href="{{ monument.get_absolute_url }}">
+            <span class="thumb-info">
+                <span class="thumb-info">
+                    <!-- {% if monument.image %} -->
+                    <img src="{{monument.image.url}}" class="img-fuid" alt="{{monument.image}}">
+                    <!-- {% endif %} -->
+                </span>
+            </a>
+                <span class="thumb-info-caption">
+                    <span class="thumb-info-caption-text text-uppercase text-center pt-1">{{monument.title}} ({{monument.date|date:'M Y'}})</span>
+                </span>
+            </span>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+    
+    {% endblock %}
+
+{% block footer %}
+{% endblock footer %}

@@ -44,14 +44,14 @@
                                                 <li>
                                                     <a class="dropdown-item" href="{% url 'team' %}">{% trans "Team" %}</a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a class="dropdown-item" href="{% url 'publications' %}">{% trans "Publications" %}</a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a class="dropdown-item" href="{% url 'how_we_work' %}">{% trans "How we work" %}</a>
                                                 </li>
                                                 <li>
-                                                    <a class="dropdown-item" href="{% url 'how_to_find' %}">{% trans "How to search" %}</a>
+                                                    <a class="dropdown-item" href="{% url 'how_to_find' %}">{% trans "DANAM Tutorials" %}</a>
                                                 </li>
                                                 <li>
                                                     <a class="dropdown-item" href="{% url 'feedback' %}">{% trans "Feedback" %}</a>
@@ -138,7 +138,7 @@
                                             {% endif %}
                                         </li>
                                         <li class="dropdown">
-                                            <a class="dropdown-item dropdown-toggle active" href="{% url 'list_glossary' %}" target="_blank">
+                                            <a class="dropdown-item dropdown-toggle" href="{% url 'list_glossary' %}" target="_blank">
                                                 {% trans "Glossary" %}
                                             </a>
                                         </li>

@@ -1,14 +1,21 @@
-from django.conf.urls import include, url
-from django.urls import include, path
 from django.conf import settings
-from django.conf.urls.static import static
+from django.conf.urls import include, url
 from django.conf.urls.i18n import i18n_patterns
-from django.views.generic import TemplateView
+from django.conf.urls.static import static
 from django.contrib.auth.decorators import login_required
-from danam.views import danamviews, teamviews, newsviews, glossaryviews, glossary_form
-from danam.views.glossary_form import AddData, ListData, UploadTerms, UpdateData, DeleteData, PostData
-from danam.views.download_views import DownloadFiles, OpenFile
+from django.urls import include, path
+from django.views.generic import TemplateView
 
+from danam.views import (danamviews, glossary_form, glossaryviews, newsviews,
+                         teamviews)
+from danam.views.danamviews import (MonumentOfMonthCreateView,
+                                    MonumentOfMonthDeleteView,
+                                    MonumentOfMonthDetailView,
+                                    MonumentOfMonthListView,
+                                    MonumentOfMonthUpdateView)
+from danam.views.download_views import DownloadFiles, OpenFile
+from danam.views.glossary_form import (AddData, DeleteData, ListData, PostData,
+                                       UpdateData, UploadTerms)
 
 urlpatterns = [
     url(r'^', include('arches.urls')),
@@ -49,6 +56,7 @@ urlpatterns = [
     path('about_yb/', teamviews.about_yb, name='about_yb'),
     path('about_mm/', teamviews.about_mm, name='about_mm'),
     path('about_jl/', teamviews.about_jl, name='about_jl'),
+    path('about_ld/', teamviews.about_ld, name='about_ld'),
     path('about_pb/', teamviews.about_pb, name='about_pb'),
     path('about_vb/', teamviews.about_vb, name='about_vb'),
     path('about_ra/', teamviews.about_ra, name='about_ra'),
@@ -63,7 +71,7 @@ urlpatterns = [
     path('about_ns/', teamviews.about_ns, name='about_ns'),
     path('about_pn/', teamviews.about_pn, name='about_pn'),
     path('about-sabrina-dangol/', teamviews.about_sad, name='about_sad'),
-    path('about-manisha-maharjan/', teamviews.about_mmn, name='about_mmn'),
+    path('about-monalisa-maharjan/', teamviews.about_mmn, name='about_mmn'),
     path('glossary/', login_required(TemplateView.as_view(
         template_name="glossary/glossary.html"))),
     path('glossary/add/', AddData.as_view()),
@@ -95,13 +103,24 @@ urlpatterns = [
     path('how-we-work/', danamviews.how_we_work, name='how_we_work'),
     path('how-to-find-monument/', danamviews.how_to_search, name='how_to_find'),
     path('heritage-focus-area-pimbahal/', danamviews.pimbahal, name='pimbahal'),
+    path('heritage-focus-area-bhurticomplex/', danamviews.bhurticomplex, name='bhurticomplex'),
     path('heritage-foucus-area-cyasal/', danamviews.cyasal, name='cyasal'),
     path('publications/', danamviews.published_articles, name='publications'),
     path('phuydah-dipankara/', danamviews.phudyah_dipankara, name='phudyah-dipankara'),
     path('heritage-walks/', danamviews.heritage_walks, name='heritage-walks'),
+
     path('associated-projects/', danamviews.associated_project,
          name='associated_project'),
     path('tinymce/', include('tinymce.urls')),
+    path('monument-of-the-month/upload/', MonumentOfMonthCreateView.as_view(), name='mom-create'),
+    path('monument-of-the-month/', MonumentOfMonthListView.as_view(), name='mom-list'),
+    path('monument-of-the-month/<uuid:uuid>/',
+         MonumentOfMonthDetailView.as_view(), name='mom-detail'),
+    path('monument-of-the-month/<uuid:uuid>/update/',
+         MonumentOfMonthUpdateView.as_view(), name='mom-update'),
+    path('monument-of-the-month/<uuid:uuid>/delete/',
+         MonumentOfMonthDeleteView.as_view(), name='mom-delete'),
+    path('ckeditor/', include('ckeditor_uploader.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 if settings.SHOW_LANGUAGE_SWITCH is True:

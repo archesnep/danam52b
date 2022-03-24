@@ -9,6 +9,10 @@ from django.utils.text import slugify
 from tinymce.models import HTMLField
 from django.utils.html import mark_safe
 from django.template.defaultfilters import truncatechars
+from ckeditor_uploader.fields import RichTextUploadingField
+from django.utils.translation import gettext_lazy as _
+from django.utils import timezone
+
 
 
 STATUS_CHOICES = (
@@ -87,3 +91,31 @@ class Glossimages(models.Model):
 
     def __self__(self):
         return self.altimage
+
+
+# monument of the month model
+class MonumentOfMonth(models.Model):
+    uuid = models.UUIDField(unique=True, default=uuid.uuid4, editable=False)
+    title = models.CharField(_("Title"), max_length=255)
+    image = models.ImageField(
+        _("Primary Image"), upload_to='uploadedfiles/monument_of_month_img/', blank=True, null=True)
+    caption = models.CharField(_("Caption"), max_length=255, blank=True, null=True)
+    description = RichTextUploadingField(_("Descriptions"), blank=True)
+    date = models.DateField(_("Date"), default=timezone.now)
+    status = models.CharField(
+        max_length=1, choices=STATUS_CHOICES, default='d')
+
+    class Meta:
+        ordering = ['-date']
+        verbose_name = 'monument-of-month'
+        verbose_name_plural = 'monument-of-months'
+        db_table = 'monument_of_month'
+
+    def get_absolute_url(self):
+        return reverse("mom-detail", kwargs={"uuid": self.uuid})
+
+    @property
+    def thumbnail_preview(self):
+        if self.image:
+            return mark_safe('<img src="{}" width="200" height="200" />'.format(self.image.url))
+        return ""

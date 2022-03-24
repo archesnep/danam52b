@@ -35,7 +35,7 @@
 
 <body data-spy="scroll" data-target="#navSecondary" data-offset="172">
     <div class="body">
-        {% include "partials/danam_navbar.htm" %}
+        {% include "partials/danam_navbar.htm" with extra_links='partials/monument-link.htm' %}
 
         <div class="container py-1">
 
@@ -230,8 +230,8 @@
                 </div>
             </div>
         </div>
-        {% include 'partials/footer.htm' %}
         {% include 'partials/javascript.htm' %}
+    </div>
 </body>
 
 </html>

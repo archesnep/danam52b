@@ -320,7 +320,7 @@ collect_static(){
 	echo "----- COLLECTING DJANGO STATIC FILES -----"
 	echo ""
 	cd_app_folder
-	#pip install django-crispy-forms django-tinymce django-multiselectfield
+	pip install django-ckeditor
 	python manage.py collectstatic --noinput
 }
 

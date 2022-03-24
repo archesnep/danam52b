@@ -2,7 +2,7 @@
 {% load static %}
 {% block team_detail %}
 <div class="body">
-	{% include 'partials/danam_navbar.htm' %}
+	{% include 'partials/danam_navbar.htm' with extra_links='partials/monument-link.htm' %}
 	<div role="main" class="main">
 		<div class="container pt-5">
 			<div class="row py-4 mb-2">
@@ -13,7 +13,7 @@
 					</div>
 					<div class="overflow-hidden mb-3">
 						<p class="font-weight-bold text-primary text-uppercase mb-2 appear-animation"
-							data-appear-animation="maskUp" data-appear-animation-delay="500">Associates</p>
+							data-appear-animation="maskUp" data-appear-animation-delay="500">Associate</p>
 					</div>
 					<p class="lead appear-animation text-justify" data-appear-animation="fadeInUpShorter"
 						data-appear-animation-delay="700">

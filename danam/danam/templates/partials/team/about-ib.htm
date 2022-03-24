@@ -2,7 +2,7 @@
 {% load static %}
 {% block team_detail %}
 <div class="body">
-	{% include 'partials/danam_navbar.htm' %}
+	{% include 'partials/danam_navbar.htm' with extra_links='partials/monument-link.htm' %}
 	<div role="main" class="main">
 		<div class="container pt-5">
 			<div class="row py-4 mb-2">
@@ -18,15 +18,12 @@
 					</div>
 					<p class="lead appear-animation text-justify" data-appear-animation="fadeInUpShorter"
 						data-appear-animation-delay="700">Ina Buchholz graduated from Heidelberg University in 2009 with
-						a Magistra
-						Artium in Islamic Studies.<br /> After working in the Research Collaboratory “Ritual Dynamics”,
-						she
-						moved to the Cluster of Excellence “Asia and Europe” where she has been coordinating the Chairs
-						“Visual Media Anthropology” and “Buddhist Studies” since 2009. <br />
-						Within the NDHP she overviews and
-						monitors all administrative tasks, the monthly reports, and takes care of the financial matters.
-						She is the connecting link between the Nepal and Heidelberg teams, the Saraf Foundation, and the
-						administration of Heidelberg University and the Heidelberg Academy of Science and Humanities.
+						an M.A. in Islamic Studies.
+						After working in the Research Collaboratory “Ritual Dynamics”, she moved to the Cluster of
+						Excellence “Asia and Europe” where she coordinated the Chairs “Visual Media Anthropology” and
+						“Buddhist Studies” for 10 years.
+						Within NDHP, she overviewed and monitored all administrative tasks, the monthly reports, and the
+						financial matters.
 					</p>
 
 					<hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter"

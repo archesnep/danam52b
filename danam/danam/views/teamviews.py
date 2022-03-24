@@ -133,6 +133,8 @@ def about_mm(request):
 def about_jl(request):
     return render(request, 'partials/team/about-jl.htm')
 
+def about_ld(request):
+    return render(request, 'partials/team/about-ld.htm')
 
 def about_vb(request):
     return render(request, 'partials/team/about-vb.htm')

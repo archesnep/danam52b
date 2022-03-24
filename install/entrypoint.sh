@@ -9,10 +9,11 @@ LETSENCRYPT_DOMAIN_DIR=${LETSENCRYPT_LIVEDIR}/${PRIMARY_DOMAIN_NAME}
 NGINX_BASEDIR="/etc/nginx/"
 NGINX_CONF=${NGINX_BASEDIR}/nginx.conf
 SITES_ENABLED_DIR=${NGINX_BASEDIR}/sites-enabled
-INCLUDE_STATIC_FILES_PATH=${NGINX_BASEDIR}/include.static_files
+INCLUDE_STATIC_FILES_PATH=${NGINX_BASEDIR}include.static_files
 WEB_ROOT="${WEB_ROOT:-/var/www}"
 STATIC_URL=${STATIC_URL}
 MEDIA_URL=${MEDIA_URL}
+CMS_URL=${CMS_URL}
 FULLCHAIN_FILENAME=fullchain.pem
 PRIVATE_KEY_FILENAME=privkey.pem
 NGINX_RELOAD_SLEEP_TIME_DEFAULT=24h
@@ -80,6 +81,17 @@ set_media_url() {
 	replace_values_in_dir ${SITES_ENABLED_DIR} "<media_url>" "${MEDIA_URL}"
 }
 
+set_cms_url() {
+	if [[ ! -z ${CMS_URL} ]] && [[ ! "${CMS_URL}" == "" ]]; then
+		cms_url_location_block="location ${CMS_URL} {	alias /www/danam_cms; autoindex on; sendfile  on; sendfile_max_chunk 80m; autoindex_exact_size off; }"
+	else
+		cms_url_location_block=""
+	fi
+	replace_values_in_dir ${SITES_ENABLED_DIR} "<cms_url_location_block>" "${cms_url_location_block}"
+
+	replace_values_in_dir ${SITES_ENABLED_DIR} "<cms_url>" "${CMS_URL}"
+}
+
 initialize_nginx_configuration() {
 	echo ""
 	echo "Initializing NginX to run on: ${DOMAIN_NAMES}"
@@ -93,6 +105,8 @@ initialize_nginx_configuration() {
 	set_nginx_environment_variables
 	set_static_url
 	set_media_url
+	set_cms_url
+
 }
 
 copy_nginx_configuration_files() {

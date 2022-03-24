@@ -34,7 +34,7 @@
 
 <body data-spy="scroll" data-target="#navSecondary" data-offset="172">
     <div class="body">
-        {% include "partials/danam_navbar.htm" %}
+        {% include "partials/danam_navbar.htm" with extra_links='partials/monument-link.htm' %}
         <div role="main" class="main">
             <section
                 class="page-header page-header-modern page-header-background page-header-background-pattern page-header-background-sm overlay overlay-color-dark overlay-show overlay-op-5"
@@ -42,74 +42,58 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 align-self-center p-static order-2 text-center">
-                            <h1><strong>How we work</strong></h1>
+                            <h1><strong>How We Work</strong></h1>
                         </div>
                     </div>
                 </div>
             </section>
 
             <div class="container">
-
                 <div class="row">
-                    <div class="col-lg-9 mb-4 mb-lg-0">
-                        <div class="row">
-                            <div class="col preview-classic-video-light">
-                                <!-- Glimpse of Kirtipur Area  -->
-                                <h4 class="text-decoration-none">
-                                    
-                                </h4>
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="1280" height="720" src="https://www.youtube.com/embed/Gte-FWsv5lE"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
-                                </div>
-                            </div>
+                    <div class="col preview-classic-video-light">
+                        <!-- Glimpse of Kirtipur Area  -->
+                        <h4 class="text-decoration-none">
+                            Glimpse of our work in Kirtipur
+                        </h4>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="1280" height="720" src="https://www.youtube.com/embed/Gte-FWsv5lE"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
                         </div>
-                        <hr class="tall">
-                        <div class="row">
-                            <div class="col preview-classic-video-light">
-                                <!-- architectural data collection and data feed  -->
-                                <h4 class="text-decoration-none">
-                                    If you are interested to know how the architects working in the NHDP team work,
-                                    please watch
-                                    this video!
-                                </h4>
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="1280" height="720" src="https://www.youtube.com/embed/Bnprdrxqn9M"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
-                                </div>
-                            </div>
+                    </div>
+                    <div class="col preview-classic-video-light">
+                        <!-- architectural data collection and data feed  -->
+                        <h4 class="text-decoration-none">
+                            NHDP’s Architectural Team at work
+                        </h4>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="1280" height="720" src="https://www.youtube.com/embed/Bnprdrxqn9M"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
                         </div>
-                        <hr class="tall">
-                        <div class="row">
-                            <div class="col preview-classic-video-light">
-                                <!-- Campus TV Kulturebe  -->
-                                <h4 class="text-decoration-none">
-                                    This is a short news clip about the pilot phase of the NHDP and how the team work
-                                    related to the
-                                    documentation of endangered heritage in Nepal has started to shape.
-                                </h4>
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="1280" height="720" src="https://www.youtube.com/embed/IU073Kcl2Vs"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="row pt-5">
+                    <div class="col preview-classic-video-light">
+                        <!-- Campus TV Kulturebe  -->
+                        <h4 class="text-decoration-none">
+                            Campus TV Feature of NHDP’s work on documentation of endangered cultural heritage in
+                            Nepal
+                        </h4>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="1280" height="720" src="https://www.youtube.com/embed/IU073Kcl2Vs"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
                         </div>
-                        <hr class="tall">
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
 
-
-    {% include 'partials/footer.htm' %}
     {% include 'partials/javascript.htm' %}
 </body>
 

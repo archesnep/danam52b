@@ -2,7 +2,7 @@
 {% load static %}
 {% block team_detail %}
 <div class="body">
-	{% include 'partials/danam_navbar.htm' %}
+	{% include 'partials/danam_navbar.htm' with extra_links='partials/monument-link.htm' %}
 	<div role="main" class="main">
 		<div class="container pt-5">
 			<div class="row py-4 mb-2">
@@ -16,9 +16,8 @@
 							data-appear-animation="maskUp" data-appear-animation-delay="500">Heidelberg Team</p>
 					</div>
 					<p class="lead appear-animation text-justify" data-appear-animation="fadeInUpShorter"
-						data-appear-animation-delay="700">Dikshya Karki is a researcher on Nepali arts and currently a
-						PhD candidate
-						at the Heidelberg Centre for Transcultural Studies. She holds an MA degree in Arts & Aesthetics
+						data-appear-animation-delay="700">Dikshya Karki is a researcher on Nepali arts, films and cities. She has a
+						PhD from the Heidelberg University. She holds an MA degree in Arts & Aesthetics
 						from Jawaharlal Nehru University, New Delhi.<br /> She worked as a researcher for the project
 						“Rethinking Art, Patis in Patan” and its exhibition in Photo Kathmandu 2015 as well as for a
 						retrospective exhibition of Nepali artist Birendra Pratap Singh.<br /> For NHDP, she contributes
