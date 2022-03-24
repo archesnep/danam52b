@@ -97,9 +97,19 @@ class Glossimages(models.Model):
 class MonumentOfMonth(models.Model):
     uuid = models.UUIDField(unique=True, default=uuid.uuid4, editable=False)
     title = models.CharField(_("Title"), max_length=255)
+    slug = models.SlugField(
+        default='',
+        editable=False,
+        max_length=300,
+    )
+    author = models.CharField(
+        _("Curated by"), max_length=100, blank=True, null=True)
+    thumbnail = models.ImageField(
+        _("Thumbnail"), upload_to='danam-cms/', blank=True, null=True)
     image = models.ImageField(
-        _("Primary Image"), upload_to='uploadedfiles/monument_of_month_img/', blank=True, null=True)
-    caption = models.CharField(_("Caption"), max_length=255, blank=True, null=True)
+        _("Primary Image"), upload_to='danam-cms/', blank=True, null=True)
+    caption = models.CharField(
+        _("Caption"), max_length=255, blank=True, null=True)
     description = RichTextUploadingField(_("Descriptions"), blank=True)
     date = models.DateField(_("Date"), default=timezone.now)
     status = models.CharField(
@@ -112,10 +122,42 @@ class MonumentOfMonth(models.Model):
         db_table = 'monument_of_month'
 
     def get_absolute_url(self):
-        return reverse("mom-detail", kwargs={"uuid": self.uuid})
+        kwargs = {
+            'uuid': self.uuid,
+            'slug': self.slug,
+        }
+        return reverse('mom-detail', kwargs=kwargs)
+
+    def save(self, *args, **kwargs):
+        value = self.title
+        self.slug = slugify(value, allow_unicode=True)
+        super().save(*args, **kwargs)
 
     @property
     def thumbnail_preview(self):
         if self.image:
             return mark_safe('<img src="{}" width="200" height="200" />'.format(self.image.url))
         return ""
+
+
+# pdf uploaders
+class PdfUploader(models.Model):
+    title = models.CharField(_("Title"), max_length=200)
+    author = models.CharField(max_length=100, null=True, blank=True)
+    publication_date = models.CharField(
+        _("Publication Date"), max_length=100, null=True, blank=True)
+    docfile = models.FileField(upload_to='danam_cms/')
+    uploaded_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        db_table = 'pdf_uploader'
+        ordering = ['-uploaded_at']
+
+    def __str__(self):
+        return self.title
+
+    def get_absolute_url(self):
+        kwargs = {
+            'pk': self.id
+        }
+        return reverse('pdf-detail', kwargs=kwargs)

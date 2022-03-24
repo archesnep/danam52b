@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.contrib import messages
 from django.utils.translation import ngettext
-from danam.models import News, Image, MonumentOfMonth
+from danam.models import News, Image, MonumentOfMonth, PdfUploader
 from danam.newsforms import NewsAdminForm
 
 
@@ -73,3 +73,9 @@ class MonumentOfMonthAdmin(admin.ModelAdmin):
 
 
 admin.site.register(MonumentOfMonth, MonumentOfMonthAdmin)
+
+
+class PdfuploaderAdmin(admin.ModelAdmin):
+    list_display = ('title', 'author', 'publication_date', 'uploaded_at')
+
+admin.site.register(PdfUploader, PdfuploaderAdmin)
