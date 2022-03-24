@@ -4,3 +4,4 @@ Monument_2021*.json
 letsencrypt
 *.pyc
 danam/sql_dump
+danam/backup
