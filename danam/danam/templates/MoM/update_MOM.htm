@@ -22,20 +22,36 @@
                                             value="{{form.initial.title}}" required="" id="id_title">
                                     </div>
                                 </div>
-                                <!-- image  -->
+                                <!-- Thumbnail image  -->
                                 <div class="form-group row">
                                     <div class="col-sm-3 col-form-label">
-                                        <label for="id_title"
-                                            class=" text-3 font-weight-bold text-color-dark">Image</label>
+                                        <label for="id_thumbnail"
+                                            class=" text-3 font-weight-bold text-color-dark">Thumbnail(800*800)</label>
                                     </div>
                                     <div class="col-sm-8">
-                                        <img src="{{form.initial.image.url}}" id="file-ip-1-preview" height="200">
+                                        <img src="{{form.initial.thumbnail.url}}" id="thumbnail-preview" height="200">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="col-sm-8">
+                                        <input type="file" name="thumbnail" accept="image/*" id="id_thumbnail"
+                                            onchange="showPreview(event);">
+                                    </div>
+                                </div>
+                                <!-- Primary image  -->
+                                <div class="form-group row">
+                                    <div class="col-sm-3 col-form-label">
+                                        <label for="id_image"
+                                            class=" text-3 font-weight-bold text-color-dark">Primary Image</label>
+                                    </div>
+                                    <div class="col-sm-8">
+                                        <img src="{{form.initial.image.url}}" id="primary-image-preview" height="200">
                                     </div>
                                 </div>
                                 <div class="form-group row">
                                     <div class="col-sm-8">
                                         <input type="file" name="image" accept="image/*" id="id_image"
-                                            onchange="showPreview(event);">
+                                            onchange="showPrimaryPreview(event);">
                                     </div>
                                 </div>
                                 <!-- caption  -->
@@ -44,7 +60,7 @@
                                         class="col-sm-2 col-form-label text-3 font-weight-bold text-color-dark">Caption</label>
                                     <div class="col-sm-8">
                                         <input type="text" name="caption" class="form-control"
-                                            value="{{form.initial.caption}}" required="" id="id_caption">
+                                            value="{{form.initial.caption}}" id="id_caption">
                                     </div>
                                 </div>
                                 <!-- description  -->
@@ -76,8 +92,9 @@
                                     <div class="col-sm-10">
                                         <input type='submit' value='Update Form'
                                             class="btn btn-3d btn-primary rounded-0 mr-3" />
-                                        <a href="{% url 'home' }" rel="noopener noreferrer"><input type='submit'
-                                                value='Cancel' class="btn btn-3d btn-danger rounded-0" /></a>
+                                        <a href="{% url 'home' %}" rel="noopener noreferrer">
+                                            <input type='submit' value='Cancel' class="btn btn-3d btn-danger rounded-0" />
+                                        </a>
                                     </div>
                                 </div>
                             </form>
@@ -101,11 +118,21 @@
     function showPreview(event) {
         if (event.target.files.length > 0) {
             var src = URL.createObjectURL(event.target.files[0]);
-            var preview = document.getElementById("file-ip-1-preview");
+            var preview = document.getElementById("thumbnail-preview");
             preview.src = src;
             preview.style.height = "200px";
             preview.style.width = "200px";
         }
     }
 </script>
+<script>
+    function showPrimaryPreview(event) {
+        if (event.target.files.length > 0) {
+            var src = URL.createObjectURL(event.target.files[0]);
+            var preview = document.getElementById("primary-image-preview");
+            preview.src = src;
+            preview.style.height = "200px";
+            preview.style.width = "200px";
+        }
+    }
 {% endblock page_js %}

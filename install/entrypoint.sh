@@ -83,7 +83,7 @@ set_media_url() {
 
 set_cms_url() {
 	if [[ ! -z ${CMS_URL} ]] && [[ ! "${CMS_URL}" == "" ]]; then
-		cms_url_location_block="location ${CMS_URL} {	alias /www/danam_cms; autoindex on; sendfile  on; sendfile_max_chunk 80m; autoindex_exact_size off; }"
+		cms_url_location_block="location ${CMS_URL} {	alias /www/danam-cms; autoindex on; sendfile  on; sendfile_max_chunk 80m; autoindex_exact_size off; }"
 	else
 		cms_url_location_block=""
 	fi

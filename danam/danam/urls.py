@@ -8,11 +8,17 @@ from django.views.generic import TemplateView
 
 from danam.views import (danamviews, glossary_form, glossaryviews, newsviews,
                          teamviews)
-from danam.views.danamviews import (MonumentOfMonthCreateView,
-                                    MonumentOfMonthDeleteView,
-                                    MonumentOfMonthDetailView,
-                                    MonumentOfMonthListView,
-                                    MonumentOfMonthUpdateView)
+from danam.views.danamviews import (
+     pdfupload,  
+     PdfListView, 
+     pdfedit,
+     PdfDeleteView, 
+     mom_upload,
+     mom_list, 
+     mom_detail, 
+     mom_update,
+     mom_delete,
+)
 from danam.views.download_views import DownloadFiles, OpenFile
 from danam.views.glossary_form import (AddData, DeleteData, ListData, PostData,
                                        UpdateData, UploadTerms)
@@ -112,14 +118,18 @@ urlpatterns = [
     path('associated-projects/', danamviews.associated_project,
          name='associated_project'),
     path('tinymce/', include('tinymce.urls')),
-    path('monument-of-the-month/upload/', MonumentOfMonthCreateView.as_view(), name='mom-create'),
-    path('monument-of-the-month/', MonumentOfMonthListView.as_view(), name='mom-list'),
-    path('monument-of-the-month/<uuid:uuid>/',
-         MonumentOfMonthDetailView.as_view(), name='mom-detail'),
-    path('monument-of-the-month/<uuid:uuid>/update/',
-         MonumentOfMonthUpdateView.as_view(), name='mom-update'),
-    path('monument-of-the-month/<uuid:uuid>/delete/',
-         MonumentOfMonthDeleteView.as_view(), name='mom-delete'),
+    path('monument-of-the-month/upload/',
+         danamviews.mom_upload, name='mom-create'),
+    path('monument-of-the-month/', danamviews.mom_list, name='mom-list'),
+    path('<uuid:uuid>/<str:slug>/',
+         danamviews.mom_detail, name='mom-detail'),
+    path('<uuid:uuid>/<str:slug>/update/',
+         danamviews.mom_update, name='mom-update'),
+    path('<uuid:uuid>/<str:slug>/delete/', danamviews.mom_delete, name='mom-delete'),
+    path('pdfs', PdfListView.as_view(), name='pdf-list'),
+    path('pdf-upload', danamviews.pdfupload, name='pdf-upload'),
+    path('pdf/update/<int:id>/', danamviews.pdfedit, name='pdf-edit'),
+    path('pdf/delete/<int:id>/', PdfDeleteView.as_view(), name='pdf-delete'),
     path('ckeditor/', include('ckeditor_uploader.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

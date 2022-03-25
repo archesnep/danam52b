@@ -5,12 +5,13 @@
 {% block content %}
 
 <div class="container">
+
     <div class="row pt-5 m-0">
         <div class="col mb-4 mb-lg-0">
             <h2 class="font-weight-normal text-7">{{monument.title}}</h2>
             <figure class="mt-0" style="float: left;">
                 <a href="{{monument.image.url}}" target="_blank" rel="noopener noreferrer">
-                    <img style="margin-right: 20px; margin-bottom: 0px;" height="400" src="{{monument.image.url}}" alt="{{monument.title}}">
+                    <img style="margin-right: 20px; margin-bottom: 0px;" height="500" src="{{monument.image.url}}" alt="{{monument.title}}">
                 </a>
                 <figcaption class="thumb-info-caption-text text-uppercase text-1 pb-0 mb-0" style="max-width: fit-content;">
                     {{monument.caption}}
@@ -25,17 +26,13 @@
     </div>
     <hr>
     {% if user.username != 'anonymous' %}
-    <a href="{% url 'mom-update' monument.uuid    %}"><button type="button"
+    <a href="{% url 'mom-update' monument.uuid monument.slug  %}"><button type="button"
             class="btn btn-3d btn-primary rounded-0 mb-2 mr-3">Update</button></a>
     {% endif %}
     {% if user.username != 'anonymous' %}
-    <a href="{% url 'mom-delete' monument.uuid    %}"><button type="button"
+    <a href="{% url 'mom-delete' monument.uuid monument.slug    %}"><button type="button"
             class="btn btn-3d btn-danger rounded-0 mb-2">Delete</button></a>
     {% endif %}
     <hr class="mb-5">
 </div>
-
 {% endblock %}
-
-{% block footer %}
-{% endblock footer %}

@@ -1,5 +1,5 @@
-from danam.danamforms import MonumentOfMonthUploadForm
-from danam.models import MonumentOfMonth
+from danam.danamforms import MonumentOfMonthForm, PdfUploadForm
+from danam.models import MonumentOfMonth, PdfUploader
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseRedirect
@@ -97,64 +97,104 @@ def heritage_walks(request):
     return render(request, 'partials/heritage-walk.htm')
 
 
-class MonumentOfMonthCreateView(CreateView):
-    def get(self, request, *args, **kwargs):
-        context = {'form': MonumentOfMonthUploadForm()}
-        return render(request, 'MoM/upload_MOM.htm', context)
-
-    def post(self, request, *args, **kwargs):
-        form = MonumentOfMonthUploadForm(request.POST, request.FILES)
+@login_required
+def mom_upload(request):
+    if request.method == 'POST':
+        form = MonumentOfMonthForm(request.POST or None, request.FILES or None)
         if form.is_valid():
-            mom = form.save()
-            mom.save()
-            messages.success(
-                request, "Monument of the month has been successfully created.")
-            return HttpResponseRedirect(reverse_lazy('mom-list'))
-        else:
-            messages.error(request, 'Invalid form submission.')
-            messages.error(request, form.errors)
-        return render(request, 'MoM/upload_MOM.htm', {'form': form})
+            form.save()
+            return redirect('mom-list')
+    else:
+        form = MonumentOfMonthForm()
+    context = {
+        'form': form,
+    }
+    return render(request, 'MoM/upload_MOM.htm', context)
+
+def mom_list(request):
+    mom_list = MonumentOfMonth.objects.filter(status='p')
+    context = {
+        'monument_list': mom_list
+    }
+    return render(request, 'MoM/mom_list.htm', context)
 
 
-class MonumentOfMonthListView(ListView):
-    model = MonumentOfMonth
-    context_object_name = 'monument_list'
-    queryset = MonumentOfMonth.objects.filter(status='p')
-    success_url = reverse_lazy('mom-list')
-    template_name = 'MoM/mom_list.htm'
+def mom_detail(request, uuid=None, slug=None):
+    mom = get_object_or_404(MonumentOfMonth, uuid=uuid, slug=slug)
+    context = {
+        'monument': mom
+    }
+    return render(request, 'MoM/mom_details.htm', context)
 
 
-class MonumentOfMonthDetailView(DetailView):
-    model = MonumentOfMonth
-    template_name = 'MoM/mom_details.htm'
-    context_object_name = 'monument'
-
-    # override the default id get_object method to uuid
-    def get_object(self, queryset=None):
-        return MonumentOfMonth.objects.get(uuid=self.kwargs.get("uuid"))
-
-
-class MonumentOfMonthUpdateView(UpdateView):
-    model = MonumentOfMonth
-    form_class = MonumentOfMonthUploadForm
-    slug_url_kwarg = 'uuid'
-    slug_field = 'uuid'
-    template_name = 'MoM/update_MOM.htm'
-    success_url = reverse_lazy('mom-list')
-
-    def get_initial(self):
-        initial = super(MonumentOfMonthUpdateView, self).get_initial()
-        return initial
-
-    def get_object(self, *args, **kwargs):
-        monument = get_object_or_404(MonumentOfMonth, uuid=self.kwargs['uuid'])
-        return monument
+def mom_update(request, uuid=None, slug=None):
+    monument = get_object_or_404(MonumentOfMonth, uuid=uuid, slug=slug)
+    if request.method == 'POST':
+        form = MonumentOfMonthForm(request.POST or None,
+                       request.FILES or None, instance=monument)
+        if form.is_valid():
+            form.save()
+            return redirect('mom-list')
+    else:
+        form = MonumentOfMonthForm(instance=monument)
+    return render(request, 'MoM/update_MOM.htm', {'form': form})
 
 
-class MonumentOfMonthDeleteView(DeleteView):
-    model = MonumentOfMonth
-    slug_url_kwarg = 'uuid'
-    slug_field = 'uuid'
-    context_object_name = 'monument'
-    success_url = reverse_lazy('mom-list')
-    template_name = 'MoM/confirm_delete.htm'
+def mom_delete(request, uuid=None, slug=None):
+    monument = get_object_or_404(MonumentOfMonth, uuid=uuid, slug=slug)
+    if request.method == 'POST':
+        monument.delete()
+        return redirect('mom-list')
+    context = {
+        'monument': monument
+    }
+    return render(request, 'MoM/confirm_delete.htm', context)
+
+
+
+def pdfupload(request):
+    if request.method == 'POST':
+        form = PdfUploadForm(request.POST or None, request.FILES or None)
+        if form.is_valid():
+            form.save()
+            return redirect('pdf-list')
+    else:
+        form = PdfUploadForm()
+    context = {
+        'form': form
+    }
+    return render(request, 'partials/pdf_upload_form.htm', context)
+
+
+class PdfListView(ListView):
+    model = PdfUploader
+    template_name = 'partials/list_pdfs.htm'
+
+    def get_context_data(self, **kwargs):
+        context = super(PdfListView, self).get_context_data(**kwargs)
+        context['pdfs'] = PdfUploader.objects.all()
+        return context
+
+
+def pdfedit(request, id=None):
+    pdf = get_object_or_404(PdfUploader, id=id)
+    if request.method == 'POST':
+        form = PdfUploadForm(request.POST or None,
+                             request.FILES or None, instance=pdf)
+        if form.is_valid():
+            form.save()
+            return redirect('pdf-list')
+
+    template_name = 'partials/update_pdf.htm'
+    context = {'form': PdfUploadForm(instance=pdf)}
+    return render(request, template_name, context)
+
+
+
+class PdfDeleteView(DeleteView):
+    model = PdfUploader
+    slug_url_kwarg = 'id'
+    slug_field = 'id'
+    context_object_name = 'pdf'
+    success_url = reverse_lazy('pdf-list')
+    template_name = 'partials/delete_pdf.htm'
