@@ -30,6 +30,10 @@ def about_am(request):
     return render(request, 'partials/team/about-am.htm')
 
 
+def about_em(request):
+    return render(request, 'partials/team/about-em.htm')
+
+
 def about_bb(request):
     return render(request, 'partials/team/about-bb.htm')
 

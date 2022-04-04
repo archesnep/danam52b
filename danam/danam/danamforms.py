@@ -1,8 +1,9 @@
-from django import forms
-from danam.models import MonumentOfMonth, PdfUploader
 from ckeditor_uploader.widgets import CKEditorUploadingWidget
-from django.utils.translation import gettext_lazy as _
+from django import forms
 from django.core.exceptions import NON_FIELD_ERRORS
+from django.utils.translation import gettext_lazy as _
+
+from danam.models import MonumentOfMonth, PdfUploader
 
 
 

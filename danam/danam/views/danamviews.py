@@ -2,8 +2,8 @@ from danam.danamforms import MonumentOfMonthForm, PdfUploadForm
 from danam.models import MonumentOfMonth, PdfUploader
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
-from django.http import HttpResponse, HttpResponseRedirect
-from django.shortcuts import get_object_or_404, render
+from django.http import HttpResponseRedirect
+from django.shortcuts import get_object_or_404, redirect, render
 from django.urls import reverse_lazy
 from django.views.generic import (CreateView, DeleteView, DetailView, ListView,
                                   UpdateView)
@@ -42,10 +42,6 @@ def glossary(request):
 
 def date_conversion(request):
     return render(request, 'partials/dcc.htm')
-
-
-def monument_of_month(request):
-    return render(request, 'partials/monument-of-the-month.htm')
 
 
 def design(request):
@@ -92,7 +88,6 @@ def phudyah_dipankara(request):
     return render(request, 'partials/phudyah_dipankara.html')
 
 
-
 def heritage_walks(request):
     return render(request, 'partials/heritage-walk.htm')
 
@@ -110,6 +105,7 @@ def mom_upload(request):
         'form': form,
     }
     return render(request, 'MoM/upload_MOM.htm', context)
+
 
 def mom_list(request):
     mom_list = MonumentOfMonth.objects.filter(status='p')
@@ -130,8 +126,7 @@ def mom_detail(request, uuid=None, slug=None):
 def mom_update(request, uuid=None, slug=None):
     monument = get_object_or_404(MonumentOfMonth, uuid=uuid, slug=slug)
     if request.method == 'POST':
-        form = MonumentOfMonthForm(request.POST or None,
-                       request.FILES or None, instance=monument)
+        form = MonumentOfMonthForm(request.POST or None, request.FILES or None, instance=monument)
         if form.is_valid():
             form.save()
             return redirect('mom-list')
@@ -149,7 +144,6 @@ def mom_delete(request, uuid=None, slug=None):
         'monument': monument
     }
     return render(request, 'MoM/confirm_delete.htm', context)
-
 
 
 def pdfupload(request):
@@ -188,7 +182,6 @@ def pdfedit(request, id=None):
     template_name = 'partials/update_pdf.htm'
     context = {'form': PdfUploadForm(instance=pdf)}
     return render(request, template_name, context)
-
 
 
 class PdfDeleteView(DeleteView):

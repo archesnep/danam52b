@@ -92,9 +92,9 @@
                                     <div class="col-sm-10">
                                         <input type='submit' value='Update Form'
                                             class="btn btn-3d btn-primary rounded-0 mr-3" />
-                                        <a href="{% url 'home' %}" rel="noopener noreferrer">
-                                            <input type='submit' value='Cancel' class="btn btn-3d btn-danger rounded-0" />
-                                        </a>
+                                        <input class="btn btn-3d btn-primary rounded-0 mr-3" selected="" 
+                                        type="button" value="Cancel" 
+                                        onclick="window.history.go(-1);"/>
                                     </div>
                                 </div>
                             </form>
@@ -107,6 +107,9 @@
 </div>
 
 {% endblock content %}
+
+{% block footer %}
+{% endblock footer %}
 
 {# Page javascript #}
 {% block page_js %}
@@ -135,4 +138,5 @@
             preview.style.width = "200px";
         }
     }
+</script>    
 {% endblock page_js %}
