@@ -8,17 +8,9 @@ from django.views.generic import TemplateView
 
 from danam.views import (danamviews, glossary_form, glossaryviews, newsviews,
                          teamviews)
-from danam.views.danamviews import (
-     pdfupload,  
-     PdfListView, 
-     pdfedit,
-     PdfDeleteView, 
-     mom_upload,
-     mom_list, 
-     mom_detail, 
-     mom_update,
-     mom_delete,
-)
+from danam.views.danamviews import (PdfDeleteView, PdfListView, mom_delete,
+                                    mom_detail, mom_list, mom_update,
+                                    mom_upload, pdfedit, pdfupload)
 from danam.views.download_views import DownloadFiles, OpenFile
 from danam.views.glossary_form import (AddData, DeleteData, ListData, PostData,
                                        UpdateData, UploadTerms)
@@ -79,6 +71,7 @@ urlpatterns = [
     path('about_pn/', teamviews.about_pn, name='about_pn'),
     path('about-sabrina-dangol/', teamviews.about_sad, name='about_sad'),
     path('about-monalisa-maharjan/', teamviews.about_mmn, name='about_mmn'),
+    path('about-bishal-diganta/', teamviews.about_bishal_diganta, name='about_bishal_diganta'),
     path('glossary/', login_required(TemplateView.as_view(
         template_name="glossary/glossary.html"))),
     path('glossary/add/', AddData.as_view()),
@@ -109,11 +102,17 @@ urlpatterns = [
     path('how-to-find-monument/', danamviews.how_to_search, name='how_to_find'),
     path('heritage-focus-area-pimbahal/', danamviews.pimbahal, name='pimbahal'),
     path('heritage-focus-area-bhurticomplex/', danamviews.bhurticomplex, name='bhurticomplex'),
+    path('heritage-focus-area-ikalakhu/', danamviews.ikalakhu, name='ikalakhu'),
+    path('heritage-focus-area-sundhara/', danamviews.sundhara, name='sundhara'),
     path('heritage-foucus-area-cyasal/', danamviews.cyasal, name='cyasal'),
+    path('heritage-foucus-area-devagala-kirtipur/', danamviews.devagala_kritipur, name='devagala_kritipur'),
+    path('heritage-foucus-area-baghabhairava-kirtipur/', danamviews.baghabhairava_kritipur, name='baghabhairava_kritipur'),
+    path('heritage-foucus-area-patan-durbar-square/', danamviews.patan_durbar_square, name='patan_durbar_square'),
+    path('heritage-foucus-area-sinja-valley/', danamviews.sinja_valley, name='sinja_valley'),
+    path('heritage-foucus-area-sunaguthi/', danamviews.sunaguthi, name='sunaguthi'),
+    path('heritage-foucus-area-bungamati/', danamviews.bungamati, name='bungamati'),
     path('publications/', danamviews.published_articles, name='publications'),
     path('phuydah-dipankara/', danamviews.phudyah_dipankara, name='phudyah-dipankara'),
-    path('heritage-walks/', danamviews.heritage_walks, name='heritage-walks'),
-
     path('associated-projects/', danamviews.associated_project,
          name='associated_project'),
     path('tinymce/', include('tinymce.urls')),
@@ -129,7 +128,6 @@ urlpatterns = [
     path('pdf-upload', danamviews.pdfupload, name='pdf-upload'),
     path('pdf/update/<int:id>/', danamviews.pdfedit, name='pdf-edit'),
     path('pdf/delete/<int:id>/', PdfDeleteView.as_view(), name='pdf-delete'),
-    path('ckeditor/', include('ckeditor_uploader.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 if settings.SHOW_LANGUAGE_SWITCH is True:

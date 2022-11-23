@@ -9,7 +9,6 @@ from django.utils.text import slugify
 from tinymce.models import HTMLField
 from django.utils.html import mark_safe
 from django.template.defaultfilters import truncatechars
-from ckeditor_uploader.fields import RichTextUploadingField
 from django.utils.translation import gettext_lazy as _
 from django.utils import timezone
 
@@ -110,7 +109,7 @@ class MonumentOfMonth(models.Model):
         _("Primary Image"), upload_to='danam-cms/', blank=True, null=True)
     caption = models.CharField(
         _("Caption"), max_length=255, blank=True, null=True)
-    description = RichTextUploadingField(_("Descriptions"), blank=True)
+    description = models.TextField(blank=True)
     date = models.DateField(_("Date"), default=timezone.now)
     status = models.CharField(
         max_length=1, choices=STATUS_CHOICES, default='d')
@@ -143,15 +142,17 @@ class MonumentOfMonth(models.Model):
 # pdf uploaders
 class PdfUploader(models.Model):
     title = models.CharField(_("Title"), max_length=200)
+    identifier = models.CharField(_("Identifier"), null=True, blank=True, max_length=200)
+    publisher = models.CharField(_("Publisher"), null=True, blank=True, max_length=200)
     author = models.CharField(max_length=100, null=True, blank=True)
     publication_date = models.CharField(
         _("Publication Date"), max_length=100, null=True, blank=True)
-    docfile = models.FileField(upload_to='danam_cms/')
+    docfile = models.FileField(upload_to='danam-cms/')
     uploaded_at = models.DateTimeField(auto_now_add=True)
 
     class Meta:
         db_table = 'pdf_uploader'
-        ordering = ['-uploaded_at']
+        ordering = ['-publication_date']
 
     def __str__(self):
         return self.title

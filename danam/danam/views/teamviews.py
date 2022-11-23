@@ -1,5 +1,5 @@
-from django.shortcuts import render
 from arches.app.models.system_settings import settings
+from django.shortcuts import render
 
 
 def team(request):
@@ -195,3 +195,7 @@ def about_sad(request):
 
 def about_mmn(request):
     return render(request, 'partials/team/about-mmn.htm')
+
+
+def about_bishal_diganta(request):
+    return render(request, 'partials/team/about-bishal-diganta.htm')

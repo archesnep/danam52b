@@ -39,6 +39,11 @@
         {{ app_settings.APP_NAME }} - Welcome
         {% endblock %}
     </title>
+     <!--Tinymce Text-Editor (Must be in Head Tag) -->
+     <script src="{% static 'js/tinymce/tinymce.min.js' %}"></script>
+     <script type="text/javascript" src="{% static 'js/tinymce/custom.js' %}"></script>
+     <!-- WYSIWYG Editor -->
+     {{ form.media }}
 </head>
 
 

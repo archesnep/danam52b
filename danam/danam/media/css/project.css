@@ -153,3 +153,25 @@
 .card-summary-section .card-summary .card-summary-add:hover {
     cursor: pointer;
 }
+
+/*-------------------------Try for footnotes -----------------*/
+.footnotes {
+    border: ridge 2px;
+    font-size: 13px;
+    font-style: normal;
+    font-family: system-ui;
+}
+
+.footnotes h2 {
+    font-size: 17px;
+    margin-top: 2px;
+}
+
+.footnotes cite {
+    font-style: normal;
+}
+
+.footnotes ol, ul, li {
+    font-style: normal;
+}
+

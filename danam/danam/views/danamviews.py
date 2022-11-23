@@ -48,6 +48,7 @@ def design(request):
     return render(request, 'partials/design.htm')
 
 
+# heritage focus areas
 def pimbahal(request):
     return render(request, 'partials/feature_search/pimbahal.htm')
 
@@ -56,10 +57,43 @@ def bhurticomplex(request):
     return render(request, 'partials/feature_search/bhurti.htm')
 
 
+def ikalakhu(request):
+    return render(request, 'partials/feature_search/ikalakhu.htm')
+
+
+def sundhara(request):
+    return render(request, 'partials/feature_search/sundhara.htm')
+
+
+def devagala_kritipur(request):
+    return render(request, 'partials/feature_search/devagala_area_kritipur.htm')
+
+
+def baghabhairava_kritipur(request):
+    return render(request, 'partials/feature_search/baghabhairava_kritipur.htm')
+
+
 def cyasal(request):
     return render(request, 'partials/feature_search/cyasal.htm')
 
 
+def patan_durbar_square(request):
+    return render(request, 'partials/feature_search/patan_durbar_square.htm')
+
+
+def sinja_valley(request):
+    return render(request, 'partials/feature_search/sinja.htm')
+
+
+def sunaguthi(request):
+    return render(request, 'partials/feature_search/sunaguthi.htm')
+
+
+def bungamati(request):
+    return render(request, 'partials/feature_search/bungamati.htm')
+
+
+# end of heritage focus areas 
 def associated_project(request):
     return render(request, 'partials/associated_project.htm')
 
@@ -86,10 +120,6 @@ def published_articles(request):
 
 def phudyah_dipankara(request):
     return render(request, 'partials/phudyah_dipankara.html')
-
-
-def heritage_walks(request):
-    return render(request, 'partials/heritage-walk.htm')
 
 
 @login_required
@@ -182,6 +212,7 @@ def pdfedit(request, id=None):
     template_name = 'partials/update_pdf.htm'
     context = {'form': PdfUploadForm(instance=pdf)}
     return render(request, template_name, context)
+
 
 
 class PdfDeleteView(DeleteView):

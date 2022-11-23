@@ -21,7 +21,7 @@
                 <div class="header-column">
                     <div class="header-row">
                         <div class="col-md-12 align-self-center p-static order-2">
-                            <h1 class="font-weight-semibold text-8 text-uppercase">Documents</h1>
+                            <h1 class="font-weight-semibold text-8 text-uppercase">Reports</h1>
                         </div>
                     </div>
                 </div>
@@ -34,23 +34,32 @@
 <div role="main" class="main">
     <section class="section section-default pt-5 m-0">
         <div class="container">
+            {% if user.username != 'anonymous' %}
+            <p>
+                <a href="{% url 'pdf-upload' %}" rel="noopener noreferrer">
+                    <button type="button" class="btn btn-outline btn-rounded btn-primary  btn-with-arrow mb-2">Upload
+                        Document<span><i class="fas fa-chevron-right"></i></span></button>
+                </a>
+                {% endif %}
+            </p>
+            {% csrf_token %}
             <table class="table table-hover">
                 <thead>
                     <tr>
                         <th>
-                            #
+                            Document Name
                         </th>
                         <th>
-                            Document Name
+                            DANAM identifier (if applicable) 
                         </th>
                         <th>
                             Author
                         </th>
                         <th>
                             Publication Date
-                        </th>    
+                        </th>
                         <th>
-                            Uploaded Date
+                            Publisher
                         </th>
                         <th colspan="2">
                             Actions
@@ -61,10 +70,10 @@
                 <tbody>
                     <tr>
                         <td>
-                            {{ forloop.counter }}
+                            <a href="{{ obj.docfile.url }}" target="_blank" rel="noopener noreferrer">{{obj.title}}</a>
                         </td>
                         <td>
-                            <a href="{{ obj.docfile.url }}" target="_blank" rel="noopener noreferrer">{{obj.title}}</a>
+                            {{obj.identifier}}
                         </td>
                         <td>
                             {{obj.author}}
@@ -73,16 +82,16 @@
                             {{obj.publication_date}}
                         </td>
                         <td>
-                            {{ obj.uploaded_at|date:"d-M-Y" }}
+                            {{ obj.publisher }}
                         </td>
                         <td class="button-position">
                             <a href="{% url 'pdf-edit' obj.id   %}">
-                                <i class="fas fa-solid fa-pen-to-square pr-0"></i>                        
+                                <i class="fas fa-solid fa-pen-to-square pr-0"></i>
                             </a>
                         </td>
                         <td class="button-position">
                             <a href="{% url 'pdf-delete' obj.id   %}">
-                                <i class="fa-solid fa-trash-can pl-0"></i>                        
+                                <i class="fa-solid fa-trash-can pl-0"></i>
                             </a>
                         </td>
                     </tr>
@@ -102,4 +111,3 @@
 {% endblock page_js %}
 {% block footer %}
 {% endblock footer %}
-

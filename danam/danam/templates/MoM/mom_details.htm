@@ -8,7 +8,10 @@
 
     <div class="row pt-5 m-0">
         <div class="col mb-4 mb-lg-0">
-            <h2 class="font-weight-normal text-7">{{monument.title}}</h2>
+            <h2 class="font-weight-normal text-7 mb-2">{{monument.title}}</h2> 
+            {% if monument.author %}
+            <h4 class="font-weight-normal text-4 mt-0">Curated by {{monument.author}}</h4>
+            {% endif %}
             <figure class="mt-0" style="float: left;">
                 <a href="{{monument.image.url}}" target="_blank" rel="noopener noreferrer">
                     <img style="margin-right: 20px; margin-bottom: 0px;" height="500" src="{{monument.image.url}}"

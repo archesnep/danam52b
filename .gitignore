@@ -5,3 +5,4 @@ letsencrypt
 *.pyc
 danam/sql_dump
 danam/backup
+danam/*.json

@@ -125,3 +125,8 @@
     .thumb-info-show-more-content p {
         color: #dee2e6;
     }
+
+    /* pdf uploader  */
+    table thead th {
+        vertical-align: text-top !important;
+    }

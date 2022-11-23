@@ -92,7 +92,6 @@ INSTALLED_APPS = (
     'compressor',
     'crispy_forms',
     'danam',
-    'ckeditor',
 )
 
 ALLOWED_HOSTS = []
@@ -278,32 +277,32 @@ LANGUAGES = [
 # override this to permenantly display/hide the language switcher
 SHOW_LANGUAGE_SWITCH = len(LANGUAGES) > 1
 
-# ckeditor settings
-CKEDITOR_BASEPATH = "/media/ckeditor/ckeditor/"
-CKEDITOR_UPLOAD_PATH = "uploadedfiles/ckeditor/uploads/"
-CKEDITOR_CONFIGS = {
-    'default': {
-        'toolbar': 'Custom',
-        'toolbar_Custom': [["Format", "Bold", "Italic", "Underline", "Strike", "SpellChecker"],
-                           ['NumberedList', 'BulletedList', "Indent", "Outdent", 'JustifyLeft', 'JustifyCenter',
-                            'JustifyRight', 'JustifyBlock'],
-                           ["Image", "Table", "Link", "Unlink", "Anchor", "SectionLink",
-                               "Subscript", "Superscript"], ['Undo', 'Redo'], ["Source"],
-                           ["Maximize"]],
+# # ckeditor settings
+# CKEDITOR_BASEPATH = "/media/ckeditor/ckeditor/"
+# CKEDITOR_UPLOAD_PATH = "uploadedfiles/ckeditor/uploads/"
+# CKEDITOR_CONFIGS = {
+#     'default': {
+#         'toolbar': 'Custom',
+#         'toolbar_Custom': [["Format", "Bold", "Italic", "Underline", "Strike", "SpellChecker"],
+#                            ['NumberedList', 'BulletedList', "Indent", "Outdent", 'JustifyLeft', 'JustifyCenter',
+#                             'JustifyRight', 'JustifyBlock'],
+#                            ["Image", "Table", "Link", "Unlink", "Anchor", "SectionLink",
+#                                "Subscript", "Superscript"], ['Undo', 'Redo'], ["Source"],
+#                            ["Maximize"]],
 
-        # 'extraPlugins': 'image2',
-        # 'extraPlugins': 'preview',
-        'tabSpaces': 4,
-        'extraPlugins': ','.join([
-            'preview',
-            'devtools',  # Shows a tooltip in dialog boxes for developers
-            'codesnippet',  # Used to add code snippets
-            'image2',  # Loads new and better image dialog
-            'embed',  # Used for embedding media (YouTube/Slideshare etc)
-            'tableresize',  # Used to allow resizing of columns in tables
-        ]),
-    }
-}
+#         # 'extraPlugins': 'image2',
+#         # 'extraPlugins': 'preview',
+#         'tabSpaces': 4,
+#         'extraPlugins': ','.join([
+#             'preview',
+#             'devtools',  # Shows a tooltip in dialog boxes for developers
+#             'codesnippet',  # Used to add code snippets
+#             'image2',  # Loads new and better image dialog
+#             'embed',  # Used for embedding media (YouTube/Slideshare etc)
+#             'tableresize',  # Used to allow resizing of columns in tables
+#         ]),
+#     }
+# }
 
 
 try:
