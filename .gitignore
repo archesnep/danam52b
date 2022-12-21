@@ -6,3 +6,4 @@ letsencrypt
 danam/sql_dump
 danam/backup
 danam/*.json
+danam/danam/danam-cms
